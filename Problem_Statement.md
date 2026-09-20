@@ -27,6 +27,6 @@ That required treating this as one cross-functional investigation rather than fo
 
 ## Why This Was Worth Doing Properly
 
-A rushed diagnosis here would have been easy to get wrong in either direction — either forcing a tidy "one root cause" story the data doesn't actually support, or missing a real cross-functional link because each team's own dashboard looked fine on its own. The approach taken in this project was to test every assumption directly against the data — including the ones that turned out **not** to hold up (see the [statistical testing results](./04_Statistics/) for the honestly-reported null findings) — rather than assume a hypothesis was correct just because it sounded plausible.
+A rushed diagnosis here would have been easy to get wrong in either direction — either forcing a tidy "one root cause" story the data doesn't actually support, or missing a real cross-functional link because each team's own dashboard looked fine on its own. The approach taken in this project was to test every assumption directly against the data — including the ones that turned out **not** to hold up (see the [statistical testing results](https://github.com/imsatya16/novabyte_revenue_analytics/tree/main/04_Statistics) for the honestly-reported null findings) — rather than assume a hypothesis was correct just because it sounded plausible.
 
-The full diagnosis, methodology, and resulting recommendations are documented in [`README.md`](./README.md).
+The full diagnosis, methodology, and resulting recommendations are documented in [`README.md`](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/README.md).
