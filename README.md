@@ -58,14 +58,14 @@ Full statistical validation (chi-square, t-test, correlation, ANOVA, trend analy
 ## Repository Structure
 
 ```
-├── 00_Raw_Data/              Original uncleaned CSVs
-├── 01_Exploration/           Data quality findings, relationship diagram, KPIs
-├── 02_Excel_Analysis/        Cleaned Sales & Finance workbook, pivots, charts
-├── 03_SQL/                   Schema setup + 8 analysis queries, findings report
-├── 04_Statistics/            Hypothesis tests, workbook, detailed report
-├── 05_PowerBI/                Dashboard (.pbix), data model, findings report, screenshots
-├── 06_Recommendations/        7 evidence-backed business recommendations
-└── 07_Clean_Dataset/          Final cleaned versions of all 5 tables
+├── 00_Raw_Data/                                          Original uncleaned CSVs
+├── 01_Data_Exploration_NovaByte.pdf/                     Data quality findings, relationship diagram, KPIs
+├── 02_NovaByte_Task2_Excel_Workbook.xlsx/                Cleaned Sales & Finance workbook, pivots, charts
+├── 03_SQL/                                               Schema setup + 8 analysis queries, findings report
+├── 04_Statistics/                                        Hypothesis tests, workbook, detailed report
+├── 05_PowerBI/                                           Dashboard (.pbix), data model, findings report, screenshots
+├── 06_NovaByte_Task5_Business_Recommendations.pdf/       7 evidence-backed business recommendations
+└── 07_Clean_Dataset/                                     Final cleaned versions of all 5 tables
 ```
 
 ## A Note on the Process
