@@ -32,16 +32,16 @@ Full statistical validation (chi-square, t-test, correlation, ANOVA, trend analy
 ![Revenue Overview](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/01%20Revenue%20Overview.png)
 
 **Page 2 — Marketing Effectiveness**
-![Marketing Effectiveness](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/02 Marketing Effectiveness.png)
+![Marketing Effectiveness](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/02%20Marketing%20Effectiveness.png)
 
 **Page 3 — Support Health**
-![Support Health](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/03 Support Health.png)
+![Support Health](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/03%20Support%20Health.png)
 
 **Page 4 — Finance Watch**
-![Finance Watch](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/04 Finance Watch.png)
+![Finance Watch](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/04%20Finance%20Watch.png)
 
 **Page 5 — Cross-Functional View**
-![Cross-Functional View](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/05 Cross-Functional View.png)
+![Cross-Functional View](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/Screenshots/05%20Cross-Functional%20View.png)
 
 > The full interactive file is [`05_PowerBI/NovaByte_Dashboard.pbix`](https://github.com/imsatya16/novabyte_revenue_analytics/blob/main/05_PowerBI/NovaByte_Dashboard.pbix) — open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to explore it live, since `.pbix` files can't be previewed directly on GitHub.
 
