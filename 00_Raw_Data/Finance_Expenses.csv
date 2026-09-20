@@ -1,0 +1,1026 @@
+Expense_ID,Department,Category,Vendor,Amount_INR,Budget_Allocated_INR,Variance_INR,Expense_Date,Approval_Status,Payment_Mode,Fiscal_Year,Remarks
+EXP-00594,,Cloud Infrastructure,Slack,209189,170793.17,38395.83,2023-07-19,Pending,Vendor Credit,FY2023-2024,Under review
+EXP-00495,Operations,Utilities,HubSpot,6214,7523.05,-1309.05,2023-10-10,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00587,Sales,Marketing Spend,SAP,499533,550589.56,-51056.56,2024-01-19,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00178,Finance,Utilities,Infosys,403234,426617.54,-23383.54,16/03/2025,Approved,Bank Transfer,FY2024-2025,
+EXP-00869,,Cloud Infrastructure,TCS,187461,156297.94,31163.06,2023-02-06,Approved,Credit Card,FY2022-2023,
+EXP-00674,Sales,Hardware,TCS,352393,449410.33,-97017.33,2024-03-14,Approved,Bank Transfer,FY2023-2024,
+EXP-00181,Engineering,Hardware,Slack,361946,354476.37,7469.63,14/08/2023,Pending,Vendor Credit,FY2023-2024,Urgent
+EXP-00277,Support,Office Supplies,Wipro,398503,438557.67,-40054.67,2023-08-07,Approved,Credit Card,FY2023-2024,
+EXP-00515,Support,Consulting Fees,Oracle,345565,382355.25,-36790.25,2024-05-25,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00339,Engineering,Hardware,HubSpot,441930,426169.24,15760.76,2025-03-24,Approved,Credit Card,FY2024-2025,Under review
+EXP-00555,,Office Supplies,SAP,304214,345611.18,-41397.18,2025-02-01,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00803,Support,Travel,Freshdesk,65791,59739.7,6051.3,2024-02-24,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00875,Engineering,Software Licenses,Google Cloud,49237,,7036.11,2024-06-14,Pending,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00691,HR,Office Supplies,TCS,365283,359381.54,5901.46,2024-12-19,Approved,Credit Card,FY2024-2025,
+EXP-00233,HR,Consulting Fees,Google Cloud,201346,197464.53,,2025-03-03,Pending,Bank Transfer,FY2024-2025,Under review
+EXP-00071,Sales,Hardware,HubSpot,375484,303740.88,71743.12,2024-06-11,Pending,Bank Transfer,FY2024-2025,One-time
+EXP-00860,Operations,Cloud Infrastructure,Wipro,91274,117271.6,-25997.6,2024-03-16,Approved,Petty Cash,FY2023-2024,
+EXP-00607,Finance,Hardware,Jira,58546,54790.73,3755.27,2024-02-02,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00651,,Marketing Spend,SAP,10904,13676.8,-2772.8,16/02/2023,Approved,Vendor Credit,FY2022-2023,Duplicate entry
+EXP-00652,Operations,Utilities,AWS,65481,81303.61,-15822.61,2023-02-05,Pending,Vendor Credit,FY2022-2023,Duplicate entry
+EXP-00369,Marketing,Marketing Spend,HubSpot,66000,78840.27,-12840.27,2024-02-19,Approved,Credit Card,FY2023-2024,Under review
+EXP-00721,Finance,Office Supplies,Slack,32147,36235.03,-4088.03,2023-11-17,Approved,Credit Card,FY2023-2024,
+EXP-00390,,Consulting Fees,Wipro,312310,339411.41,-27101.41,2023-12-10,Pending,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00520,HR,Utilities,Infosys,145866,176369.11,-30503.11,2024-10-24,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00971,Finance,Training,Oracle,-270391,224861.48,45529.52,2023-03-07,Approved,Credit Card,FY2022-2023,Duplicate entry
+EXP-00411,HR,Hardware,Microsoft Azure,410046,483620.72,-73574.72,2024-06-13,Approved,Petty Cash,FY2024-2025,
+EXP-00354,Sales,Salaries,Oracle,406494,,-13532.0,2024-09-18,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00600,Engineering,Travel,Zoom,66859,75521.94,-8662.94,2024-05-30,Approved,Petty Cash,FY2024-2025,
+EXP-00034,Support,Consulting Fees,Oracle,389612,356713.15,32898.85,13/07/2024,Pending,Petty Cash,FY2024-2025,
+EXP-00200,Sales,Salaries,TCS,397643,366588.32,,2024-01-18,Pending,Petty Cash,FY2023-2024,
+EXP-00925,Sales,Software Licenses,Google Cloud,367122,465065.53,-97943.53,2023-06-07,Pending,Credit Card,FY2023-2024,One-time
+EXP-00546,Marketing,Travel,Adobe,65667,72499.12,-6832.12,2023-05-31,Approved,Petty Cash,FY2023-2024,
+EXP-00602,,Salaries,Wipro,350446,293167.5,57278.5,2024-04-13,Approved,Vendor Credit,FY2024-2025,
+EXP-00083,Support,Maintenance,Wipro,215496,269360.68,,2024-05-15,Rejected,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00750,Sales,Recruitment,Freshdesk,7227,9023.9,-1796.9,2023-07-24,Approved,Vendor Credit,FY2023-2024,
+EXP-00172,Operations,Travel,AWS,481644,431586.58,50057.42,2024-02-16,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00531,Sales,Recruitment,AWS,-214583,220195.61,-5612.61,2023-08-19,Approved,Petty Cash,FY2023-2024,
+EXP-00337,Sales,Utilities,HubSpot,71717,89231.77,-17514.77,2024-10-08,Approved,Credit Card,FY2024-2025,Urgent
+EXP-00832,Engineering,Training,Infosys,352092,424330.22,-72238.22,2024-09-05,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00717,HR,Office Supplies,Internal,3606815,3411626.72,195188.28,2024-06-21,Pending,Bank Transfer,FY2024-2025,Recurring
+EXP-00601,Sales,Cloud Infrastructure,Wipro,128850,118183.64,10666.36,2023-08-05,Approved,Vendor Credit,FY2023-2024,
+EXP-00275,Operations,Utilities,SAP,166769,196065.31,-29296.31,2023-09-06,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00466,Support,Software Licenses,Adobe,454117,,-112004.76,2023-05-31,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00663,Sales,Recruitment,Google Cloud,225901,254208.33,-28307.33,2024-08-16,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00954,Engineering,Training,AWS,173047,149662.31,,2023-11-19,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00024,Finance,Maintenance,Infosys,247370,268703.57,-21333.57,2024-09-19,Approved,Bank Transfer,FY2024-2025,
+EXP-00430,Engineering,Marketing Spend,Wipro,295595,333028.71,-37433.71,2024-09-20,Pending,Vendor Credit,FY2024-2025,Urgent
+EXP-00219,Finance,Training,HubSpot,344780,378391.66,-33611.66,2023-02-19,Approved,Bank Transfer,FY2022-2023,
+EXP-00318,Finance,Training,Slack,228003,192790.08,35212.92,2024-03-15,Approved,Credit Card,FY2023-2024,Under review
+EXP-00235,Support,Training,Internal,205500,166546.9,38953.1,2023-09-11,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00231,Sales,Utilities,Adobe,336583,372109.92,-35526.92,2023-02-26,Approved,Credit Card,FY2022-2023,Under review
+EXP-00680,Support,Recruitment,Jira,76037,88996.48,-12959.48,2023-10-30,Approved,Bank Transfer,FY2023-2024,
+EXP-00301,Support,Hardware,Internal,51292,52199.26,-907.26,2023-11-20,Approved,Petty Cash,FY2023-2024,Urgent
+EXP-00617,Support,Training,HubSpot,-307191,328740.27,-21549.27,2025-01-27,Approved,Bank Transfer,FY2024-2025,Under review
+EXP-00994,Operations,Marketing Spend,Infosys,333909,401580.86,-67671.86,2024-01-26,Rejected,Bank Transfer,FY2023-2024,Recurring
+EXP-00548,Finance,Training,SAP,325449,392529.63,-67080.63,2025-02-21,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00738,Operations,Consulting Fees,Wipro,10526,9003.53,1522.47,2023-10-18,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00490,Sales,,SAP,464884,581075.86,-116191.86,2024-12-10,Rejected,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00449,Sales,Recruitment,Adobe,265649,235191.89,30457.11,2024-01-07,Approved,Credit Card,FY2023-2024,
+EXP-00147,Finance,Travel,Adobe,32268,26832.63,5435.37,2023-08-19,Approved,Credit Card,FY2023-2024,Under review
+EXP-00348,Finance,Hardware,Wipro,79555,101962.75,-22407.75,2023-02-01,Approved,Bank Transfer,FY2022-2023,
+EXP-00372,Sales,Utilities,Zoom,411030,392369.5,18660.5,2023-02-09,Approved,Vendor Credit,FY2022-2023,
+EXP-00397,Finance,Cloud Infrastructure,HubSpot,2583687,2695007.68,-111320.68,2024-12-29,Pending,Vendor Credit,FY2024-2025,
+EXP-00806,Sales,Travel,Zoom,99203,111995.57,-12792.57,2024-11-20,Approved,Bank Transfer,FY2024-2025,
+EXP-00660,Support,Training,Adobe,413818,475823.4,-62005.4,2024-06-18,Pending,Credit Card,FY2024-2025,
+EXP-00207,HR,Utilities,Internal,277583,262488.11,15094.89,2023-12-10,Pending,Credit Card,FY2023-2024,Urgent
+EXP-00085,Sales,Training,Salesforce,457651,467629.28,-9978.28,2024-01-16,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00209,Support,Salaries,Google Cloud,62205,68491.3,,2024-01-15,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00089,Support,Utilities,HubSpot,395114,453184.31,-58070.31,2023-03-13,Pending,Petty Cash,FY2022-2023,Urgent
+EXP-00889,Sales,Office Supplies,Microsoft Azure,97690,91260.03,6429.97,2024-05-28,Approved,Petty Cash,FY2024-2025,
+EXP-00899,Operations,Recruitment,Zoom,491563,637066.96,-145503.96,2023-01-11,Approved,Vendor Credit,FY2022-2023,Recurring
+EXP-00470,Support,Maintenance,Oracle,417255,398887.4,18367.6,2023-10-29,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00720,Engineering,Utilities,HubSpot,388564,433099.82,-44535.82,2024-01-11,Approved,Credit Card,FY2023-2024,Urgent
+EXP-00033,Sales,,Salesforce,476675,601228.87,-124553.87,2024-05-14,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00636,Sales,Software Licenses,HubSpot,118973,134000.41,-15027.41,2025-01-14,Approved,Vendor Credit,FY2024-2025,
+EXP-00382,Support,Maintenance,SAP,22538,19899.53,2638.47,2024-05-13,Approved,Vendor Credit,FY2024-2025,
+EXP-00550,Finance,Office Supplies,Zoom,443662,,85569.69,2025-01-16,Pending,Vendor Credit,FY2024-2025,One-time
+EXP-00163,Support,Travel,Slack,353333,458964.2,-105631.2,2025-02-14,Approved,Credit Card,FY2024-2025,Urgent
+EXP-00795,Marketing,Recruitment,Oracle,290249,369613.63,-79364.63,2024-01-08,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00727,Finance,Travel,HubSpot,309034,273262.53,35771.47,2024-04-02,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00403,Engineering,Travel,Microsoft Azure,106902,123641.31,-16739.31,2023-04-06,Pending,Credit Card,FY2023-2024,
+EXP-00569,Operations,Travel,Freshdesk,429973,376365.53,53607.47,2023-10-31,Pending,Vendor Credit,FY2023-2024,
+EXP-00396,Operations,Office Supplies,AWS,206116,229625.18,-23509.18,11/02/2025,Pending,Vendor Credit,FY2024-2025,
+EXP-00865,,Travel,Microsoft Azure,1422304,1675743.07,-253439.07,2024-01-19,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00271,Operations,Software Licenses,Adobe,495376,532148.51,-36772.51,2025-03-12,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00272,HR,Cloud Infrastructure,Zoom,374421,472252.91,-97831.91,2023-07-18,Approved,Credit Card,FY2023-2024,
+EXP-00583,HR,Office Supplies,Slack,277952,236373.9,41578.1,2025-01-08,Rejected,Credit Card,FY2024-2025,
+EXP-00533,Finance,Maintenance,Salesforce,314597,405247.51,-90650.51,2024-10-11,Pending,Bank Transfer,FY2024-2025,Recurring
+EXP-00371,Support,Software Licenses,Internal,109346,139986.84,-30640.84,2023-09-09,Pending,Credit Card,FY2023-2024,Recurring
+EXP-00835,Sales,Office Supplies,Freshdesk,-57182,60104.14,,2023-05-05,Approved,Bank Transfer,FY2023-2024,
+EXP-00923,HR,Office Supplies,SAP,429501,466352.17,-36851.17,2024-12-12,Pending,Credit Card,FY2024-2025,Recurring
+EXP-00169,Sales,Travel,Salesforce,478753,566440.71,-87687.71,2023-08-26,Pending,Bank Transfer,FY2023-2024,Recurring
+EXP-00683,Sales,Training,Slack,62031,62498.04,-467.04,2023-09-09,Rejected,Bank Transfer,FY2023-2024,
+EXP-00506,Marketing,Marketing Spend,Slack,288581,353638.16,-65057.16,2024-11-06,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00540,Marketing,Utilities,Oracle,123062,152975.35,-29913.35,2023-10-01,Pending,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00532,Marketing,Consulting Fees,Google Cloud,481569,451100.97,30468.03,2023-06-01,Approved,Petty Cash,FY2023-2024,
+EXP-00898,Sales,Consulting Fees,Salesforce,163410,200577.85,,15/06/2024,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00179,HR,Travel,TCS,377326,461081.99,-83755.99,2023-11-25,Approved,Vendor Credit,FY2023-2024,
+EXP-00321,Operations,Marketing Spend,TCS,79297,66599.44,12697.56,2023-04-07,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00514,Finance,Hardware,Salesforce,487901,465035.01,22865.99,2024-04-09,Approved,Credit Card,FY2024-2025,
+EXP-00407,Support,Marketing Spend,TCS,369434,401049.67,-31615.67,2023-11-12,Approved,Vendor Credit,FY2023-2024,
+EXP-00053,Finance,Consulting Fees,Adobe,132717,125986.01,6730.99,2023-10-30,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00530,Engineering,Training,HubSpot,367110,473125.19,-106015.19,2023-04-06,Approved,Vendor Credit,FY2023-2024,One-time
+EXP-00838,Engineering,Software Licenses,Adobe,308360,252679.46,55680.54,2025-03-20,Pending,Credit Card,FY2024-2025,Under review
+EXP-00150,Sales,Hardware,Oracle,224677,281998.19,-57321.19,2023-09-20,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00553,Operations,Utilities,Jira,494166,404213.86,89952.14,2023-10-04,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00767,HR,Office Supplies,Microsoft Azure,195900,190971.73,4928.27,2025-03-05,Approved,Credit Card,FY2024-2025,
+EXP-00754,Sales,Cloud Infrastructure,Adobe,335390,302933.23,32456.77,2025-02-10,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00552,Engineering,Salaries,Salesforce,177021,158438.09,18582.91,2024-07-27,Pending,Bank Transfer,FY2024-2025,
+EXP-00941,HR,Consulting Fees,Microsoft Azure,314105,386778.37,-72673.37,2023-07-30,Rejected,Credit Card,FY2023-2024,
+EXP-00876,Operations,Recruitment,Wipro,3110100,2633787.69,476312.31,2023-08-16,Pending,Credit Card,FY2023-2024,
+EXP-00909,Sales,Consulting Fees,Google Cloud,262104,215755.98,46348.02,2023-01-23,Approved,Bank Transfer,FY2022-2023,Recurring
+EXP-00475,Marketing,Training,Microsoft Azure,298624,355869.66,-57245.66,2025-03-13,Approved,Bank Transfer,FY2024-2025,
+EXP-00250,Operations,Recruitment,Freshdesk,244479,229972.17,14506.83,2023-06-15,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00917,Sales,Travel,HubSpot,458092,415250.85,42841.15,2023-09-03,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00915,HR,Marketing Spend,Oracle,216848,187274.9,,2025-03-02,Approved,Credit Card,FY2024-2025,
+EXP-00739,Engineering,Training,TCS,369273,394727.13,-25454.13,2023-05-18,Approved,Petty Cash,FY2023-2024,
+EXP-00517,Engineering,Training,Wipro,482284,386418.85,95865.15,2023-08-03,Approved,Petty Cash,FY2023-2024,
+EXP-00778,HR,Travel,Zoom,114547,143027.81,-28480.81,2023-01-22,Approved,Vendor Credit,FY2022-2023,Under review
+EXP-00057,Support,Recruitment,Infosys,334243,335560.21,-1317.21,2024-07-14,Approved,Bank Transfer,FY2024-2025,
+EXP-00424,Finance,Salaries,AWS,47119,38820.36,8298.64,2023-11-28,Rejected,Bank Transfer,FY2023-2024,
+EXP-00267,HR,Travel,Microsoft Azure,364029,317442.38,46586.62,2024-08-10,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00227,Operations,Travel,Jira,169355,195933.87,-26578.87,2023-03-29,Approved,Bank Transfer,FY2022-2023,Recurring
+EXP-00263,Engineering,Utilities,HubSpot,137124,141448.92,-4324.92,2024-04-09,Pending,Bank Transfer,FY2024-2025,
+EXP-00365,Marketing,,AWS,326044,276349.54,49694.46,2023-10-01,Approved,Vendor Credit,FY2023-2024,
+EXP-00045,Finance,Recruitment,Infosys,488286,445059.53,43226.47,2023-02-22,Pending,Credit Card,FY2022-2023,Duplicate entry
+EXP-00108,Sales,Hardware,Slack,249928,252956.29,-3028.29,2024-10-12,Approved,Petty Cash,FY2024-2025,
+EXP-00849,Finance,Consulting Fees,Slack,380262,429276.79,-49014.79,2024-08-16,Approved,Credit Card,FY2024-2025,
+EXP-00015,,Cloud Infrastructure,HubSpot,497608,610444.69,-112836.69,2024-09-06,Rejected,Vendor Credit,FY2024-2025,
+EXP-00568,Marketing,Travel,Internal,132369,155770.21,-23401.21,2024-11-03,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00319,Operations,Cloud Infrastructure,Slack,113120,128850.06,-15730.06,2024-04-27,Approved,Credit Card,FY2024-2025,
+EXP-00254,Finance,Training,Internal,339860,388536.49,-48676.49,2025-01-23,Approved,Vendor Credit,FY2024-2025,
+EXP-00794,Support,Maintenance,Salesforce,51429,53477.37,-2048.37,2024-12-31,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00095,Finance,Marketing Spend,Zoom,115872,115147.65,724.35,2024-12-30,Approved,Petty Cash,FY2024-2025,
+EXP-00148,Sales,Utilities,Salesforce,365187,331945.39,33241.61,2024-04-22,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00693,Marketing,Travel,Slack,171763,214301.63,-42538.63,2025-02-19,Approved,Petty Cash,FY2024-2025,Urgent
+EXP-00801,Finance,Travel,TCS,348146,280719.95,67426.05,2023-07-04,Approved,Vendor Credit,FY2023-2024,
+EXP-00891,Support,Salaries,TCS,480801,468031.05,12769.95,2023-12-05,Approved,Credit Card,FY2023-2024,
+EXP-00621,Marketing,Utilities,TCS,428532,371172.94,57359.06,2024-11-30,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00741,Finance,Travel,TCS,27222,29959.3,-2737.3,2025-02-06,Pending,Credit Card,FY2024-2025,
+EXP-00474,,Maintenance,Jira,242230,281806.86,-39576.86,12/01/2024,Approved,Petty Cash,FY2023-2024,
+EXP-00324,Finance,Travel,TCS,392038,455114.05,-63076.05,2023-12-22,Pending,Petty Cash,FY2023-2024,Under review
+EXP-00884,Operations,Marketing Spend,AWS,410556,369988.01,40567.99,2024-05-20,Approved,Petty Cash,FY2024-2025,
+EXP-00557,HR,Marketing Spend,HubSpot,316670,330471.41,-13801.41,2025-02-23,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00592,Marketing,Recruitment,Freshdesk,160486,139737.38,20748.62,2024-02-05,Pending,Vendor Credit,FY2023-2024,
+EXP-00290,HR,Marketing Spend,Salesforce,109864,96347.03,13516.97,2024-09-25,Approved,Bank Transfer,FY2024-2025,
+EXP-00061,HR,Travel,Slack,61031,71993.47,-10962.47,2024-02-17,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00002,Sales,Training,Infosys,464497,444903.98,19593.02,2023-06-30,Approved,Vendor Credit,FY2023-2024,
+EXP-00512,Engineering,Hardware,Adobe,422084,,-106956.09,2024-01-19,Approved,Petty Cash,FY2023-2024,
+EXP-00031,Support,Travel,Jira,477890,544686.33,-66796.33,2024-12-05,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00675,,Salaries,Salesforce,337982,423284.97,-85302.97,2025-03-18,Approved,Petty Cash,FY2024-2025,
+EXP-00477,HR,,Freshdesk,454577,580311.71,-125734.71,2023-04-02,Approved,Petty Cash,FY2023-2024,
+EXP-00654,,Travel,Adobe,226756,211964.68,14791.32,2024-05-03,Approved,Credit Card,FY2024-2025,
+EXP-00679,Marketing,Marketing Spend,Google Cloud,244563,224303.12,20259.88,2023-11-17,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00360,Operations,Software Licenses,Freshdesk,349024,295827.33,53196.67,2024-05-02,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00627,Engineering,Cloud Infrastructure,Internal,39030,46367.88,-7337.88,2024-02-28,Approved,Credit Card,FY2023-2024,One-time
+EXP-00587,Sales,Marketing Spend,SAP,499533,550589.56,-51056.56,2024-01-19,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00180,Engineering,Hardware,HubSpot,42427,43196.66,-769.66,2023-07-28,Rejected,Credit Card,FY2023-2024,
+EXP-00982,Finance,Training,Slack,176689,163052.02,13636.98,2024-04-16,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00564,HR,Salaries,HubSpot,83678,69242.31,14435.69,2023-01-13,Approved,Credit Card,FY2022-2023,
+EXP-00203,Engineering,Training,SAP,-457910,396108.52,61801.48,2024-09-27,Pending,Petty Cash,FY2024-2025,
+EXP-01000,Marketing,Maintenance,Oracle,153180,192658.0,-39478.0,2023-06-07,Rejected,Vendor Credit,FY2023-2024,Urgent
+EXP-00944,Operations,Software Licenses,Slack,488021,444651.21,43369.79,2023-08-23,Approved,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00246,Operations,Cloud Infrastructure,AWS,-200949,190209.9,10739.1,2024-03-29,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00011,Marketing,Software Licenses,Google Cloud,145470,180539.45,-35069.45,2024-10-04,Rejected,Bank Transfer,FY2024-2025,
+EXP-00501,,Recruitment,Freshdesk,240723,257329.16,-16606.16,2024-10-08,Approved,Credit Card,FY2024-2025,
+EXP-00580,Sales,Recruitment,Google Cloud,446250,566865.56,-120615.56,2025-01-11,Rejected,Bank Transfer,FY2024-2025,
+EXP-00410,Sales,Cloud Infrastructure,Internal,166850,169233.68,-2383.68,2024-10-29,Approved,Credit Card,FY2024-2025,One-time
+EXP-00961,Sales,Office Supplies,SAP,196494,177665.33,18828.67,2024-12-29,Pending,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00334,Marketing,Travel,AWS,408520,396403.55,12116.45,2023-06-06,Pending,Credit Card,FY2023-2024,One-time
+EXP-00977,Sales,Consulting Fees,AWS,421940,481074.03,-59134.03,25/11/2023,Approved,Vendor Credit,FY2023-2024,Recurring
+EXP-00695,Sales,Software Licenses,Slack,216958,200250.56,16707.44,2023-01-03,Rejected,Bank Transfer,FY2022-2023,
+EXP-00431,Marketing,Hardware,Infosys,-415686,,-120435.6,2023-05-19,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00990,Support,Marketing Spend,Zoom,184393,177852.39,6540.61,16/07/2023,Rejected,Petty Cash,FY2023-2024,Urgent
+EXP-00356,HR,Maintenance,Jira,179590,150858.98,28731.02,2023-06-16,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00582,Sales,Marketing Spend,Microsoft Azure,273756,346697.43,-72941.43,2023-02-25,Approved,Bank Transfer,FY2022-2023,Duplicate entry
+EXP-00666,Operations,Recruitment,Infosys,198526,,-637.71,2024-01-04,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00300,Engineering,Salaries,Adobe,122121,133734.62,-11613.62,2024-10-21,Approved,Credit Card,FY2024-2025,One-time
+EXP-00226,HR,Recruitment,Freshdesk,269682,285890.94,-16208.94,2023-06-01,Approved,Bank Transfer,FY2023-2024,
+EXP-00420,Finance,Training,TCS,231321,266216.59,-34895.59,2023-04-18,Approved,Vendor Credit,FY2023-2024,
+EXP-00924,Engineering,Consulting Fees,Slack,140762,149735.55,-8973.55,12/12/2024,Pending,Vendor Credit,FY2024-2025,
+EXP-00373,Sales,Office Supplies,Slack,28743,37250.66,-8507.66,2023-08-26,Rejected,Petty Cash,FY2023-2024,Under review
+EXP-00109,Sales,Software Licenses,Internal,100219,105905.2,-5686.2,2023-05-26,Approved,Credit Card,FY2023-2024,Under review
+EXP-00706,Engineering,Hardware,Microsoft Azure,84007,85989.72,-1982.72,2023-05-14,Approved,Vendor Credit,FY2023-2024,
+EXP-00351,Operations,Travel,Microsoft Azure,154564,152945.44,1618.56,2024-01-04,Rejected,Bank Transfer,FY2023-2024,
+EXP-00001,Marketing,Recruitment,SAP,263639,307345.42,-43706.42,2024-06-24,Approved,Credit Card,FY2024-2025,
+EXP-00104,Finance,Travel,HubSpot,179272,163363.64,15908.36,2025-01-28,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00096,Finance,Travel,Microsoft Azure,163804,169256.65,-5452.65,2024-02-18,Pending,Credit Card,FY2023-2024,Urgent
+EXP-00195,HR,Hardware,Zoom,464663,446327.43,18335.57,2024-02-26,Approved,Petty Cash,FY2023-2024,
+EXP-00467,Operations,Hardware,Infosys,108818,96064.58,12753.42,2023-07-23,Approved,Bank Transfer,FY2023-2024,
+EXP-00138,Operations,Marketing Spend,Wipro,209841,267667.65,-57826.65,2024-10-01,Approved,Credit Card,FY2024-2025,One-time
+EXP-00445,HR,Maintenance,Wipro,403040,409228.69,-6188.69,2023-04-02,Approved,Vendor Credit,FY2023-2024,
+EXP-00671,Sales,Maintenance,HubSpot,391100,435730.43,-44630.43,2025-01-02,Pending,Petty Cash,FY2024-2025,Urgent
+EXP-00454,Finance,Salaries,AWS,218566,184113.08,34452.92,2024-05-29,Pending,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00193,Operations,Recruitment,Slack,256504,211732.84,44771.16,2024-04-16,Approved,Credit Card,FY2024-2025,One-time
+EXP-00682,Engineering,Hardware,Oracle,62023,63121.35,-1098.35,2024-11-20,Pending,Petty Cash,FY2024-2025,
+EXP-00776,Sales,Marketing Spend,Jira,402315,503453.96,-101138.96,2023-03-18,Approved,Vendor Credit,FY2022-2023,
+EXP-00686,Engineering,Maintenance,Microsoft Azure,190234,195022.49,-4788.49,2024-02-01,Approved,Vendor Credit,FY2023-2024,One-time
+EXP-00561,Support,Travel,Jira,430666,491719.94,-61053.94,2023-07-18,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00049,Finance,Hardware,SAP,426807,517878.65,-91071.65,2023-06-05,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00872,Engineering,Office Supplies,AWS,81607,88342.07,-6735.07,2023-08-14,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00981,Engineering,Marketing Spend,Freshdesk,-1506386,1551861.49,-45475.49,2025-02-16,Pending,Credit Card,FY2024-2025,One-time
+EXP-00628,Marketing,Training,AWS,163855,132397.54,31457.46,2024-07-14,Approved,Credit Card,FY2024-2025,
+EXP-00765,Marketing,Cloud Infrastructure,Oracle,369117,446534.05,-77417.05,2023-07-20,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00854,Finance,Software Licenses,Google Cloud,7963,7018.02,944.98,2023-01-23,Approved,Bank Transfer,FY2022-2023,One-time
+EXP-00726,Engineering,Office Supplies,Adobe,188886,226410.36,-37524.36,2023-04-08,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00560,Sales,Office Supplies,Infosys,276595,268972.81,7622.19,2024-07-24,Approved,Vendor Credit,FY2024-2025,
+EXP-00573,Sales,Marketing Spend,Jira,44240,52340.94,-8100.94,2023-05-10,Approved,Bank Transfer,FY2023-2024,Urgent
+EXP-00598,HR,Cloud Infrastructure,Adobe,143366,181407.49,-38041.49,2024-05-16,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00198,HR,Office Supplies,Microsoft Azure,258034,224063.19,33970.81,2023-11-12,Approved,Petty Cash,FY2023-2024,Urgent
+EXP-00938,Support,Travel,Slack,281507,318929.33,-37422.33,2024-10-23,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00681,Operations,Consulting Fees,Infosys,-39522,49554.94,-10032.94,2023-09-22,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00171,Operations,Travel,Slack,331249,422562.5,,2024-07-23,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00575,HR,Hardware,Wipro,393018,315468.99,77549.01,2024-12-26,Rejected,Bank Transfer,FY2024-2025,Recurring
+EXP-00248,Marketing,Training,Internal,340412,417538.8,-77126.8,2023-10-13,Approved,Vendor Credit,FY2023-2024,
+EXP-00471,Support,Cloud Infrastructure,TCS,81882,87003.26,-5121.26,26/03/2024,Pending,Bank Transfer,FY2023-2024,Recurring
+EXP-00385,HR,Software Licenses,Freshdesk,37534,31854.25,5679.75,2024-09-30,Approved,Bank Transfer,FY2024-2025,
+EXP-00714,Marketing,Software Licenses,SAP,340834,280310.48,60523.52,2023-11-04,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00341,Operations,Maintenance,TCS,392114,347030.43,45083.57,2023-07-04,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00873,Operations,Maintenance,Infosys,386213,442191.91,-55978.91,2025-01-03,Approved,Vendor Credit,FY2024-2025,
+EXP-00732,HR,Marketing Spend,Jira,27258,33695.97,-6437.97,2025-01-05,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00298,Engineering,Hardware,Jira,-248623,,16498.91,2024-06-17,Pending,Petty Cash,FY2024-2025,
+EXP-00743,HR,Cloud Infrastructure,Oracle,234765,294259.0,-59494.0,2023-10-09,Approved,Bank Transfer,FY2023-2024,
+EXP-00596,Support,Consulting Fees,Wipro,5961,7373.15,-1412.15,2024-03-03,Approved,Credit Card,FY2023-2024,Urgent
+EXP-00093,Operations,Salaries,Microsoft Azure,18083,22154.68,-4071.68,2023-02-08,Approved,Bank Transfer,FY2022-2023,Under review
+EXP-00208,Engineering,Salaries,Freshdesk,4846353,6043271.75,-1196918.75,2023-06-28,Pending,Vendor Credit,FY2023-2024,Under review
+EXP-00132,Finance,Office Supplies,Freshdesk,223641,216619.3,7021.7,2024-04-15,Approved,Credit Card,FY2024-2025,
+EXP-00888,Engineering,Travel,TCS,2943906,2847629.21,,2025-03-10,Approved,Petty Cash,FY2024-2025,
+EXP-00642,Sales,Salaries,Wipro,31886,37984.4,-6098.4,13/06/2024,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00919,Finance,Software Licenses,TCS,110565,101797.79,8767.21,2023-09-23,Pending,Credit Card,FY2023-2024,
+EXP-00121,Engineering,Maintenance,Freshdesk,288172,300418.29,-12246.29,2024-06-08,Rejected,Vendor Credit,FY2024-2025,
+EXP-00606,Finance,Cloud Infrastructure,Slack,223300,227664.62,-4364.62,2025-03-12,Pending,Vendor Credit,FY2024-2025,One-time
+EXP-00155,Sales,Travel,Jira,275337,306563.01,-31226.01,2025-01-23,Pending,Petty Cash,FY2024-2025,
+EXP-00294,Sales,Consulting Fees,SAP,142075,149959.41,-7884.41,2023-08-27,Approved,Credit Card,FY2023-2024,Under review
+EXP-00881,Support,Software Licenses,Microsoft Azure,7472,6179.9,1292.1,2023-02-28,Approved,Vendor Credit,FY2022-2023,
+EXP-00626,Engineering,Marketing Spend,HubSpot,289678,371350.89,-81672.89,2023-01-22,Approved,Petty Cash,FY2022-2023,Urgent
+EXP-00274,Marketing,Marketing Spend,AWS,54775,66998.53,-12223.53,2023-05-02,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00883,HR,Hardware,SAP,76843,97279.89,-20436.89,2023-05-17,Approved,Vendor Credit,FY2023-2024,
+EXP-00364,Support,Utilities,Slack,357334,307538.07,49795.93,2023-12-31,Rejected,Vendor Credit,FY2023-2024,Recurring
+EXP-00947,HR,Marketing Spend,Wipro,187885,161463.52,26421.48,2023-06-30,Pending,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00699,Engineering,Hardware,Slack,382790,448577.44,-65787.44,2024-01-12,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00004,Finance,Travel,Internal,76592,,-21705.62,2024-01-24,Approved,Petty Cash,FY2023-2024,
+EXP-00718,Support,Cloud Infrastructure,Zoom,172736,212951.33,-40215.33,2023-12-04,Approved,Credit Card,FY2023-2024,
+EXP-00668,Marketing,Utilities,Salesforce,66115,70988.1,-4873.1,2024-08-05,Pending,Petty Cash,FY2024-2025,Under review
+EXP-00026,Support,Consulting Fees,Infosys,151632,160166.52,-8534.52,2024-01-24,Approved,Bank Transfer,FY2023-2024,
+EXP-00658,Engineering,Cloud Infrastructure,Microsoft Azure,412198,508251.82,-96053.82,2023-01-05,Approved,Petty Cash,FY2022-2023,
+EXP-00493,Marketing,Travel,Zoom,52195,57318.27,-5123.27,2025-01-18,Approved,Bank Transfer,FY2024-2025,Under review
+EXP-00224,Finance,Salaries,TCS,48152,48056.14,95.86,2025-01-17,Pending,Vendor Credit,FY2024-2025,Under review
+EXP-00135,Support,Hardware,Adobe,16799,19123.79,-2324.79,2025-02-14,Approved,Vendor Credit,FY2024-2025,
+EXP-00493,Marketing,Travel,Zoom,52195,57318.27,-5123.27,2025-01-18,Approved,Bank Transfer,FY2024-2025,Under review
+EXP-00251,HR,Hardware,TCS,498331,590530.19,-92199.19,2024-03-10,Pending,Vendor Credit,FY2023-2024,One-time
+EXP-00631,HR,Training,SAP,331933,269005.58,62927.42,2023-06-22,Rejected,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00593,,Consulting Fees,Salesforce,334513,429654.62,-95141.62,2023-03-31,Approved,Vendor Credit,FY2022-2023,
+EXP-00995,Engineering,Utilities,TCS,267847,224402.4,43444.6,2025-02-22,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00208,Engineering,Salaries,Freshdesk,4846353,6043271.75,-1196918.75,2023-06-28,Pending,Vendor Credit,FY2023-2024,Under review
+EXP-00817,HR,Salaries,Microsoft Azure,60387,77599.47,-17212.47,2023-03-01,Approved,Vendor Credit,FY2022-2023,Urgent
+EXP-00701,Engineering,,HubSpot,175225,180530.0,-5305.0,2024-08-05,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00880,Sales,Salaries,Oracle,341861,313537.26,28323.74,2023-11-06,Pending,Credit Card,FY2023-2024,Recurring
+EXP-00104,Finance,Travel,HubSpot,179272,163363.64,15908.36,2025-01-28,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00488,Marketing,Utilities,Infosys,39407,45445.79,,2023-03-31,Pending,Petty Cash,FY2022-2023,
+EXP-00935,Operations,Travel,AWS,89432,106809.32,-17377.32,2023-06-21,Approved,Petty Cash,FY2023-2024,
+EXP-00692,Finance,,Google Cloud,263512,324627.93,-61115.93,2024-01-09,Rejected,Credit Card,FY2023-2024,
+EXP-00306,Sales,Consulting Fees,Jira,199679,200742.29,-1063.29,2025-01-18,Approved,Petty Cash,FY2024-2025,
+EXP-00027,Sales,Office Supplies,HubSpot,375444,,42263.75,2024-06-15,Rejected,Petty Cash,FY2024-2025,
+EXP-00072,Operations,Training,Internal,225874,240659.78,-14785.78,2023-01-20,Approved,Bank Transfer,FY2022-2023,Under review
+EXP-00797,Operations,Hardware,AWS,415441,402243.02,13197.98,2023-02-09,Approved,Petty Cash,FY2022-2023,Duplicate entry
+EXP-00779,Engineering,Training,Zoom,169992,217401.98,-47409.98,2024-12-27,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00336,HR,Training,SAP,276210,336215.59,-60005.59,2025-02-17,Approved,Credit Card,FY2024-2025,Urgent
+EXP-00781,Support,Hardware,HubSpot,8467,6825.29,1641.71,2024-05-18,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00725,Engineering,Recruitment,Microsoft Azure,433961,489742.12,-55781.12,2023-04-18,Approved,Credit Card,FY2023-2024,Urgent
+EXP-00417,,Training,Google Cloud,253473,209229.23,44243.77,2023-04-30,Approved,Petty Cash,FY2023-2024,
+EXP-00021,Engineering,Maintenance,Zoom,283088,273645.91,9442.09,2023-11-15,Pending,Vendor Credit,FY2023-2024,
+EXP-00363,Operations,Cloud Infrastructure,AWS,36809,31242.97,5566.03,2023-10-27,Rejected,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00764,Engineering,,Slack,176240,162052.35,14187.65,2024-11-09,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00839,Operations,Training,Freshdesk,287836,288895.81,-1059.81,2024-04-04,Rejected,Petty Cash,FY2024-2025,
+EXP-00824,Marketing,Training,TCS,62129,69505.89,-7376.89,2023-08-23,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00059,Engineering,Marketing Spend,Jira,39600,49734.57,-10134.57,2025-01-12,Pending,Petty Cash,FY2024-2025,Under review
+EXP-00638,Marketing,Maintenance,Jira,233554,252983.66,-19429.66,2023-06-08,Approved,Bank Transfer,FY2023-2024,
+EXP-00984,Operations,Marketing Spend,Oracle,184967,,35452.88,2023-07-12,Pending,Petty Cash,FY2023-2024,
+EXP-00442,Engineering,Marketing Spend,Google Cloud,451511,378996.91,72514.09,2023-08-30,Pending,Vendor Credit,FY2023-2024,Recurring
+EXP-00284,Marketing,,Wipro,90672,115291.34,-24619.34,2024-08-27,Approved,Credit Card,FY2024-2025,
+EXP-00851,HR,Training,Adobe,117298,149508.38,-32210.38,2025-01-02,Rejected,Vendor Credit,FY2024-2025,One-time
+EXP-00664,HR,Cloud Infrastructure,TCS,102465,119023.91,,2025-01-01,Pending,Petty Cash,FY2024-2025,
+EXP-00897,Marketing,Marketing Spend,Internal,161058,169436.08,-8378.08,25/09/2024,Approved,Vendor Credit,FY2024-2025,
+EXP-00566,Sales,Salaries,Oracle,310200,318474.48,-8274.48,2024-03-24,Approved,Bank Transfer,FY2023-2024,
+EXP-00834,HR,Salaries,AWS,415834,414415.59,1418.41,2023-09-30,Pending,Credit Card,FY2023-2024,Urgent
+EXP-00913,Operations,Training,Wipro,106700,135158.73,-28458.73,28/11/2023,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00223,Operations,Utilities,Microsoft Azure,372555,361375.0,11180.0,2024-04-07,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00511,Operations,Software Licenses,Jira,-295644,375294.28,-79650.28,01/07/2024,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00129,Marketing,Hardware,Freshdesk,341728,431392.19,-89664.19,2024-06-13,Pending,Vendor Credit,FY2024-2025,
+EXP-00433,,Hardware,Internal,346055,292280.0,53775.0,2023-02-26,Approved,Bank Transfer,FY2022-2023,Urgent
+EXP-00748,Marketing,Salaries,SAP,370801,399115.32,-28314.32,2024-05-02,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00734,Sales,Training,Google Cloud,150199,192054.12,-41855.12,2024-01-14,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00100,Sales,Office Supplies,Wipro,291041,358620.07,-67579.07,2023-06-05,Approved,Credit Card,FY2023-2024,One-time
+EXP-00419,HR,Recruitment,Google Cloud,211857,256056.27,-44199.27,2024-08-29,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00563,Sales,Training,Microsoft Azure,251802,303026.15,-51224.15,2024-06-03,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00218,Marketing,Training,Zoom,76656,71437.11,5218.89,2024-02-26,Approved,Vendor Credit,FY2023-2024,
+EXP-00489,Finance,Software Licenses,Oracle,362710,366215.27,-3505.27,2024-10-02,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00566,Sales,Salaries,Oracle,310200,318474.48,-8274.48,2024-03-24,Approved,Bank Transfer,FY2023-2024,
+EXP-00796,Support,Cloud Infrastructure,TCS,10572,9878.34,693.66,2023-08-27,Approved,Bank Transfer,FY2023-2024,
+EXP-00846,Engineering,Consulting Fees,Adobe,16215,15546.6,668.4,2024-06-16,Rejected,Vendor Credit,FY2024-2025,One-time
+EXP-00966,Finance,Marketing Spend,Microsoft Azure,415913,384867.42,31045.58,2025-02-24,Approved,Credit Card,FY2024-2025,Duplicate entry
+EXP-00352,HR,Software Licenses,Internal,459471,437328.44,22142.56,2023-06-28,Pending,Credit Card,FY2023-2024,Urgent
+EXP-00508,HR,Recruitment,HubSpot,356518,384593.26,-28075.26,2023-10-11,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00205,Support,Cloud Infrastructure,Infosys,29243,28194.98,1048.02,2024-03-28,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00050,Engineering,Hardware,Slack,141275,149514.95,-8239.95,2023-07-24,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00458,Operations,Travel,Jira,419574,390433.1,29140.9,2023-03-04,Approved,Vendor Credit,FY2022-2023,
+EXP-00539,HR,Marketing Spend,Freshdesk,163344,206602.59,-43258.59,2023-08-21,Pending,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00111,HR,Cloud Infrastructure,Salesforce,384800,444252.73,-59452.73,2023-11-01,Approved,Credit Card,FY2023-2024,
+EXP-00710,,Salaries,AWS,363889,336570.16,27318.84,2024-08-02,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00536,Operations,Salaries,Internal,268970,257710.55,11259.45,2024-03-18,Rejected,Petty Cash,FY2023-2024,
+EXP-00576,Marketing,Consulting Fees,Oracle,346860,288543.01,58316.99,2024-05-09,Approved,Vendor Credit,FY2024-2025,
+EXP-00065,Operations,Software Licenses,Slack,240676,225254.53,15421.47,2024-08-26,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00630,,Software Licenses,AWS,229898,203605.91,26292.09,2024-11-22,Approved,Credit Card,FY2024-2025,
+EXP-00505,Engineering,Consulting Fees,Microsoft Azure,132424,109111.86,23312.14,2023-04-12,Pending,Petty Cash,FY2023-2024,
+EXP-00479,Finance,Recruitment,Zoom,100845,120316.66,-19471.66,2025-03-04,Approved,Bank Transfer,FY2024-2025,
+EXP-00313,HR,Consulting Fees,Google Cloud,3599626,3224517.74,375108.26,2024-04-25,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00315,Marketing,Maintenance,AWS,78374,77099.36,1274.64,2023-09-09,Approved,Credit Card,FY2023-2024,
+EXP-00943,Finance,Hardware,Internal,476567,513028.09,-36461.09,2023-05-02,Approved,Bank Transfer,FY2023-2024,
+EXP-00444,Marketing,Travel,Oracle,139446,169737.73,-30291.73,2024-08-12,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00007,Engineering,Consulting Fees,Google Cloud,136563,162916.26,,2023-10-08,Approved,Vendor Credit,FY2023-2024,
+EXP-00183,,Consulting Fees,Adobe,22382,18042.6,4339.4,2023-09-15,Pending,Petty Cash,FY2023-2024,
+EXP-00185,Engineering,Travel,Freshdesk,155451,144377.19,11073.81,2024-04-12,Approved,Credit Card,FY2024-2025,
+EXP-00603,Engineering,Software Licenses,Freshdesk,269249,308734.33,,2023-05-23,Approved,Bank Transfer,FY2023-2024,Urgent
+EXP-00103,Sales,Travel,Internal,435004,504598.66,-69594.66,2023-02-23,Pending,Bank Transfer,FY2022-2023,Duplicate entry
+EXP-00099,Operations,Maintenance,AWS,424596,339971.4,84624.6,2024-10-04,Pending,Vendor Credit,FY2024-2025,Recurring
+EXP-00166,Operations,Marketing Spend,Microsoft Azure,458771,375638.71,83132.29,2023-03-26,Approved,Vendor Credit,FY2022-2023,Recurring
+EXP-00844,Finance,Travel,Wipro,377822,320802.62,57019.38,07/02/2024,Approved,Vendor Credit,FY2023-2024,Recurring
+EXP-00391,HR,Utilities,Adobe,26148,25412.61,735.39,2023-06-15,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00079,Support,Maintenance,Internal,64993,57540.42,7452.58,2024-09-29,Approved,Vendor Credit,FY2024-2025,
+EXP-00443,Support,Training,TCS,482501,544564.69,-62063.69,2023-02-23,Pending,Vendor Credit,FY2022-2023,One-time
+EXP-00076,Marketing,Travel,Freshdesk,493276,610985.74,-117709.74,2023-11-04,Approved,Vendor Credit,FY2023-2024,
+EXP-00320,Engineering,Software Licenses,Wipro,86033,80709.67,5323.33,2023-01-01,Pending,Vendor Credit,FY2022-2023,
+EXP-00080,Engineering,Software Licenses,Infosys,-279029,,-38873.03,2023-08-17,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00452,HR,Software Licenses,HubSpot,383752,410378.48,-26626.48,26/08/2024,Pending,Credit Card,FY2024-2025,
+EXP-00541,Marketing,Consulting Fees,Google Cloud,59701,,-1952.11,2024-10-04,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00468,Engineering,Training,AWS,87470,98521.95,-11051.95,2024-05-28,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00456,Sales,Maintenance,Zoom,37014,35509.76,1504.24,2023-06-11,Pending,Petty Cash,FY2023-2024,
+EXP-00383,Finance,Cloud Infrastructure,Wipro,307446,286117.08,21328.92,2023-10-11,Approved,Credit Card,FY2023-2024,
+EXP-00882,Marketing,Software Licenses,Salesforce,-4033752,3329796.67,703955.33,26/04/2024,Approved,Petty Cash,FY2024-2025,
+EXP-00427,Marketing,Hardware,Wipro,126773,141296.37,-14523.37,2024-03-01,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00192,Marketing,Software Licenses,AWS,404431,452206.81,,2025-01-23,Rejected,Credit Card,FY2024-2025,Recurring
+EXP-00196,Marketing,Maintenance,Internal,52012,43876.37,8135.63,2024-05-05,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00537,Sales,Office Supplies,Oracle,-254726,252659.65,2066.35,2024-01-25,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00234,Operations,Training,Freshdesk,336844,367169.25,-30325.25,2025-02-19,Approved,Credit Card,FY2024-2025,
+EXP-00067,Engineering,,TCS,474095,385102.35,88992.65,2023-10-27,Rejected,Vendor Credit,FY2023-2024,Recurring
+EXP-00392,Operations,Travel,Zoom,251199,290685.15,-39486.15,2025-01-28,Pending,Credit Card,FY2024-2025,One-time
+EXP-00238,Operations,Training,Google Cloud,428567,471952.98,-43385.98,2024-05-08,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00338,Sales,Training,Zoom,483664,529402.16,-45738.16,2024-06-23,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00574,Support,Cloud Infrastructure,Adobe,391654,,65597.63,2024-04-27,Approved,Credit Card,FY2024-2025,One-time
+EXP-00473,HR,Salaries,AWS,295989,314647.3,-18658.3,2023-07-28,Pending,Credit Card,FY2023-2024,Recurring
+EXP-00689,,Travel,Wipro,305798,247167.65,58630.35,2023-12-07,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00144,Engineering,Cloud Infrastructure,TCS,4265591,4106997.2,158593.8,2024-01-29,Approved,Petty Cash,FY2023-2024,
+EXP-00376,Operations,Consulting Fees,Slack,30067,32152.35,-2085.35,2023-08-26,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00856,Engineering,Training,Jira,439322,512559.35,-73237.35,2025-01-27,Approved,Bank Transfer,FY2024-2025,
+EXP-00423,HR,Office Supplies,Zoom,276241,260577.09,15663.91,2023-04-18,Approved,Bank Transfer,FY2023-2024,
+EXP-00367,Support,Consulting Fees,Microsoft Azure,55208,70125.36,-14917.36,2024-07-13,Approved,Vendor Credit,FY2024-2025,
+EXP-00685,Support,Utilities,Wipro,239291,294400.19,-55109.19,2023-06-16,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00656,Marketing,Office Supplies,Oracle,156023,144831.13,11191.87,2024-02-07,Rejected,Bank Transfer,FY2023-2024,Recurring
+EXP-00156,Engineering,Hardware,Internal,486643,494228.82,-7585.82,2023-08-13,Rejected,Credit Card,FY2023-2024,Recurring
+EXP-00953,Marketing,Maintenance,Internal,194539,192336.4,2202.6,2023-08-13,Pending,Vendor Credit,FY2023-2024,Urgent
+EXP-00780,HR,Utilities,Microsoft Azure,117521,147338.94,-29817.94,2024-05-03,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00307,Operations,Utilities,AWS,253850,223021.17,30828.83,2023-04-21,Approved,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00522,Marketing,Recruitment,HubSpot,221390,203658.51,17731.49,2024-05-20,Approved,Credit Card,FY2024-2025,Urgent
+EXP-00115,Marketing,Office Supplies,Wipro,164975,167893.96,-2918.96,2025-02-05,Pending,Petty Cash,FY2024-2025,
+EXP-00777,Marketing,Maintenance,TCS,486312,493117.33,-6805.33,2024-07-17,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00029,Engineering,Hardware,Microsoft Azure,460670,595790.31,-135120.31,2023-05-22,Approved,Petty Cash,FY2023-2024,
+EXP-00283,HR,Cloud Infrastructure,AWS,239146,238892.64,253.36,2025-01-30,Approved,Bank Transfer,FY2024-2025,
+EXP-00619,Support,Recruitment,Google Cloud,403214,419622.61,,2024-04-16,Pending,Bank Transfer,FY2024-2025,
+EXP-00705,Finance,Maintenance,Adobe,225603,214916.56,10686.44,2024-01-23,Pending,Bank Transfer,FY2023-2024,
+EXP-00101,Finance,Marketing Spend,HubSpot,429569,352146.36,77422.64,2025-03-11,Rejected,Bank Transfer,FY2024-2025,
+EXP-00343,,Consulting Fees,Internal,-391336,431860.77,,2023-03-25,Approved,Vendor Credit,FY2022-2023,
+EXP-00330,Support,Office Supplies,SAP,242792,266048.5,,2024-04-19,Approved,Petty Cash,FY2024-2025,
+EXP-00405,Engineering,Salaries,Freshdesk,208403,262175.05,-53772.05,2024-08-07,Approved,Credit Card,FY2024-2025,
+EXP-00842,HR,Office Supplies,Infosys,489646,571822.07,-82176.07,2024-03-09,Approved,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00762,Finance,Office Supplies,Google Cloud,411870,511379.26,-99509.26,2024-07-17,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00291,HR,Travel,Salesforce,108453,93266.07,15186.93,2024-11-05,Approved,Vendor Credit,FY2024-2025,
+EXP-00416,Finance,Travel,Internal,138343,112386.6,25956.4,2023-11-23,Pending,Vendor Credit,FY2023-2024,
+EXP-00127,Marketing,Consulting Fees,Zoom,253357,237003.61,16353.39,2024-04-09,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00974,Finance,Utilities,Freshdesk,422348,373973.55,48374.45,2024-08-06,Pending,Bank Transfer,FY2024-2025,
+EXP-00892,Engineering,Software Licenses,Salesforce,420845,401109.66,19735.34,2023-01-26,Approved,Petty Cash,FY2022-2023,
+EXP-00775,Marketing,Maintenance,TCS,332522,273875.71,58646.29,2023-06-11,Approved,Bank Transfer,FY2023-2024,
+EXP-00837,Engineering,Consulting Fees,Adobe,-268398,235037.82,33360.18,2024-05-01,Pending,Credit Card,FY2024-2025,
+EXP-00684,Support,Software Licenses,TCS,166104,164704.53,1399.47,2024-04-08,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00368,Operations,Salaries,Wipro,12538,10350.47,,2023-07-29,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00623,,Salaries,Internal,223136,272052.57,-48916.57,2025-03-04,Approved,Credit Card,FY2024-2025,Urgent
+EXP-00939,Marketing,Software Licenses,Slack,182620,193942.24,-11322.24,2024-10-09,Approved,Vendor Credit,FY2024-2025,
+EXP-00979,Operations,Salaries,AWS,323325,281804.53,41520.47,2024-06-04,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00784,HR,Marketing Spend,Freshdesk,327303,396053.98,-68750.98,2024-10-18,Rejected,Petty Cash,FY2024-2025,Recurring
+EXP-00736,Support,Marketing Spend,Infosys,111860,100608.75,11251.25,2023-04-12,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00056,Support,Salaries,Internal,358246,293348.11,64897.89,2024-04-24,Approved,Bank Transfer,FY2024-2025,
+EXP-00210,HR,Training,Slack,12064,10549.18,1514.82,2023-06-13,Approved,Petty Cash,FY2023-2024,
+EXP-00690,Finance,Maintenance,Internal,296061,300001.24,-3940.24,2023-07-08,Pending,Credit Card,FY2023-2024,One-time
+EXP-00930,Operations,Cloud Infrastructure,HubSpot,30949,25412.68,,2023-04-27,Approved,Vendor Credit,FY2023-2024,
+EXP-00006,Operations,Marketing Spend,Zoom,372466,447228.52,-74762.52,2024-02-06,Pending,Petty Cash,FY2023-2024,
+EXP-00497,Engineering,Training,Salesforce,244642,282609.32,-37967.32,2024-11-06,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00107,Sales,Recruitment,Zoom,258459,255111.38,3347.62,2023-09-28,Approved,Petty Cash,FY2023-2024,Urgent
+EXP-00262,Engineering,Cloud Infrastructure,Freshdesk,202077,207699.46,-5622.46,2024-04-05,Rejected,Credit Card,FY2024-2025,
+EXP-00138,Operations,Marketing Spend,Wipro,209841,267667.65,-57826.65,2024-10-01,Approved,Credit Card,FY2024-2025,One-time
+EXP-00853,Operations,Marketing Spend,Zoom,451509,530679.26,-79170.26,2023-10-25,Approved,Credit Card,FY2023-2024,
+EXP-00331,Marketing,,Microsoft Azure,163925,157330.82,6594.18,2023-10-23,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00554,Finance,Salaries,Google Cloud,355503,400742.71,-45239.71,2023-11-06,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00519,Sales,Office Supplies,Jira,317282,354047.57,-36765.57,02/02/2023,Approved,Bank Transfer,FY2022-2023,
+EXP-00020,Finance,Salaries,Wipro,29791,32121.77,-2330.77,2023-03-12,Approved,Credit Card,FY2022-2023,
+EXP-00288,Sales,Marketing Spend,Google Cloud,260298,302710.19,-42412.19,2023-04-02,Approved,Petty Cash,FY2023-2024,
+EXP-00395,Sales,Consulting Fees,SAP,170062,201142.77,-31080.77,2025-03-05,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00282,Sales,Marketing Spend,HubSpot,493046,516759.34,-23713.34,08/12/2023,Approved,Vendor Credit,FY2023-2024,
+EXP-00481,Support,Training,Adobe,272783,232960.38,39822.62,2023-09-26,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00105,,Training,Oracle,4688784,3938191.01,750592.99,2023-03-27,Rejected,Credit Card,FY2022-2023,
+EXP-00499,Marketing,Marketing Spend,Jira,160016,189994.81,-29978.81,2024-02-26,Approved,Bank Transfer,FY2023-2024,Urgent
+EXP-00194,Engineering,Consulting Fees,Adobe,-30156,30446.67,-290.67,2023-08-15,Approved,Petty Cash,FY2023-2024,
+EXP-00289,Marketing,Hardware,SAP,498758,486607.94,12150.06,2024-10-20,Pending,Vendor Credit,FY2024-2025,
+EXP-00242,Sales,Salaries,Wipro,390496,406666.97,-16170.97,2023-07-25,Rejected,Petty Cash,FY2023-2024,
+EXP-00198,HR,Office Supplies,Microsoft Azure,258034,224063.19,33970.81,2023-11-12,Approved,Petty Cash,FY2023-2024,Urgent
+EXP-00931,HR,Travel,Oracle,379186,388036.42,-8850.42,2023-01-09,Approved,Vendor Credit,FY2022-2023,
+EXP-00243,HR,Utilities,Jira,474316,519064.02,-44748.02,2025-01-17,Rejected,Vendor Credit,FY2024-2025,
+EXP-00669,Support,Recruitment,Microsoft Azure,-118413,108123.08,10289.92,13/04/2024,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00895,HR,Cloud Infrastructure,AWS,495983,486156.54,9826.46,2023-09-25,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00378,Support,Training,SAP,186645,,12334.99,2023-08-02,Pending,Credit Card,FY2023-2024,Urgent
+EXP-00793,,Consulting Fees,Wipro,342928,445230.91,-102302.91,2023-04-16,Approved,Bank Transfer,FY2023-2024,Urgent
+EXP-00772,Operations,Office Supplies,SAP,389265,359305.9,29959.1,2024-10-12,Approved,Bank Transfer,FY2024-2025,
+EXP-00405,Engineering,Salaries,Freshdesk,208403,262175.05,-53772.05,2024-08-07,Approved,Credit Card,FY2024-2025,
+EXP-00188,Operations,Salaries,TCS,197078,238559.88,-41481.88,2023-04-22,Approved,Vendor Credit,FY2023-2024,Recurring
+EXP-00428,Marketing,Hardware,Jira,469132,453619.26,15512.74,2023-12-25,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00060,Operations,Consulting Fees,AWS,3584033,3448909.77,135123.23,27/09/2023,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00084,Marketing,Training,Google Cloud,31705,30836.74,868.26,12/05/2024,Approved,Vendor Credit,FY2024-2025,
+EXP-00232,Finance,Software Licenses,Wipro,68786,71406.79,-2620.79,2024-09-05,Rejected,Vendor Credit,FY2024-2025,Under review
+EXP-00526,Operations,Recruitment,Jira,160198,159898.99,299.01,2024-07-07,Approved,Credit Card,FY2024-2025,
+EXP-00070,HR,Office Supplies,Zoom,385403,,28329.64,2024-08-16,Approved,Petty Cash,FY2024-2025,Urgent
+EXP-00394,Sales,Software Licenses,TCS,211236,224181.03,-12945.03,2024-02-22,Pending,Vendor Credit,FY2023-2024,
+EXP-00255,HR,Software Licenses,Oracle,177999,164780.06,13218.94,2025-01-16,Approved,Credit Card,FY2024-2025,
+EXP-00571,Support,Recruitment,Wipro,421120,523406.55,-102286.55,2024-06-11,Rejected,Credit Card,FY2024-2025,
+EXP-00798,HR,Office Supplies,Jira,457162,493650.62,-36488.62,2024-02-02,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00848,HR,Travel,Infosys,70751,,-103.65,2024-07-25,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00962,Marketing,Salaries,TCS,360402,439137.03,-78735.03,2023-05-17,Pending,Petty Cash,FY2023-2024,One-time
+EXP-00657,,Office Supplies,Google Cloud,-364146,312185.55,51960.45,2023-11-15,Pending,Petty Cash,FY2023-2024,Urgent
+EXP-00082,Operations,Maintenance,Infosys,68610,85073.21,-16463.21,2025-03-11,Pending,Petty Cash,FY2024-2025,Urgent
+EXP-00633,Support,Recruitment,TCS,135822,174308.75,-38486.75,2023-06-21,Pending,Bank Transfer,FY2023-2024,Under review
+EXP-00102,Sales,Cloud Infrastructure,Zoom,345563,301764.7,43798.3,2024-02-28,Pending,Petty Cash,FY2023-2024,
+EXP-00136,Engineering,Cloud Infrastructure,SAP,156894,163264.05,,2024-12-28,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00963,Operations,Consulting Fees,SAP,61984,49905.3,12078.7,13/06/2023,Approved,Bank Transfer,FY2023-2024,
+EXP-00653,Operations,Cloud Infrastructure,SAP,369543,335826.66,33716.34,2025-03-04,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00097,Finance,Recruitment,Salesforce,22047,18732.65,3314.35,2023-08-28,Approved,Vendor Credit,FY2023-2024,
+EXP-00973,Support,Cloud Infrastructure,TCS,459776,483816.84,-24040.84,2023-11-22,Approved,Credit Card,FY2023-2024,Under review
+EXP-00868,,Office Supplies,Freshdesk,7126,6813.12,312.88,2024-01-24,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00374,Operations,Salaries,Wipro,240283,238054.36,2228.64,2024-08-03,Approved,Credit Card,FY2024-2025,Duplicate entry
+EXP-00768,Marketing,Office Supplies,Freshdesk,390911,466963.63,-76052.63,2023-09-30,Approved,Bank Transfer,FY2023-2024,
+EXP-00650,Operations,Travel,Freshdesk,129860,115706.78,14153.22,2023-04-11,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00314,Finance,Cloud Infrastructure,SAP,486522,422407.6,64114.4,2023-08-10,Rejected,Vendor Credit,FY2023-2024,
+EXP-00366,Operations,Maintenance,Internal,104377,105713.39,-1336.39,2023-01-17,Approved,Petty Cash,FY2022-2023,
+EXP-00992,Support,Consulting Fees,Microsoft Azure,385423,436848.89,-51425.89,2023-01-30,Approved,Petty Cash,FY2022-2023,
+EXP-00463,Support,Salaries,Wipro,39349,,-5428.59,2023-09-11,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00265,Marketing,Maintenance,Wipro,211242,197885.54,13356.46,2024-03-29,Pending,Credit Card,FY2023-2024,
+EXP-00585,Finance,Office Supplies,Infosys,192510,241497.34,-48987.34,2025-01-26,Approved,Vendor Credit,FY2024-2025,
+EXP-00945,Finance,Training,Internal,372529,330444.99,42084.01,2024-03-11,Approved,Credit Card,FY2023-2024,
+EXP-00353,Support,Marketing Spend,Adobe,124174,134999.2,-10825.2,2025-01-20,Approved,Credit Card,FY2024-2025,
+EXP-00597,Support,Salaries,Freshdesk,1513418,1861019.9,-347601.9,2024-10-03,Approved,Bank Transfer,FY2024-2025,Under review
+EXP-00450,Finance,Consulting Fees,Slack,88024,75983.5,12040.5,2024-01-24,Pending,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00661,Engineering,Consulting Fees,Internal,155428,159304.06,-3876.06,2023-04-25,Approved,Vendor Credit,FY2023-2024,Recurring
+EXP-00525,Engineering,Training,TCS,9342,8812.44,529.56,2024-03-01,Approved,Petty Cash,FY2023-2024,
+EXP-00388,Sales,Consulting Fees,HubSpot,459794,495521.89,-35727.89,2023-11-26,Approved,Credit Card,FY2023-2024,Urgent
+EXP-00485,Engineering,Marketing Spend,Zoom,1152819,976232.83,176586.17,2024-02-07,Approved,Credit Card,FY2023-2024,Under review
+EXP-00016,,Travel,Zoom,124434,102991.71,21442.29,2023-05-08,Rejected,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00038,Sales,Recruitment,Google Cloud,337273,283126.71,54146.29,2023-04-21,Approved,Vendor Credit,FY2023-2024,
+EXP-00589,Support,Marketing Spend,HubSpot,366383,,-3244.17,2024-03-22,Pending,Petty Cash,FY2023-2024,
+EXP-00879,Operations,Office Supplies,Infosys,185302,,144.37,2023-01-17,Approved,Credit Card,FY2022-2023,
+EXP-00618,Engineering,Marketing Spend,Zoom,1730163,1962863.34,-232700.34,2024-10-04,Rejected,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00117,Marketing,Software Licenses,Adobe,431195,354014.53,77180.47,2023-02-24,Approved,Bank Transfer,FY2022-2023,Under review
+EXP-00833,Operations,Hardware,Internal,468114,486733.61,-18619.61,16/11/2024,Approved,Credit Card,FY2024-2025,Under review
+EXP-00731,Marketing,Recruitment,Slack,106866,111424.06,-4558.06,2023-06-01,Pending,Petty Cash,FY2023-2024,Under review
+EXP-00997,Finance,Maintenance,Jira,136390,114143.32,22246.68,2023-04-12,Approved,Credit Card,FY2023-2024,
+EXP-00771,HR,Consulting Fees,Wipro,184423,189513.63,-5090.63,2025-01-22,Approved,Vendor Credit,FY2024-2025,
+EXP-00612,Sales,Hardware,TCS,135949,145617.13,-9668.13,2025-01-07,Approved,Credit Card,FY2024-2025,
+EXP-00279,Sales,Recruitment,Salesforce,355013,433873.38,-78860.38,2024-08-28,Approved,Vendor Credit,FY2024-2025,
+EXP-00608,Marketing,Software Licenses,TCS,-381127,468418.11,-87291.11,2023-03-21,Pending,Credit Card,FY2022-2023,
+EXP-00130,Support,Consulting Fees,TCS,229598,234101.51,-4503.51,2023-02-16,Pending,Vendor Credit,FY2022-2023,One-time
+EXP-00293,Operations,Hardware,Google Cloud,352503,351974.97,,2023-07-11,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00933,Support,Training,Jira,404119,507789.71,-103670.71,30/01/2025,Pending,Credit Card,FY2024-2025,
+EXP-00969,Support,Office Supplies,Google Cloud,237486,,-62189.72,2024-09-10,Approved,Credit Card,FY2024-2025,Duplicate entry
+EXP-00326,Support,Maintenance,Jira,433693,367031.48,66661.52,06/01/2024,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00792,Engineering,Travel,Infosys,96611,108653.68,-12042.68,2024-01-06,Rejected,Vendor Credit,FY2023-2024,Urgent
+EXP-00927,Engineering,Marketing Spend,Zoom,183443,197492.61,-14049.61,2024-07-03,Pending,Vendor Credit,FY2024-2025,Recurring
+EXP-00722,Engineering,Software Licenses,Freshdesk,174207,212011.61,-37804.61,2024-11-01,Approved,Vendor Credit,FY2024-2025,Recurring
+EXP-00345,Marketing,Cloud Infrastructure,Oracle,396708,357430.06,39277.94,2024-04-28,Approved,Credit Card,FY2024-2025,Under review
+EXP-00946,Support,Marketing Spend,Microsoft Azure,341837,347284.19,-5447.19,2023-11-19,Approved,Bank Transfer,FY2023-2024,
+EXP-00088,HR,Consulting Fees,Freshdesk,376158,339960.48,36197.52,2023-03-28,Approved,Vendor Credit,FY2022-2023,
+EXP-00694,Operations,Cloud Infrastructure,Zoom,458826,457487.77,1338.23,2023-10-07,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00186,Support,Maintenance,HubSpot,420952,369624.75,51327.25,2024-08-03,Approved,Vendor Credit,FY2024-2025,
+EXP-00964,HR,Consulting Fees,Infosys,337906,276385.51,61520.49,2023-11-18,Approved,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00153,Sales,Office Supplies,Jira,164440,178586.21,-14146.21,2023-07-28,Approved,Vendor Credit,FY2023-2024,
+EXP-00644,Engineering,Recruitment,Adobe,32187,34475.03,-2288.03,2025-02-19,Pending,Credit Card,FY2024-2025,One-time
+EXP-00260,Support,Recruitment,AWS,324601,287171.81,37429.19,2024-07-07,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00951,Operations,Cloud Infrastructure,Freshdesk,331654,268479.61,63174.39,2024-08-12,Approved,Credit Card,FY2024-2025,Urgent
+EXP-00760,Marketing,Travel,Oracle,44661,41481.31,3179.69,2024-03-06,Approved,Petty Cash,FY2023-2024,
+EXP-00402,Support,Software Licenses,Freshdesk,453730,510152.61,-56422.61,2024-09-27,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00983,Sales,Training,HubSpot,423764,405457.04,18306.96,2023-01-07,Pending,Credit Card,FY2022-2023,Recurring
+EXP-00847,Sales,Marketing Spend,Oracle,144259,121518.78,22740.22,2023-09-25,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00647,HR,Marketing Spend,Infosys,147402,124565.51,22836.49,2024-12-07,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00528,Marketing,Training,Internal,225623,,,2024-07-18,Approved,Petty Cash,FY2024-2025,
+EXP-00965,Engineering,Utilities,AWS,166425,135189.43,31235.57,2023-10-30,Pending,Vendor Credit,FY2023-2024,Recurring
+EXP-00018,Operations,Marketing Spend,Internal,273290,311758.25,-38468.25,2024-07-07,Pending,Credit Card,FY2024-2025,Recurring
+EXP-00529,Finance,Cloud Infrastructure,SAP,128602,114727.23,13874.77,2023-09-10,Approved,Vendor Credit,FY2023-2024,
+EXP-00936,Support,Travel,Jira,4800245,5636583.53,-836338.53,2024-06-24,Pending,Vendor Credit,FY2024-2025,One-time
+EXP-00134,Engineering,Recruitment,Microsoft Azure,209161,233184.37,-24023.37,2024-05-10,Pending,Credit Card,FY2024-2025,Duplicate entry
+EXP-00167,,Hardware,HubSpot,152175,193269.34,-41094.34,2023-08-30,Approved,Credit Card,FY2023-2024,
+EXP-00874,Marketing,Training,Wipro,57859,64236.01,-6377.01,2024-03-31,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00116,Finance,Software Licenses,Oracle,472955,469734.61,3220.39,20/08/2024,Approved,Petty Cash,FY2024-2025,
+EXP-00357,Engineering,Cloud Infrastructure,Wipro,489458,631283.82,-141825.82,2024-11-05,Approved,Credit Card,FY2024-2025,
+EXP-00418,Operations,Recruitment,SAP,477763,,-42558.59,2023-07-31,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00157,Finance,Salaries,Google Cloud,49062,62332.62,-13270.62,2024-05-18,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00062,Marketing,Salaries,Internal,304215,327764.48,-23549.48,2024-08-21,Approved,Petty Cash,FY2024-2025,Urgent
+EXP-00516,Sales,Utilities,Internal,279164,339590.04,-60426.04,2024-12-30,Pending,Petty Cash,FY2024-2025,
+EXP-00890,Engineering,Recruitment,Zoom,239465,273381.19,-33916.19,2023-10-21,Rejected,Bank Transfer,FY2023-2024,
+EXP-00655,HR,Software Licenses,Adobe,327656,330558.96,-2902.96,2024-09-11,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00744,Operations,Salaries,Internal,-481907,574285.49,-92378.49,2023-05-12,Approved,Vendor Credit,FY2023-2024,
+EXP-00286,HR,Marketing Spend,Infosys,1608463,1418787.56,189675.44,2023-01-17,Approved,Petty Cash,FY2022-2023,
+EXP-00278,Operations,Software Licenses,SAP,141903,179555.76,-37652.76,2024-04-12,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00273,Sales,Recruitment,Wipro,441309,483917.39,-42608.39,2024-02-02,Approved,Bank Transfer,FY2023-2024,
+EXP-00518,Finance,Travel,AWS,80966,103931.53,-22965.53,2023-12-17,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00728,Support,Utilities,SAP,294015,276075.45,17939.55,2024-06-30,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00039,Support,Salaries,Freshdesk,153303,177135.38,-23832.38,2023-06-15,Approved,Bank Transfer,FY2023-2024,
+EXP-00724,Finance,Recruitment,Google Cloud,211411,252479.02,-41068.02,16/03/2025,Pending,Bank Transfer,FY2024-2025,One-time
+EXP-00761,Support,Maintenance,HubSpot,373244,480332.25,-107088.25,2023-11-25,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00022,Sales,Travel,Jira,267652,,-13213.99,2024-07-05,Pending,Petty Cash,FY2024-2025,One-time
+EXP-00448,Operations,Consulting Fees,Wipro,220365,282212.24,-61847.24,2025-02-23,Approved,Petty Cash,FY2024-2025,
+EXP-00141,,Training,Microsoft Azure,311812,335222.12,-23410.12,2025-01-26,Pending,Vendor Credit,FY2024-2025,Urgent
+EXP-00344,Sales,Salaries,Adobe,54662,46375.08,8286.92,2024-04-14,Approved,Vendor Credit,FY2024-2025,
+EXP-00168,HR,Utilities,HubSpot,173148,159275.15,13872.85,16/10/2024,Approved,Vendor Credit,FY2024-2025,Recurring
+EXP-00749,Operations,Marketing Spend,HubSpot,467487,504063.51,-36576.51,2023-09-11,Approved,Credit Card,FY2023-2024,Urgent
+EXP-00073,Engineering,Utilities,HubSpot,-320442,347695.36,-27253.36,2025-02-03,Pending,Credit Card,FY2024-2025,Recurring
+EXP-00896,Finance,Travel,Google Cloud,452049,552989.04,-100940.04,2023-05-05,Approved,Vendor Credit,FY2023-2024,Recurring
+EXP-00384,Support,Cloud Infrastructure,Infosys,478495,412509.84,65985.16,2023-03-22,Approved,Vendor Credit,FY2022-2023,
+EXP-00980,Engineering,Office Supplies,SAP,20639,18677.73,1961.27,2023-04-04,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00972,Finance,Recruitment,Slack,434916,402840.15,32075.85,2025-03-25,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00432,HR,Consulting Fees,Salesforce,187040,,-9687.63,2024-03-29,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00622,Marketing,Travel,SAP,108129,97670.78,10458.22,2025-01-31,Pending,Petty Cash,FY2024-2025,Urgent
+EXP-00253,Support,Software Licenses,Internal,496893,539724.06,-42831.06,2024-05-14,Approved,Petty Cash,FY2024-2025,
+EXP-00312,Support,Software Licenses,Freshdesk,315242,353921.75,-38679.75,2023-08-29,Rejected,Petty Cash,FY2023-2024,Urgent
+EXP-00878,Sales,Consulting Fees,Wipro,223813,205492.11,18320.89,2023-12-12,Approved,Credit Card,FY2023-2024,
+EXP-00645,Marketing,Marketing Spend,Internal,366449,378351.62,-11902.62,31/01/2023,Pending,Credit Card,FY2022-2023,
+EXP-00008,,Cloud Infrastructure,Oracle,25682,30711.55,-5029.55,2025-02-12,Approved,Petty Cash,FY2024-2025,
+EXP-00487,Engineering,Training,Jira,45078,46626.72,-1548.72,2023-05-16,Approved,Vendor Credit,FY2023-2024,
+EXP-00730,Marketing,Utilities,Jira,359864,417616.71,-57752.71,29/03/2025,Rejected,Credit Card,FY2024-2025,
+EXP-00221,Support,Travel,Jira,378394,417751.85,-39357.85,2024-05-18,Approved,Bank Transfer,FY2024-2025,
+EXP-00276,Sales,Consulting Fees,Slack,244293,308057.15,-63764.15,2023-09-24,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00985,Engineering,Hardware,Zoom,438697,394827.65,43869.35,2023-06-21,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00043,HR,Recruitment,Freshdesk,494478,425644.3,68833.7,2024-07-11,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00503,HR,Training,Oracle,90424,98893.58,-8469.58,2024-07-10,Approved,Bank Transfer,FY2024-2025,
+EXP-00142,Support,Training,Wipro,391262,331538.21,59723.79,2024-08-02,Approved,Credit Card,FY2024-2025,
+EXP-00162,HR,Consulting Fees,Freshdesk,97915,,12794.13,2024-07-09,Pending,Credit Card,FY2024-2025,Urgent
+EXP-00098,Support,Consulting Fees,Oracle,360413,394450.86,-34037.86,2024-02-27,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00986,Marketing,Utilities,Jira,211741,259695.42,-47954.42,2023-10-02,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00375,Marketing,Software Licenses,Google Cloud,252414,300603.15,-48189.15,2024-05-06,Pending,Bank Transfer,FY2024-2025,
+EXP-00268,Marketing,Maintenance,TCS,182510,171655.83,10854.17,2024-03-23,Approved,Credit Card,FY2023-2024,
+EXP-00624,Support,Office Supplies,TCS,269988,246791.93,23196.07,2024-12-18,Approved,Credit Card,FY2024-2025,Under review
+EXP-00078,Support,Maintenance,Zoom,3713747,3704060.42,9686.58,2024-09-18,Approved,Bank Transfer,FY2024-2025,
+EXP-00785,Sales,Travel,Jira,172544,204995.71,-32451.71,2023-11-18,Approved,Petty Cash,FY2023-2024,Urgent
+EXP-00325,HR,Office Supplies,Internal,-127359,114724.18,12634.82,2025-02-19,Approved,Petty Cash,FY2024-2025,
+EXP-00296,Support,Salaries,Wipro,372228,403678.43,,2023-06-10,Rejected,Credit Card,FY2023-2024,Under review
+EXP-00310,Operations,Recruitment,Wipro,168643,164538.24,4104.76,2023-07-01,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00161,Marketing,Marketing Spend,Oracle,462507,382064.83,80442.17,04/03/2025,Approved,Vendor Credit,FY2024-2025,
+EXP-00716,Sales,Utilities,AWS,267508,263079.68,4428.32,2023-09-24,Rejected,Credit Card,FY2023-2024,
+EXP-00901,Operations,Office Supplies,Salesforce,390884,374286.3,16597.7,2024-07-17,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00317,Finance,Maintenance,Slack,459680,442515.12,17164.88,2023-02-21,Approved,Bank Transfer,FY2022-2023,Urgent
+EXP-00989,Sales,Salaries,Microsoft Azure,-300675,324757.98,-24082.98,2023-08-05,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00857,Finance,Utilities,Adobe,465199,577067.33,-111868.33,2023-08-28,Approved,Bank Transfer,FY2023-2024,
+EXP-00422,Marketing,Training,Adobe,166289,178135.73,-11846.73,2025-02-16,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00190,Finance,Software Licenses,HubSpot,246882,237164.36,9717.64,2024-05-21,Approved,Vendor Credit,FY2024-2025,
+EXP-00773,Engineering,Cloud Infrastructure,HubSpot,51577,56897.67,-5320.67,2023-12-30,Rejected,Petty Cash,FY2023-2024,
+EXP-00510,Finance,Salaries,Zoom,297578,298238.42,-660.42,2023-01-20,Approved,Bank Transfer,FY2022-2023,
+EXP-00333,Support,Marketing Spend,Salesforce,95596,78741.84,16854.16,2023-06-08,Approved,Petty Cash,FY2023-2024,
+EXP-00077,Sales,Recruitment,AWS,56472,62808.17,-6336.17,2023-09-21,Approved,Vendor Credit,FY2023-2024,
+EXP-00044,Finance,Office Supplies,AWS,473688,570098.88,-96410.88,2024-06-13,Pending,Bank Transfer,FY2024-2025,One-time
+EXP-00464,Engineering,Travel,Zoom,143902,164879.64,-20977.64,2023-12-02,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00229,HR,Maintenance,TCS,345077,406184.97,-61107.97,16/11/2024,Approved,Credit Card,FY2024-2025,
+EXP-00245,HR,Cloud Infrastructure,Salesforce,494859,567526.83,,2024-12-22,Approved,Petty Cash,FY2024-2025,
+EXP-00302,Finance,Hardware,SAP,443452,575687.89,-132235.89,2024-11-08,Approved,Petty Cash,FY2024-2025,
+EXP-00719,,Recruitment,Zoom,40368,44470.92,-4102.92,2023-01-17,Approved,Vendor Credit,FY2022-2023,
+EXP-00249,Marketing,Hardware,Internal,471872,566563.03,-94691.03,2024-01-21,Approved,Vendor Credit,FY2023-2024,
+EXP-00999,Marketing,Salaries,Microsoft Azure,99051,91537.26,7513.74,2024-08-21,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00241,Support,Recruitment,Oracle,308813,393590.64,-84777.64,2023-02-12,Approved,Petty Cash,FY2022-2023,
+EXP-00703,Engineering,Utilities,TCS,279525,,-62165.66,2024-01-15,Approved,Bank Transfer,FY2023-2024,
+EXP-00755,Finance,Travel,SAP,176344,147089.59,29254.41,2023-03-24,Pending,Vendor Credit,FY2022-2023,
+EXP-00862,Sales,Maintenance,Internal,202059,214400.08,-12341.08,2024-11-10,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00123,HR,Cloud Infrastructure,Infosys,204347,265256.24,-60909.24,2023-04-25,Approved,Petty Cash,FY2023-2024,
+EXP-00855,Marketing,Office Supplies,HubSpot,371913,475768.76,-103855.76,2024-01-05,Rejected,Credit Card,FY2023-2024,Recurring
+EXP-00894,Support,Office Supplies,AWS,-108504,96552.71,11951.29,2023-01-30,Approved,Bank Transfer,FY2022-2023,Duplicate entry
+EXP-00440,Sales,Recruitment,Oracle,151657,124726.85,26930.15,2025-03-05,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00058,HR,Travel,Internal,340393,291407.78,48985.22,2023-02-27,Approved,Petty Cash,FY2022-2023,
+EXP-00552,Engineering,Salaries,Salesforce,177021,158438.09,18582.91,2024-07-27,Pending,Bank Transfer,FY2024-2025,
+EXP-00380,Sales,Marketing Spend,Wipro,200091,186754.24,13336.76,2025-02-24,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00918,,Office Supplies,Adobe,358325,461258.94,,2023-02-02,Approved,Bank Transfer,FY2022-2023,
+EXP-00257,Operations,Cloud Infrastructure,Oracle,-35128,29966.82,,2023-08-12,Pending,Credit Card,FY2023-2024,Under review
+EXP-00905,Finance,Hardware,Wipro,4358293,5166695.0,-808402.0,2024-01-22,Approved,Credit Card,FY2023-2024,Under review
+EXP-00949,Finance,Hardware,Jira,132876,147462.63,-14586.63,2024-04-13,Approved,Credit Card,FY2024-2025,
+EXP-00678,Engineering,Office Supplies,Freshdesk,54614,70308.76,-15694.76,2024-01-03,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00735,Support,Hardware,Infosys,414463,,54184.76,2023-12-28,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00237,Marketing,Hardware,TCS,443121,551963.4,-108842.4,2024-11-22,Pending,Vendor Credit,FY2024-2025,Recurring
+EXP-00305,Marketing,Cloud Infrastructure,TCS,234541,225716.25,8824.75,2024-11-26,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00465,Finance,,Internal,-240438,254793.43,-14355.43,2024-08-28,Pending,Petty Cash,FY2024-2025,
+EXP-00547,Finance,Training,Salesforce,93904,111592.85,-17688.85,2024-05-06,Approved,Credit Card,FY2024-2025,
+EXP-00815,Operations,Recruitment,Freshdesk,169006,183369.65,-14363.65,2024-12-24,Approved,Petty Cash,FY2024-2025,
+EXP-00446,Marketing,Cloud Infrastructure,Jira,155157,166937.55,-11780.55,2024-06-28,Approved,Vendor Credit,FY2024-2025,
+EXP-00753,Finance,Recruitment,Slack,234555,295708.01,-61153.01,2023-06-12,Approved,Bank Transfer,FY2023-2024,
+EXP-00812,HR,Utilities,HubSpot,285882,241023.36,44858.64,2023-03-25,Approved,Credit Card,FY2022-2023,
+EXP-00852,Engineering,Cloud Infrastructure,Slack,170840,195983.39,-25143.39,2023-06-13,Approved,Bank Transfer,FY2023-2024,
+EXP-00737,Finance,Marketing Spend,SAP,463398,404538.19,58859.81,2023-03-23,Approved,Petty Cash,FY2022-2023,
+EXP-00064,Finance,Salaries,Freshdesk,268218,259866.86,8351.14,2023-07-31,Pending,Vendor Credit,FY2023-2024,
+EXP-00504,Support,Hardware,Infosys,11967,12554.29,-587.29,2023-07-27,Pending,Vendor Credit,FY2023-2024,Under review
+EXP-00688,Operations,Maintenance,Freshdesk,366725,418050.52,-51325.52,25/11/2024,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00831,Marketing,Cloud Infrastructure,SAP,313933,404263.33,-90330.33,2024-08-25,Pending,Vendor Credit,FY2024-2025,Under review
+EXP-00400,Marketing,Cloud Infrastructure,Infosys,369633,,-91374.27,14/10/2024,Approved,Bank Transfer,FY2024-2025,
+EXP-00409,Marketing,Recruitment,Oracle,225458,282950.07,-57492.07,2024-11-19,Approved,Bank Transfer,FY2024-2025,
+EXP-00087,Support,Cloud Infrastructure,HubSpot,355880,416455.43,,2024-05-27,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00667,Operations,,Freshdesk,256522,314177.12,-57655.12,2023-05-30,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00128,Marketing,Travel,TCS,341743,,53888.7,2023-10-11,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00040,Engineering,Consulting Fees,Slack,433989,560209.31,,27/06/2023,Approved,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00910,Marketing,Marketing Spend,Salesforce,353541,437206.53,-83665.53,2024-03-29,Approved,Credit Card,FY2023-2024,
+EXP-00826,Marketing,Salaries,Slack,373087,,27056.95,2024-09-26,Pending,Petty Cash,FY2024-2025,Under review
+EXP-00551,Finance,Maintenance,Oracle,279563,234612.89,44950.11,2024-11-26,Approved,Credit Card,FY2024-2025,
+EXP-00425,Finance,Utilities,Wipro,487139,421965.28,65173.72,2023-05-01,Pending,Credit Card,FY2023-2024,Under review
+EXP-00484,Operations,Office Supplies,Jira,101020,107948.77,-6928.77,2025-03-14,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00591,Operations,Marketing Spend,AWS,3871580,4477180.86,-605600.86,2024-08-04,Approved,Bank Transfer,FY2024-2025,Under review
+EXP-00640,Engineering,Salaries,TCS,206855,241953.53,-35098.53,2024-07-02,Approved,Petty Cash,FY2024-2025,
+EXP-00509,HR,Software Licenses,Zoom,110290,120734.21,-10444.21,2024-10-02,Approved,Credit Card,FY2024-2025,
+EXP-00893,Marketing,Office Supplies,Microsoft Azure,192063,226771.37,-34708.37,2024-03-26,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00614,Engineering,Hardware,Zoom,224252,185020.29,39231.71,2024-06-01,Pending,Credit Card,FY2024-2025,One-time
+EXP-00698,Engineering,Recruitment,Adobe,32855,38176.58,-5321.58,2024-12-10,Pending,Vendor Credit,FY2024-2025,Under review
+EXP-00885,HR,Travel,Slack,136601,159694.84,-23093.84,2023-08-23,Approved,Credit Card,FY2023-2024,
+EXP-00225,Finance,Office Supplies,HubSpot,360122,401001.23,-40879.23,2024-09-28,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00740,Engineering,Consulting Fees,Google Cloud,126970,120592.95,6377.05,2023-03-09,Approved,Vendor Credit,FY2022-2023,
+EXP-00804,Engineering,Recruitment,Internal,441904,499211.03,-57307.03,2024-10-06,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00069,Operations,Maintenance,Oracle,309027,360549.36,-51522.36,12/03/2025,Approved,Vendor Credit,FY2024-2025,
+EXP-00204,Operations,Consulting Fees,Oracle,413361,485666.79,-72305.79,2024-06-06,Rejected,Vendor Credit,FY2024-2025,
+EXP-00562,Marketing,Software Licenses,AWS,189952,208997.94,-19045.94,2023-11-28,Approved,Petty Cash,FY2023-2024,
+EXP-00014,Marketing,Salaries,AWS,78379,88467.55,-10088.55,2025-03-28,Rejected,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00921,Engineering,Salaries,Zoom,-60952,72912.62,-11960.62,2024-02-17,Approved,Vendor Credit,FY2023-2024,One-time
+EXP-00304,Finance,Travel,Internal,269339,288948.13,-19609.13,2023-08-17,Approved,Vendor Credit,FY2023-2024,
+EXP-00013,Support,Utilities,AWS,274282,229786.46,44495.54,2024-02-28,Rejected,Petty Cash,FY2023-2024,One-time
+EXP-00412,Marketing,Hardware,Adobe,2978304,3616084.01,-637780.01,2024-07-11,Rejected,Credit Card,FY2024-2025,
+EXP-00063,Finance,Training,Adobe,455959,368542.6,87416.4,2023-08-29,Approved,Credit Card,FY2023-2024,Duplicate entry
+EXP-00948,Marketing,Salaries,Internal,385655,420574.97,-34919.97,2024-05-13,Approved,Bank Transfer,FY2024-2025,
+EXP-00818,,Salaries,Microsoft Azure,154946,196174.27,-41228.27,2023-05-12,Approved,Vendor Credit,FY2023-2024,
+EXP-00269,Engineering,Hardware,SAP,177724,225967.83,-48243.83,2024-06-27,Approved,Credit Card,FY2024-2025,
+EXP-00991,Engineering,Maintenance,Freshdesk,163856,149335.29,14520.71,2023-07-02,Approved,Bank Transfer,FY2023-2024,
+EXP-00604,Sales,Hardware,Internal,196085,235636.22,,2023-02-24,Pending,Bank Transfer,FY2022-2023,Urgent
+EXP-00584,Support,Salaries,Zoom,188428,202347.11,-13919.11,2025-02-10,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00911,Support,Training,Slack,23493,22343.54,1149.46,2025-02-18,Approved,Credit Card,FY2024-2025,Duplicate entry
+EXP-00825,Support,Hardware,Internal,482592,497325.81,-14733.81,2023-05-19,Pending,Petty Cash,FY2023-2024,One-time
+EXP-00976,Support,Consulting Fees,Wipro,273900,255513.07,18386.93,2023-06-10,Approved,Bank Transfer,FY2023-2024,
+EXP-00800,HR,Office Supplies,Infosys,59074,60585.23,-1511.23,2023-02-15,Approved,Credit Card,FY2022-2023,One-time
+EXP-00521,HR,Utilities,Microsoft Azure,69757,86250.27,-16493.27,2024-07-04,Pending,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00673,Engineering,Marketing Spend,Slack,251254,218808.44,32445.56,2024-10-11,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00335,Support,Travel,Jira,440497,413309.43,27187.57,2023-06-04,Approved,Petty Cash,FY2023-2024,
+EXP-00534,Operations,Travel,Salesforce,72960,63624.22,9335.78,2025-03-02,Approved,Petty Cash,FY2024-2025,
+EXP-00081,Sales,Training,Slack,223349,214786.72,8562.28,2024-06-30,Approved,Vendor Credit,FY2024-2025,
+EXP-00620,Support,Recruitment,Microsoft Azure,426324,511837.01,-85513.01,2023-06-22,Pending,Credit Card,FY2023-2024,
+EXP-00280,HR,Marketing Spend,Jira,52829,46790.34,6038.66,2024-10-26,Approved,Bank Transfer,FY2024-2025,
+EXP-00387,Marketing,,HubSpot,277874,297760.69,-19886.69,2023-06-14,Approved,Vendor Credit,FY2023-2024,
+EXP-00830,Engineering,Training,Wipro,484354,601393.41,-117039.41,2023-12-15,Pending,Bank Transfer,FY2023-2024,
+EXP-00904,Operations,Cloud Infrastructure,SAP,267336,,-66738.82,2024-02-28,Approved,Credit Card,FY2023-2024,
+EXP-00332,Finance,Training,Slack,234724,228850.97,5873.03,2024-03-26,Approved,Petty Cash,FY2023-2024,
+EXP-00118,Support,Travel,Jira,57908,52714.69,5193.31,2024-05-19,Pending,Bank Transfer,FY2024-2025,
+EXP-00182,Engineering,Training,Google Cloud,170596,198553.44,-27957.44,2023-08-16,Pending,Credit Card,FY2023-2024,
+EXP-00689,,Travel,Wipro,305798,247167.65,58630.35,2023-12-07,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00613,Marketing,Recruitment,Wipro,406142,459946.66,-53804.66,2023-11-25,Approved,Bank Transfer,FY2023-2024,
+EXP-00978,Engineering,Training,Salesforce,213389,269457.19,-56068.19,2023-09-03,Pending,Vendor Credit,FY2023-2024,
+EXP-00866,Finance,Consulting Fees,Salesforce,453323,367797.88,85525.12,2023-05-03,Pending,Petty Cash,FY2023-2024,
+EXP-00810,Engineering,Salaries,Salesforce,269050,333174.65,-64124.65,2024-03-11,Approved,Credit Card,FY2023-2024,
+EXP-00035,Marketing,Maintenance,Freshdesk,51108,46369.98,4738.02,2023-05-31,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00988,Operations,,Slack,371069,418595.72,-47526.72,2023-05-29,Pending,Petty Cash,FY2023-2024,
+EXP-00704,Operations,Marketing Spend,Internal,372842,397469.52,-24627.52,2024-08-18,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00581,Sales,Salaries,AWS,1811621,1654255.19,157365.81,2023-08-10,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00766,Marketing,Software Licenses,Adobe,175404,214676.76,-39272.76,2023-03-21,Rejected,Credit Card,FY2022-2023,
+EXP-00215,Operations,Travel,Google Cloud,208150,249693.88,-41543.88,2024-08-14,Approved,Petty Cash,FY2024-2025,
+EXP-00437,Operations,Training,Internal,-465791,405659.2,60131.8,2023-07-16,Approved,Vendor Credit,FY2023-2024,
+EXP-00672,HR,Salaries,Microsoft Azure,432960,437124.63,,2023-10-26,Approved,Credit Card,FY2023-2024,One-time
+EXP-00789,Finance,Office Supplies,Slack,20956,17326.4,3629.6,2023-02-16,Rejected,Bank Transfer,FY2022-2023,
+EXP-00903,Marketing,Recruitment,Jira,227030,287338.31,-60308.31,2024-03-18,Approved,Vendor Credit,FY2023-2024,Recurring
+EXP-00239,Sales,,Freshdesk,497199,587241.95,-90042.95,2023-10-27,Approved,Bank Transfer,FY2023-2024,
+EXP-00421,Engineering,Utilities,Zoom,17494,21819.33,-4325.33,30/10/2023,Pending,Vendor Credit,FY2023-2024,
+EXP-00408,Support,Consulting Fees,Infosys,310160,351074.26,-40914.26,2024-02-15,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00770,Sales,Marketing Spend,Slack,215143,173090.34,42052.66,2023-02-24,Approved,Petty Cash,FY2022-2023,
+EXP-00287,HR,Utilities,Zoom,144022,151176.37,-7154.37,2023-12-04,Approved,Petty Cash,FY2023-2024,
+EXP-00907,Operations,Training,Wipro,299426,281637.83,17788.17,2024-08-12,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00877,Support,Training,Salesforce,371377,,27780.1,2024-12-12,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00590,Support,Marketing Spend,Microsoft Azure,175604,212918.44,-37314.44,2023-07-04,Approved,Bank Transfer,FY2023-2024,
+EXP-00635,Marketing,Travel,HubSpot,281456,247438.74,34017.26,2025-01-11,Approved,Credit Card,FY2024-2025,One-time
+EXP-00679,Marketing,Marketing Spend,Google Cloud,244563,224303.12,20259.88,2023-11-17,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00211,,Salaries,Wipro,346906,299819.77,47086.23,31/05/2023,Rejected,Bank Transfer,FY2023-2024,
+EXP-00295,Operations,Marketing Spend,Slack,69004,66399.42,2604.58,2024-06-07,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00342,Marketing,Consulting Fees,Freshdesk,245775,198192.49,47582.51,2023-09-04,Pending,Vendor Credit,FY2023-2024,Recurring
+EXP-00968,Engineering,Salaries,AWS,79739,,2716.18,10/08/2023,Rejected,Bank Transfer,FY2023-2024,
+EXP-00538,,Travel,SAP,475254,614613.85,-139359.85,2023-08-15,Approved,Credit Card,FY2023-2024,
+EXP-00713,Sales,Hardware,Microsoft Azure,398103,495766.71,-97663.71,2024-10-23,Rejected,Credit Card,FY2024-2025,
+EXP-00820,Support,Consulting Fees,Google Cloud,260242,323419.07,-63177.07,2024-04-21,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00491,Engineering,Recruitment,TCS,158593,189811.45,-31218.45,2023-10-20,Approved,Petty Cash,FY2023-2024,
+EXP-00466,Support,Software Licenses,Adobe,454117,,-112004.76,2023-05-31,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00794,Support,Maintenance,Salesforce,51429,53477.37,-2048.37,2024-12-31,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00676,Marketing,Salaries,Freshdesk,22033,26884.92,-4851.92,2023-10-01,Approved,Petty Cash,FY2023-2024,
+EXP-00723,Marketing,,SAP,122344,98440.35,23903.65,2024-04-22,Pending,Petty Cash,FY2024-2025,
+EXP-00414,Engineering,Software Licenses,Oracle,214170,193322.14,20847.86,2023-05-20,Approved,Vendor Credit,FY2023-2024,
+EXP-00840,Marketing,Hardware,Microsoft Azure,3822383,3168723.63,653659.37,2024-02-26,Approved,Credit Card,FY2023-2024,
+EXP-00822,HR,Consulting Fees,Wipro,89658,75892.79,13765.21,2024-10-29,Approved,Bank Transfer,FY2024-2025,
+EXP-00677,Sales,,Wipro,35480,46114.75,-10634.75,2025-02-13,Pending,Vendor Credit,FY2024-2025,
+EXP-00055,Finance,Office Supplies,Slack,310632,250617.47,60014.53,2023-07-21,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00486,Operations,Utilities,Jira,424438,494028.26,-69590.26,2023-09-03,Approved,Vendor Credit,FY2023-2024,
+EXP-00929,Finance,Utilities,Jira,22535,,4387.13,2024-06-01,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00160,Support,Marketing Spend,Wipro,3850812,3234335.68,616476.32,2025-01-17,Approved,Credit Card,FY2024-2025,
+EXP-00206,Finance,Office Supplies,Internal,185774,195983.52,-10209.52,2024-12-16,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00217,HR,Travel,Salesforce,198986,239082.26,-40096.26,2025-01-02,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00125,Support,Salaries,Microsoft Azure,219434,,-44566.7,2024-02-15,Approved,Bank Transfer,FY2023-2024,
+EXP-00105,,Training,Oracle,4688784,3938191.01,750592.99,2023-03-27,Rejected,Credit Card,FY2022-2023,
+EXP-00782,HR,Training,TCS,459002,515040.04,-56038.04,2024-01-02,Approved,Vendor Credit,FY2023-2024,
+EXP-00340,Support,Office Supplies,Adobe,279796,340405.24,-60609.24,2024-05-24,Approved,Credit Card,FY2024-2025,One-time
+EXP-00567,Support,Office Supplies,HubSpot,130966,160856.99,-29890.99,2024-12-15,Approved,Credit Card,FY2024-2025,
+EXP-00867,Operations,Consulting Fees,Microsoft Azure,436714,541586.1,-104872.1,2023-04-13,Pending,Vendor Credit,FY2023-2024,
+EXP-00137,Marketing,Cloud Infrastructure,HubSpot,470117,426638.91,43478.09,2024-06-23,Approved,Bank Transfer,FY2024-2025,
+EXP-00813,Operations,Hardware,Infosys,421801,542788.9,,2024-11-02,Approved,Bank Transfer,FY2024-2025,
+EXP-00308,Engineering,Salaries,SAP,45851,38583.03,7267.97,2023-04-02,Approved,Bank Transfer,FY2023-2024,Urgent
+EXP-00902,Engineering,Travel,Jira,53313,50666.5,2646.5,2023-03-11,Approved,Petty Cash,FY2022-2023,
+EXP-00068,Support,Maintenance,Google Cloud,452489,461452.81,-8963.81,2024-12-10,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00746,Engineering,Marketing Spend,Google Cloud,36246,38737.8,-2491.8,2023-07-25,Approved,Vendor Credit,FY2023-2024,
+EXP-00054,HR,Salaries,Adobe,209996,243691.0,-33695.0,2024-04-27,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00386,Sales,Travel,Microsoft Azure,113531,133028.99,-19497.99,2023-08-06,Rejected,Credit Card,FY2023-2024,
+EXP-00863,Finance,Office Supplies,Internal,379506,347157.14,32348.86,2024-12-18,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00379,Operations,Hardware,AWS,339420,365658.17,-26238.17,2025-02-13,Rejected,Bank Transfer,FY2024-2025,
+EXP-00005,HR,Maintenance,Slack,241358,279603.75,-38245.75,2024-05-05,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00119,HR,Hardware,Google Cloud,4553011,5566948.43,-1013937.43,2024-01-03,Approved,Credit Card,FY2023-2024,
+EXP-00496,Engineering,Office Supplies,Microsoft Azure,475898,548590.42,-72692.42,2023-02-25,Approved,Credit Card,FY2022-2023,
+EXP-00819,Engineering,Utilities,Freshdesk,49983,,-7108.96,2023-12-17,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00175,Finance,Office Supplies,Zoom,306684,366786.93,-60102.93,2023-01-21,Approved,Credit Card,FY2022-2023,Urgent
+EXP-00610,Operations,Hardware,Oracle,357162,401350.71,-44188.71,2024-12-02,Rejected,Bank Transfer,FY2024-2025,One-time
+EXP-00187,Engineering,Training,Google Cloud,135756,171145.25,-35389.25,2023-02-03,Approved,Credit Card,FY2022-2023,
+EXP-00197,Engineering,Training,Infosys,-454060,541468.72,-87408.72,2023-06-13,Approved,Bank Transfer,FY2023-2024,
+EXP-00435,Operations,Office Supplies,Jira,180981,202962.35,-21981.35,2024-01-04,Pending,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00436,Engineering,Recruitment,Zoom,217431,192943.18,24487.82,2024-09-17,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00023,Support,Maintenance,Adobe,456859,418180.83,38678.17,2024-08-16,Approved,Credit Card,FY2024-2025,
+EXP-00469,Sales,Marketing Spend,Microsoft Azure,138304,121588.97,,2023-09-12,Approved,Vendor Credit,FY2023-2024,
+EXP-00922,Engineering,Office Supplies,Infosys,257469,258131.14,,2024-07-26,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00483,Finance,Consulting Fees,Slack,492950,504226.0,-11276.0,2025-02-04,Approved,Vendor Credit,FY2024-2025,
+EXP-00928,Marketing,Cloud Infrastructure,Wipro,495963,486284.39,9678.61,2024-06-05,Approved,Vendor Credit,FY2024-2025,
+EXP-00579,Operations,Maintenance,Zoom,215775,205206.27,10568.73,2024-07-25,Pending,Credit Card,FY2024-2025,Under review
+EXP-00350,HR,Training,SAP,3987139,3613274.29,373864.71,2023-07-01,Approved,Credit Card,FY2023-2024,One-time
+EXP-00075,Finance,Software Licenses,SAP,31262,30459.49,802.51,2025-01-29,Approved,Bank Transfer,FY2024-2025,
+EXP-00415,HR,Hardware,Oracle,21608,21731.88,-123.88,2023-02-19,Pending,Bank Transfer,FY2022-2023,Urgent
+EXP-00523,HR,Maintenance,Oracle,152980,166179.15,-13199.15,2024-05-19,Approved,Petty Cash,FY2024-2025,
+EXP-00316,Engineering,Salaries,Oracle,32515,33972.97,-1457.97,2024-09-10,Pending,Petty Cash,FY2024-2025,Urgent
+EXP-00558,Engineering,Utilities,Oracle,195589,191747.64,3841.36,2025-03-01,Pending,Credit Card,FY2024-2025,One-time
+EXP-00783,Sales,Training,AWS,207083,190317.26,,2023-02-23,Pending,Bank Transfer,FY2022-2023,Duplicate entry
+EXP-00457,Engineering,Maintenance,AWS,408903,385116.53,23786.47,2023-12-12,Pending,Bank Transfer,FY2023-2024,
+EXP-00009,Operations,Utilities,Google Cloud,90070,106873.96,-16803.96,2024-05-09,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00191,,Hardware,Salesforce,70355,81689.77,-11334.77,2023-09-02,Approved,Vendor Credit,FY2023-2024,
+EXP-00912,Operations,Cloud Infrastructure,Zoom,-75828,81600.58,-5772.58,2023-10-04,Pending,Petty Cash,FY2023-2024,
+EXP-00041,HR,Travel,Adobe,1149403,1033128.69,116274.31,2024-02-03,Approved,Vendor Credit,FY2023-2024,
+EXP-00659,Finance,Cloud Infrastructure,Salesforce,-459741,,-106154.25,2024-11-05,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00165,HR,Salaries,Infosys,120321,96259.98,24061.02,2024-11-21,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00886,Marketing,Training,Freshdesk,318895,263063.44,55831.56,2024-06-18,Pending,Vendor Credit,FY2024-2025,Under review
+EXP-00757,Sales,Maintenance,Internal,490856,485440.31,5415.69,2024-08-02,Pending,Vendor Credit,FY2024-2025,
+EXP-00742,Finance,Utilities,Slack,457290,477968.21,-20678.21,2023-04-02,Pending,Vendor Credit,FY2023-2024,
+EXP-00216,Finance,Consulting Fees,TCS,232010,250718.99,-18708.99,2023-10-05,Approved,Petty Cash,FY2023-2024,
+EXP-00756,Marketing,Consulting Fees,Freshdesk,34888,43551.95,-8663.95,2023-06-28,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00715,Engineering,Software Licenses,Microsoft Azure,442821,492553.85,-49732.85,2023-05-30,Pending,Bank Transfer,FY2023-2024,
+EXP-00120,HR,Salaries,Jira,24861,29993.25,-5132.25,2024-01-15,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00438,Sales,Maintenance,Salesforce,107549,115101.72,-7552.72,2023-12-09,Approved,Credit Card,FY2023-2024,
+EXP-00048,Engineering,Hardware,Slack,-16108,14660.94,1447.06,2024-01-18,Approved,Vendor Credit,FY2023-2024,
+EXP-00956,Marketing,Utilities,Infosys,236053,284918.45,-48865.45,2024-03-26,Pending,Bank Transfer,FY2023-2024,Under review
+EXP-00154,Sales,Marketing Spend,Adobe,324977,289642.4,35334.6,2023-02-15,Approved,Credit Card,FY2022-2023,
+EXP-00399,Engineering,Travel,Freshdesk,164769,138610.93,26158.07,2025-01-08,Approved,Petty Cash,FY2024-2025,
+EXP-00665,Engineering,Recruitment,Slack,214304,201065.68,13238.32,07/05/2023,Approved,Bank Transfer,FY2023-2024,
+EXP-00264,Marketing,Hardware,Jira,308258,,52497.88,2024-06-11,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00028,Operations,Software Licenses,Adobe,469790,438865.16,30924.84,2023-09-17,Pending,Petty Cash,FY2023-2024,
+EXP-00634,Marketing,Cloud Infrastructure,Zoom,4080302,5095533.09,-1015231.09,2023-09-07,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00535,,Marketing Spend,SAP,424165,545562.53,-121397.53,2023-04-17,Rejected,Petty Cash,FY2023-2024,
+EXP-00453,Operations,Office Supplies,Salesforce,16329,17461.91,-1132.91,2024-04-04,Rejected,Vendor Credit,FY2024-2025,Under review
+EXP-00998,Support,Utilities,Infosys,167339,151879.25,15459.75,2023-08-20,Pending,Vendor Credit,FY2023-2024,Urgent
+EXP-00542,Operations,Software Licenses,Jira,175865,195903.13,-20038.13,2024-11-17,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00126,Sales,Hardware,SAP,487754,518966.75,-31212.75,2023-01-12,Approved,Bank Transfer,FY2022-2023,Duplicate entry
+EXP-00222,Operations,Consulting Fees,Google Cloud,459805,418693.11,41111.89,02/06/2023,Pending,Credit Card,FY2023-2024,
+EXP-00362,Finance,Office Supplies,Jira,363544,411111.13,-47567.13,2023-04-02,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00164,Marketing,,AWS,270977,284437.1,,2023-09-30,Rejected,Petty Cash,FY2023-2024,Under review
+EXP-00230,Marketing,Training,Wipro,446426,565500.15,-119074.15,2025-01-11,Approved,Vendor Credit,FY2024-2025,
+EXP-00074,HR,Salaries,Microsoft Azure,160693,189037.66,-28344.66,2024-10-26,Approved,Credit Card,FY2024-2025,
+EXP-00401,Sales,Recruitment,Zoom,369585,312154.66,57430.34,2023-09-14,Approved,Credit Card,FY2023-2024,Urgent
+EXP-00131,Support,Salaries,HubSpot,253400,277502.51,,2023-10-12,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00358,Marketing,Marketing Spend,HubSpot,167305,182180.82,-14875.82,2023-05-21,Approved,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00637,Operations,Travel,HubSpot,461269,409343.83,51925.17,2023-02-27,Approved,Petty Cash,FY2022-2023,Recurring
+EXP-00124,HR,Training,Slack,198602,226523.84,-27921.84,2024-01-12,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00434,Sales,Marketing Spend,Slack,8274,7305.97,968.03,2024-08-21,Pending,Vendor Credit,FY2024-2025,
+EXP-00447,Engineering,Cloud Infrastructure,Adobe,7375,8604.23,-1229.23,2025-02-21,Approved,Petty Cash,FY2024-2025,
+EXP-00281,HR,Cloud Infrastructure,Google Cloud,12919,13934.68,-1015.68,2024-08-12,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00615,Sales,Office Supplies,Google Cloud,95949,88296.02,7652.98,2024-10-23,Rejected,Bank Transfer,FY2024-2025,
+EXP-00783,Sales,Training,AWS,207083,190317.26,,2023-02-23,Pending,Bank Transfer,FY2022-2023,Duplicate entry
+EXP-00151,HR,Recruitment,Freshdesk,496330,435374.25,60955.75,2024-11-02,Approved,Petty Cash,FY2024-2025,
+EXP-00426,Engineering,Training,Slack,448339,359746.24,88592.76,2023-10-29,Pending,Vendor Credit,FY2023-2024,
+EXP-00030,Support,Office Supplies,Adobe,168693,161722.9,6970.1,2023-02-02,Pending,Credit Card,FY2022-2023,One-time
+EXP-00545,HR,,HubSpot,173546,173452.46,93.54,2023-09-01,Pending,Credit Card,FY2023-2024,
+EXP-00887,,Hardware,Salesforce,412881,340039.68,72841.32,2023-03-15,Rejected,Bank Transfer,FY2022-2023,
+EXP-00202,Sales,Software Licenses,TCS,35927,45914.36,-9987.36,2024-01-09,Approved,Petty Cash,FY2023-2024,
+EXP-00572,Marketing,Utilities,SAP,390986,404619.5,-13633.5,2024-08-26,Approved,Vendor Credit,FY2024-2025,Recurring
+EXP-00451,Engineering,Office Supplies,Microsoft Azure,135960,116749.08,19210.92,2023-11-28,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00052,Marketing,Cloud Infrastructure,Microsoft Azure,-89871,83190.36,6680.64,2025-03-08,Approved,Petty Cash,FY2024-2025,Urgent
+EXP-00112,Marketing,Recruitment,Adobe,108072,88284.56,19787.44,04/06/2023,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00914,HR,Consulting Fees,Wipro,428750,479842.72,-51092.72,2024-05-17,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00494,HR,Maintenance,Microsoft Azure,239077,200844.41,38232.59,2024-02-25,Approved,Credit Card,FY2023-2024,Under review
+EXP-00850,Support,Software Licenses,Wipro,84385,78834.36,5550.64,2024-09-15,Approved,Bank Transfer,FY2024-2025,
+EXP-00220,Marketing,Software Licenses,Zoom,388040,410506.58,-22466.58,2023-01-08,Approved,Bank Transfer,FY2022-2023,Under review
+EXP-00955,Operations,Office Supplies,Jira,287929,321097.12,-33168.12,2024-06-26,Rejected,Bank Transfer,FY2024-2025,
+EXP-00639,Sales,Maintenance,Zoom,32986,39333.22,-6347.22,2023-07-09,Approved,Petty Cash,FY2023-2024,
+EXP-00462,HR,Maintenance,Slack,156627,127580.83,29046.17,2024-03-03,Approved,Bank Transfer,FY2023-2024,
+EXP-00201,Marketing,Cloud Infrastructure,TCS,253063,286029.01,-32966.01,2024-12-29,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00605,Marketing,Recruitment,HubSpot,404024,467959.0,-63935.0,2023-10-31,Approved,Credit Card,FY2023-2024,Urgent
+EXP-00975,Engineering,Recruitment,Oracle,229257,239289.46,-10032.46,2023-05-25,Approved,Bank Transfer,FY2023-2024,
+EXP-00648,Marketing,Salaries,Oracle,125151,111634.11,13516.89,2023-01-24,Approved,Petty Cash,FY2022-2023,Under review
+EXP-00970,Engineering,Salaries,HubSpot,443067,406271.66,36795.34,30/03/2023,Approved,Credit Card,FY2022-2023,Duplicate entry
+EXP-00751,HR,Consulting Fees,Wipro,-492588,629810.97,-137222.97,2024-11-30,Approved,Bank Transfer,FY2024-2025,
+EXP-00176,Finance,Recruitment,Infosys,279567,251553.16,28013.84,2025-02-22,Rejected,Vendor Credit,FY2024-2025,One-time
+EXP-00543,Finance,Office Supplies,Zoom,380515,,-20196.47,2023-11-24,Approved,Vendor Credit,FY2023-2024,Recurring
+EXP-00544,HR,Utilities,HubSpot,335067,363966.0,-28899.0,2025-03-18,Approved,Credit Card,FY2024-2025,
+EXP-00122,Support,Software Licenses,Jira,473508,539400.85,-65892.85,2023-08-22,Rejected,Bank Transfer,FY2023-2024,
+EXP-00829,Engineering,Training,TCS,384032,396359.56,-12327.56,2024-08-22,Approved,Credit Card,FY2024-2025,Duplicate entry
+EXP-00361,Marketing,Travel,Adobe,246878,295590.25,-48712.25,2024-09-04,Approved,Bank Transfer,FY2024-2025,
+EXP-00389,Operations,Maintenance,AWS,358219,298904.96,59314.04,2025-01-21,Pending,Vendor Credit,FY2024-2025,One-time
+EXP-00858,Marketing,Software Licenses,Google Cloud,475278,418002.98,57275.02,2023-03-23,Approved,Petty Cash,FY2022-2023,
+EXP-00814,Support,Software Licenses,Adobe,217149,208982.4,8166.6,2024-02-02,Approved,Petty Cash,FY2023-2024,
+EXP-00632,Finance,Training,SAP,265427,274377.01,-8950.01,2024-11-24,Pending,Petty Cash,FY2024-2025,
+EXP-00377,Finance,Training,Zoom,27117,33382.21,-6265.21,2025-02-28,Approved,Bank Transfer,FY2024-2025,
+EXP-00170,Marketing,Training,Slack,486269,401150.6,85118.4,2024-07-08,Approved,Vendor Credit,FY2024-2025,
+EXP-00787,Finance,Software Licenses,Google Cloud,490350,534460.19,-44110.19,2023-08-11,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00091,Finance,Marketing Spend,Internal,320947,256776.3,64170.7,10/01/2023,Approved,Vendor Credit,FY2022-2023,
+EXP-00920,Support,Office Supplies,AWS,317409,267579.83,49829.17,2024-01-01,Approved,Bank Transfer,FY2023-2024,One-time
+EXP-00032,Sales,Travel,Zoom,447953,542934.6,-94981.6,2023-01-17,Pending,Petty Cash,FY2022-2023,Under review
+EXP-00612,Sales,Hardware,TCS,135949,145617.13,-9668.13,2025-01-07,Approved,Credit Card,FY2024-2025,
+EXP-00732,HR,Marketing Spend,Jira,27258,33695.97,-6437.97,2025-01-05,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00934,Marketing,Hardware,SAP,42730,54657.81,-11927.81,2023-06-16,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00500,Support,Software Licenses,TCS,157027,131202.97,25824.03,2023-02-11,Pending,Bank Transfer,FY2022-2023,Recurring
+EXP-00094,Operations,Training,Microsoft Azure,201521,189535.4,11985.6,2023-01-08,Approved,Bank Transfer,FY2022-2023,
+EXP-00620,Support,Recruitment,Microsoft Azure,426324,511837.01,-85513.01,2023-06-22,Pending,Credit Card,FY2023-2024,
+EXP-00461,Engineering,Training,Internal,51013,53300.56,-2287.56,2023-03-08,Approved,Vendor Credit,FY2022-2023,One-time
+EXP-00670,Operations,Recruitment,Wipro,437402,487674.31,-50272.31,2023-07-26,Approved,Petty Cash,FY2023-2024,
+EXP-00406,Sales,Marketing Spend,AWS,469164,555054.97,-85890.97,2024-07-26,Pending,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00861,Support,Utilities,Google Cloud,238776,191381.1,47394.9,07/06/2023,Pending,Bank Transfer,FY2023-2024,
+EXP-00937,Marketing,Marketing Spend,TCS,155011,158821.14,-3810.14,2025-01-25,Rejected,Vendor Credit,FY2024-2025,One-time
+EXP-00159,HR,Cloud Infrastructure,Slack,418713,451496.33,-32783.33,2024-07-12,Approved,Credit Card,FY2024-2025,One-time
+EXP-00595,Engineering,Office Supplies,SAP,85651,97599.15,-11948.15,2023-02-13,Pending,Bank Transfer,FY2022-2023,One-time
+EXP-00309,Sales,Salaries,Freshdesk,316179,258248.38,57930.62,2025-03-20,Approved,Bank Transfer,FY2024-2025,Under review
+EXP-00036,Marketing,Hardware,Jira,-124146,147834.22,-23688.22,2023-01-14,Approved,Vendor Credit,FY2022-2023,
+EXP-00017,Support,Consulting Fees,Wipro,204597,185145.44,19451.56,2023-03-30,Rejected,Credit Card,FY2022-2023,One-time
+EXP-00311,Engineering,Hardware,TCS,23674,30695.72,-7021.72,2023-11-21,Approved,Credit Card,FY2023-2024,
+EXP-00845,Engineering,Consulting Fees,Microsoft Azure,129748,121212.0,8536.0,2024-10-25,Pending,Vendor Credit,FY2024-2025,
+EXP-00019,Engineering,Hardware,Slack,108538,119529.29,-10991.29,2023-09-24,Pending,Vendor Credit,FY2023-2024,
+EXP-00759,Operations,Hardware,TCS,217317,230592.77,-13275.77,2023-04-06,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00357,Engineering,Cloud Infrastructure,Wipro,489458,631283.82,-141825.82,2024-11-05,Approved,Credit Card,FY2024-2025,
+EXP-00790,Sales,Utilities,Microsoft Azure,394994,434359.15,-39365.15,2025-03-12,Approved,Petty Cash,FY2024-2025,
+EXP-00252,Sales,Marketing Spend,Google Cloud,499654,567733.94,,2024-03-18,Approved,Credit Card,FY2023-2024,One-time
+EXP-00809,Operations,Utilities,Freshdesk,434274,497122.38,-62848.38,2024-07-27,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00993,HR,Office Supplies,AWS,496132,573145.45,-77013.45,2024-02-04,Approved,Credit Card,FY2023-2024,Recurring
+EXP-00752,HR,Hardware,Microsoft Azure,412246,455124.97,-42878.97,2024-07-14,Rejected,Bank Transfer,FY2024-2025,
+EXP-00900,Support,Cloud Infrastructure,Infosys,60429,77072.57,-16643.57,2023-03-06,Approved,Bank Transfer,FY2022-2023,Under review
+EXP-00828,Finance,Marketing Spend,TCS,374625,456726.65,-82101.65,2024-11-14,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00189,Operations,Consulting Fees,SAP,158870,185140.64,-26270.64,2024-07-08,Approved,Credit Card,FY2024-2025,
+EXP-00687,Finance,Maintenance,HubSpot,33731,32413.5,1317.5,2024-05-06,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00191,,Hardware,Salesforce,70355,81689.77,-11334.77,2023-09-02,Approved,Vendor Credit,FY2023-2024,
+EXP-00836,Operations,Training,SAP,351052,286163.15,64888.85,2024-07-28,Approved,Vendor Credit,FY2024-2025,
+EXP-00702,Finance,Travel,Microsoft Azure,163158,169309.95,-6151.95,2024-04-29,Approved,Vendor Credit,FY2024-2025,Recurring
+EXP-00958,Operations,Hardware,Slack,459947,,42227.84,2023-06-20,Approved,Credit Card,FY2023-2024,
+EXP-00429,Marketing,Maintenance,SAP,160414,190617.63,,2024-11-17,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00556,Finance,Office Supplies,Adobe,193856,236969.67,-43113.67,2024-11-06,Pending,Vendor Credit,FY2024-2025,
+EXP-00146,Support,Software Licenses,Google Cloud,285814,274229.91,11584.09,2023-04-08,Approved,Vendor Credit,FY2023-2024,
+EXP-00370,Engineering,Consulting Fees,AWS,154986,172437.2,-17451.2,2025-02-16,Approved,Credit Card,FY2024-2025,One-time
+EXP-00942,Marketing,Travel,TCS,109902,138749.8,-28847.8,2024-11-05,Approved,Vendor Credit,FY2024-2025,
+EXP-00629,Engineering,Utilities,AWS,324040,322243.25,1796.75,2024-12-14,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00524,Operations,Marketing Spend,Oracle,1009569,1256355.31,-246786.31,2023-02-24,Pending,Credit Card,FY2022-2023,
+EXP-00763,Engineering,Training,Microsoft Azure,141275,160348.11,-19073.11,2024-04-12,Approved,Petty Cash,FY2024-2025,
+EXP-00940,Marketing,Cloud Infrastructure,Salesforce,30137,32641.68,-2504.68,2023-02-12,Approved,Credit Card,FY2022-2023,
+EXP-00347,Sales,Marketing Spend,Zoom,65763,74023.31,-8260.31,2023-05-02,Pending,Petty Cash,FY2023-2024,One-time
+EXP-00513,Marketing,Marketing Spend,Jira,29660,25504.05,4155.95,2023-10-22,Approved,Petty Cash,FY2023-2024,One-time
+EXP-00478,Operations,Software Licenses,Google Cloud,338211,342254.12,-4043.12,2023-05-24,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00950,Finance,Consulting Fees,Oracle,430475,434488.96,-4013.96,2024-10-03,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00480,Operations,Marketing Spend,Jira,386919,409039.34,-22120.34,2024-09-13,Approved,Petty Cash,FY2024-2025,
+EXP-00708,HR,Travel,Internal,198311,202285.82,-3974.82,2024-11-13,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00646,Support,Office Supplies,Google Cloud,270513,296890.17,-26377.17,2024-05-24,Pending,Vendor Credit,FY2024-2025,Recurring
+EXP-00214,Marketing,Cloud Infrastructure,Jira,81879,104151.21,-22272.21,2024-07-19,Rejected,Credit Card,FY2024-2025,
+EXP-00711,Operations,Salaries,TCS,367595,430319.99,-62724.99,2023-05-30,Approved,Vendor Credit,FY2023-2024,
+EXP-00802,Sales,Utilities,AWS,289597,282397.92,7199.08,2023-11-27,Approved,Vendor Credit,FY2023-2024,
+EXP-00926,Engineering,Marketing Spend,HubSpot,444300,,-23709.82,2023-06-11,Approved,Credit Card,FY2023-2024,
+EXP-00791,Operations,Hardware,Internal,229406,256266.91,-26860.91,2023-06-12,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00114,HR,Cloud Infrastructure,Salesforce,433873,471343.29,-37470.29,2024-09-19,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00010,HR,Recruitment,Wipro,412046,414572.17,-2526.17,2024-05-21,Approved,Credit Card,FY2024-2025,
+EXP-00152,HR,Cloud Infrastructure,Google Cloud,352830,323583.27,29246.73,2024-02-14,Approved,Petty Cash,FY2023-2024,
+EXP-00323,Marketing,Hardware,AWS,83091,80652.12,2438.88,2023-02-10,Approved,Petty Cash,FY2022-2023,
+EXP-00643,Finance,Marketing Spend,Infosys,489090,508698.44,-19608.44,2024-05-25,Approved,Petty Cash,FY2024-2025,
+EXP-00236,Finance,Cloud Infrastructure,Wipro,53049,62831.16,-9782.16,2023-08-23,Rejected,Credit Card,FY2023-2024,Urgent
+EXP-00599,Operations,Travel,Slack,-263534,274868.96,,2023-06-08,Rejected,Vendor Credit,FY2023-2024,Urgent
+EXP-00870,Finance,Office Supplies,Infosys,-314516,275322.02,39193.98,2023-06-17,Pending,Petty Cash,FY2023-2024,
+EXP-00498,Marketing,Office Supplies,Internal,390526,476205.24,,2023-10-18,Approved,Petty Cash,FY2023-2024,
+EXP-00786,HR,Hardware,Zoom,162145,130887.25,31257.75,2023-12-09,Approved,Bank Transfer,FY2023-2024,Urgent
+EXP-00110,Operations,Travel,Infosys,389446,441845.35,-52399.35,2023-10-30,Approved,Petty Cash,FY2023-2024,Under review
+EXP-00359,Marketing,Recruitment,HubSpot,459009,566572.53,-107563.53,2023-06-30,Pending,Credit Card,FY2023-2024,
+EXP-00708,HR,Travel,Internal,198311,202285.82,-3974.82,2024-11-13,Pending,Petty Cash,FY2024-2025,Recurring
+EXP-00003,Sales,Marketing Spend,AWS,190747,213302.01,-22555.01,2023-10-20,Pending,Vendor Credit,FY2023-2024,Urgent
+EXP-00042,Support,,Salesforce,328626,393670.11,-65044.11,2024-01-19,Pending,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00240,Support,Software Licenses,Wipro,225579,281255.76,,2023-10-22,Pending,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00292,Engineering,Software Licenses,Freshdesk,406692,495019.41,-88327.41,2023-10-06,Approved,Bank Transfer,FY2023-2024,Recurring
+EXP-00025,Finance,Training,SAP,377199,344024.27,33174.73,2023-09-01,Pending,Credit Card,FY2023-2024,One-time
+EXP-00259,Operations,Travel,TCS,111710,123408.52,-11698.52,02/02/2024,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00086,HR,Training,Wipro,476868,,70934.83,2023-04-12,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00092,Finance,Utilities,Adobe,395554,367928.69,27625.31,2024-09-27,Rejected,Vendor Credit,FY2024-2025,Under review
+EXP-00827,Sales,Marketing Spend,Internal,360337,414434.12,-54097.12,2023-04-12,Approved,Bank Transfer,FY2023-2024,
+EXP-00349,Engineering,Utilities,SAP,351028,385039.95,-34011.95,2024-12-13,Approved,Bank Transfer,FY2024-2025,Recurring
+EXP-00841,Sales,Maintenance,Zoom,309529,306562.45,2966.55,2025-01-02,Approved,Vendor Credit,FY2024-2025,
+EXP-00906,HR,Training,Jira,66495,76533.45,,2024-10-12,Approved,Petty Cash,FY2024-2025,Urgent
+EXP-00113,Engineering,Software Licenses,Jira,420489,490489.93,-70000.93,2024-04-15,Approved,Bank Transfer,FY2024-2025,
+EXP-00381,Finance,Maintenance,Zoom,284661,274429.94,10231.06,2024-03-06,Pending,Vendor Credit,FY2023-2024,
+EXP-00140,Marketing,Office Supplies,Salesforce,458087,503162.26,-45075.26,2023-02-15,Approved,Credit Card,FY2022-2023,
+EXP-00788,HR,Maintenance,Jira,370541,356161.54,14379.46,2025-01-24,Approved,Credit Card,FY2024-2025,Urgent
+EXP-00285,Operations,Utilities,HubSpot,386744,448470.01,-61726.01,2023-10-11,Approved,Bank Transfer,FY2023-2024,
+EXP-00707,Sales,Maintenance,Zoom,239819,252413.51,-12594.51,2023-05-24,Rejected,Bank Transfer,FY2023-2024,One-time
+EXP-00586,Finance,Training,TCS,396834,335318.41,,2023-04-25,Rejected,Vendor Credit,FY2023-2024,
+EXP-00611,Marketing,Maintenance,Microsoft Azure,7916,6849.37,1066.63,2023-02-09,Approved,Vendor Credit,FY2022-2023,
+EXP-00733,Finance,Cloud Infrastructure,Oracle,323243,399059.48,-75816.48,05/06/2024,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00957,Sales,Travel,TCS,398985,395738.02,3246.98,2023-04-20,Approved,Petty Cash,FY2023-2024,
+EXP-00066,Finance,Utilities,Jira,343562,410532.73,-66970.73,2024-09-24,Rejected,Bank Transfer,FY2024-2025,
+EXP-00266,Sales,Consulting Fees,Microsoft Azure,46352,49435.68,-3083.68,2023-06-22,Approved,Bank Transfer,FY2023-2024,Under review
+EXP-00145,Support,Recruitment,Google Cloud,248690,310113.71,-61423.71,2024-11-01,Approved,Bank Transfer,FY2024-2025,
+EXP-00139,Operations,Hardware,Wipro,486729,517012.08,-30283.08,2023-01-06,Approved,Vendor Credit,FY2022-2023,One-time
+EXP-00106,,Training,Slack,79229,68410.24,10818.76,2023-08-31,Pending,Bank Transfer,FY2023-2024,One-time
+EXP-00625,Engineering,Training,Infosys,86309,75559.28,10749.72,2025-01-04,Approved,Petty Cash,FY2024-2025,Under review
+EXP-00864,Support,Software Licenses,TCS,111079,104283.1,6795.9,2023-05-15,Pending,Petty Cash,FY2023-2024,
+EXP-00916,Finance,Software Licenses,Slack,159124,143818.44,15305.56,2024-06-20,Approved,Bank Transfer,FY2024-2025,One-time
+EXP-00346,Support,Utilities,Freshdesk,80224,71471.3,8752.7,10/03/2025,Approved,Vendor Credit,FY2024-2025,Duplicate entry
+EXP-00548,Finance,Training,SAP,325449,392529.63,-67080.63,2025-02-21,Approved,Bank Transfer,FY2024-2025,Urgent
+EXP-00408,Support,Consulting Fees,Infosys,310160,351074.26,-40914.26,2024-02-15,Approved,Petty Cash,FY2023-2024,Recurring
+EXP-00460,Engineering,Utilities,Jira,498854,429445.83,69408.17,2024-11-15,Approved,Vendor Credit,FY2024-2025,One-time
+EXP-00329,Engineering,Maintenance,AWS,-409293,342007.51,67285.49,2023-06-15,Approved,Vendor Credit,FY2023-2024,Urgent
+EXP-00578,Marketing,Utilities,Adobe,410844,405782.91,5061.09,2025-01-26,Approved,Credit Card,FY2024-2025,
+EXP-00173,Sales,Maintenance,Microsoft Azure,-365851,429202.67,-63351.67,2024-04-16,Approved,Bank Transfer,FY2024-2025,Under review
+EXP-00174,Support,Marketing Spend,HubSpot,243174,215513.25,27660.75,2025-02-13,Rejected,Vendor Credit,FY2024-2025,One-time
+EXP-00299,Operations,Cloud Infrastructure,Freshdesk,460341,501553.2,-41212.2,2023-11-07,Rejected,Credit Card,FY2023-2024,Recurring
+EXP-00811,Operations,Hardware,AWS,176359,203534.64,-27175.64,2023-09-06,Approved,Bank Transfer,FY2023-2024,Duplicate entry
+EXP-00745,HR,Consulting Fees,Wipro,50128,54308.31,-4180.31,2024-09-20,Approved,Petty Cash,FY2024-2025,One-time
+EXP-00763,Engineering,Training,Microsoft Azure,141275,160348.11,-19073.11,2024-04-12,Approved,Petty Cash,FY2024-2025,
+EXP-00158,HR,Maintenance,Adobe,333550,344603.39,-11053.39,2024-12-24,Approved,Vendor Credit,FY2024-2025,
+EXP-00261,Finance,Utilities,Oracle,291057,367148.7,-76091.7,2023-09-12,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00472,Sales,Consulting Fees,Wipro,86794,96648.5,-9854.5,2024-04-12,Approved,Vendor Credit,FY2024-2025,
+EXP-00051,Engineering,,Freshdesk,430138,480530.1,-50392.1,2024-12-23,Approved,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00237,Marketing,Hardware,TCS,443121,551963.4,-108842.4,2024-11-22,Pending,Vendor Credit,FY2024-2025,Recurring
+EXP-00502,Support,Travel,TCS,277220,277889.01,-669.01,2023-08-31,Approved,Bank Transfer,FY2023-2024,
+EXP-00987,Operations,Training,Oracle,499478,511122.57,-11644.57,2023-04-19,Approved,Petty Cash,FY2023-2024,
+EXP-00871,Operations,Marketing Spend,Freshdesk,76845,63790.53,13054.47,2023-06-14,Approved,Petty Cash,FY2023-2024,
+EXP-00322,Support,Consulting Fees,AWS,487319,556137.76,-68818.76,2023-12-27,Pending,Petty Cash,FY2023-2024,
+EXP-00816,HR,Training,Infosys,76629,81359.81,,2024-11-17,Approved,Bank Transfer,FY2024-2025,
+EXP-00932,HR,Training,Jira,468155,519858.4,-51703.4,30/04/2023,Pending,Vendor Credit,FY2023-2024,
+EXP-00696,Engineering,Hardware,Freshdesk,399688,389275.04,10412.96,2023-10-04,Rejected,Vendor Credit,FY2023-2024,
+EXP-00649,HR,Marketing Spend,HubSpot,214509,230804.26,-16295.26,2023-05-10,Pending,Petty Cash,FY2023-2024,
+EXP-00507,Finance,Training,Wipro,462100,520680.06,-58580.06,2024-07-07,Approved,Credit Card,FY2024-2025,Under review
+EXP-00199,Operations,Software Licenses,Adobe,335867,328625.09,7241.91,2023-11-12,Approved,Credit Card,FY2023-2024,One-time
+EXP-00821,HR,Utilities,Freshdesk,321335,355160.31,-33825.31,2024-12-01,Pending,Bank Transfer,FY2024-2025,Duplicate entry
+EXP-00700,HR,Hardware,Internal,282538,279029.98,3508.02,2023-10-17,Approved,Vendor Credit,FY2023-2024,Under review
+EXP-00184,Support,Cloud Infrastructure,SAP,497186,638221.61,-141035.61,2023-04-08,Approved,Vendor Credit,FY2023-2024,One-time
+EXP-00549,Support,Maintenance,Salesforce,369946,423565.82,-53619.82,2023-10-28,Approved,Credit Card,FY2023-2024,
+EXP-00712,Finance,Travel,AWS,311511,333501.97,-21990.97,2023-01-19,Pending,Vendor Credit,FY2022-2023,
+EXP-00355,Marketing,,Zoom,159696,172996.13,-13300.13,2025-01-16,Approved,Petty Cash,FY2024-2025,Duplicate entry
+EXP-00769,,Recruitment,Salesforce,287823,326728.3,-38905.3,2023-05-12,Pending,Bank Transfer,FY2023-2024,Recurring
+EXP-00843,HR,Office Supplies,Infosys,222238,,15926.96,2025-03-27,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00404,Support,Consulting Fees,HubSpot,325799,407695.68,-81896.68,2024-06-17,Approved,Credit Card,FY2024-2025,Recurring
+EXP-00244,Operations,Maintenance,AWS,388292,354480.19,33811.81,2024-11-27,Rejected,Credit Card,FY2024-2025,
+EXP-00492,Sales,Hardware,TCS,189639,196448.91,-6809.91,2023-04-29,Approved,Petty Cash,FY2023-2024,Urgent
+EXP-00616,HR,Travel,Google Cloud,222437,236308.27,-13871.27,2023-10-11,Pending,Vendor Credit,FY2023-2024,Urgent
+EXP-00256,Finance,Software Licenses,SAP,331095,379350.06,-48255.06,19/11/2024,Approved,Petty Cash,FY2024-2025,Urgent
+EXP-00393,Operations,Utilities,Zoom,3139665,2934545.77,205119.23,2023-05-03,Approved,Vendor Credit,FY2023-2024,One-time
+EXP-00149,Marketing,Salaries,Jira,145773,182855.52,-37082.52,2023-04-23,Approved,Credit Card,FY2023-2024,
+EXP-00774,Sales,,Salesforce,371827,407887.03,-36060.03,2024-03-15,Approved,Petty Cash,FY2023-2024,Duplicate entry
+EXP-00455,Support,Maintenance,HubSpot,493349,613825.41,-120476.41,2023-03-06,Approved,Vendor Credit,FY2022-2023,
+EXP-00482,Support,Consulting Fees,Jira,228733,273263.33,-44530.33,2024-11-09,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00037,HR,Marketing Spend,Adobe,398937,503582.79,-104645.79,2024-05-19,Pending,Petty Cash,FY2024-2025,
+EXP-00729,Finance,Hardware,Adobe,173643,153624.97,20018.03,2023-04-20,Approved,Petty Cash,FY2023-2024,
+EXP-00439,Engineering,Utilities,Adobe,234386,212382.27,,19/04/2024,Approved,Petty Cash,FY2024-2025,
+EXP-00799,Marketing,Cloud Infrastructure,Internal,181746,208947.95,-27201.95,2024-08-24,Approved,Petty Cash,FY2024-2025,
+EXP-00808,HR,Cloud Infrastructure,Microsoft Azure,55073,58223.08,-3150.08,2023-04-18,Approved,Vendor Credit,FY2023-2024,
+EXP-00959,HR,Cloud Infrastructure,Wipro,49537,40116.1,9420.9,2023-10-04,Approved,Petty Cash,FY2023-2024,
+EXP-00213,Marketing,Salaries,Salesforce,459613,431414.06,28198.94,2023-07-10,Pending,Petty Cash,FY2023-2024,
+EXP-00247,Support,Hardware,SAP,475204,489797.03,-14593.03,2024-01-17,Approved,Vendor Credit,FY2023-2024,
+EXP-00133,Finance,Software Licenses,Adobe,67835,80281.96,-12446.96,2023-04-12,Pending,Bank Transfer,FY2023-2024,One-time
+EXP-00047,Engineering,Marketing Spend,Oracle,78214,79012.27,-798.27,2023-11-30,Approved,Bank Transfer,FY2023-2024,
+EXP-00859,HR,Cloud Infrastructure,Infosys,411867,391784.97,20082.03,2024-08-10,Approved,Bank Transfer,FY2024-2025,
+EXP-00297,Operations,Maintenance,Oracle,327306,335063.33,-7757.33,2025-01-25,Approved,Bank Transfer,FY2024-2025,
+EXP-00228,HR,Utilities,SAP,496776,622433.26,-125657.26,2025-03-22,Approved,Credit Card,FY2024-2025,
+EXP-00823,Support,Consulting Fees,Wipro,153975,125669.04,28305.96,2023-07-23,Pending,Petty Cash,FY2023-2024,Urgent
+EXP-00559,Sales,Consulting Fees,Infosys,111730,143597.31,-31867.31,2023-05-12,Approved,Credit Card,FY2023-2024,
+EXP-00577,Engineering,Travel,HubSpot,199917,241477.78,-41560.78,2023-02-27,Approved,Vendor Credit,FY2022-2023,Duplicate entry
+EXP-00327,Support,Hardware,Google Cloud,173941,195652.13,-21711.13,2025-03-30,Approved,Vendor Credit,FY2024-2025,Urgent
+EXP-00709,HR,Software Licenses,HubSpot,174406,178594.68,-4188.68,2023-11-25,Approved,Vendor Credit,FY2023-2024,
+EXP-00662,Sales,Marketing Spend,TCS,35690,34616.5,1073.5,2023-11-08,Approved,Bank Transfer,FY2023-2024,
+EXP-00908,Marketing,Consulting Fees,TCS,296369,259622.89,36746.11,2024-02-19,Approved,Bank Transfer,FY2023-2024,
+EXP-00952,Sales,Marketing Spend,Internal,95257,,11964.93,2024-03-13,Rejected,Vendor Credit,FY2023-2024,
+EXP-00570,Marketing,Maintenance,Internal,484871,414563.33,70307.67,2024-05-13,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00967,Marketing,Training,Wipro,484961,551172.42,-66211.42,2023-07-10,Approved,Vendor Credit,FY2023-2024,Duplicate entry
+EXP-00177,HR,Office Supplies,Slack,435152,419757.66,15394.34,2023-02-26,Approved,Vendor Credit,FY2022-2023,Duplicate entry
+EXP-00441,Operations,Consulting Fees,Freshdesk,438261,392680.27,45580.73,2023-11-07,Rejected,Vendor Credit,FY2023-2024,
+EXP-00398,Operations,Marketing Spend,Slack,316609,265760.36,50848.64,2023-10-16,Pending,Petty Cash,FY2023-2024,
+EXP-00747,Support,Consulting Fees,Internal,329541,374513.75,-44972.75,2025-02-07,Approved,Vendor Credit,FY2024-2025,
+EXP-00758,Operations,Maintenance,Slack,205509,263773.81,-58264.81,2024-06-23,Pending,Bank Transfer,FY2024-2025,Urgent
+EXP-00303,Engineering,Travel,Adobe,203711,167309.89,36401.11,2024-07-09,Rejected,Vendor Credit,FY2024-2025,
+EXP-00588,Finance,Travel,Jira,374984,474429.06,-99445.06,2023-10-01,Rejected,Petty Cash,FY2023-2024,One-time
+EXP-00960,Marketing,Salaries,AWS,63562,72261.86,-8699.86,2024-04-16,Rejected,Petty Cash,FY2024-2025,
+EXP-00641,HR,Training,Wipro,103409,126559.48,-23150.48,2024-01-12,Approved,Petty Cash,FY2023-2024,
+EXP-00476,Operations,Travel,Google Cloud,225695,282111.32,-56416.32,2023-02-20,Approved,Bank Transfer,FY2022-2023,Duplicate entry
+EXP-00527,Marketing,Software Licenses,HubSpot,176260,144798.84,31461.16,2024-02-14,Rejected,Credit Card,FY2023-2024,Duplicate entry
+EXP-00212,Sales,Consulting Fees,Salesforce,46862,51765.35,-4903.35,2024-12-02,Approved,Petty Cash,FY2024-2025,
+EXP-00609,Operations,,Salesforce,463343,477823.89,,2024-09-24,Approved,Vendor Credit,FY2024-2025,
+EXP-00996,Finance,Marketing Spend,Infosys,237696,303276.54,-65580.54,2025-01-11,Approved,Petty Cash,FY2024-2025,Recurring
+EXP-00090,Operations,Travel,SAP,369677,,22161.08,2023-09-15,Approved,Bank Transfer,FY2023-2024,
+EXP-00046,Finance,Utilities,Infosys,96536,120913.93,-24377.93,2023-10-15,Pending,Bank Transfer,FY2023-2024,
+EXP-00697,Engineering,Training,Microsoft Azure,263547,,33941.35,2024-09-02,Rejected,Bank Transfer,FY2024-2025,
+EXP-00258,Operations,Marketing Spend,HubSpot,99314,101175.77,-1861.77,26/12/2023,Approved,Petty Cash,FY2023-2024,
+EXP-00012,Engineering,Recruitment,HubSpot,45983,43718.5,2264.5,11/01/2024,Approved,Bank Transfer,FY2023-2024,Urgent
+EXP-00565,Marketing,Salaries,Internal,203154,200909.71,2244.29,2024-12-10,Approved,Petty Cash,FY2024-2025,
+EXP-00805,Marketing,Hardware,Freshdesk,486116,574372.51,-88256.51,2024-01-19,Approved,Vendor Credit,FY2023-2024,
+EXP-00807,Support,Hardware,Google Cloud,203965,231171.86,-27206.86,2024-08-21,Approved,Credit Card,FY2024-2025,
+EXP-00413,Finance,Travel,Freshdesk,110275,127267.2,-16992.2,10/10/2023,Approved,Petty Cash,FY2023-2024,
+EXP-00143,Support,Office Supplies,TCS,255503,291452.08,-35949.08,2024-07-06,Approved,Vendor Credit,FY2024-2025,Under review
+EXP-00328,Engineering,Recruitment,HubSpot,100368,99027.89,1340.11,2024-11-30,Rejected,Credit Card,FY2024-2025,Under review
+EXP-00459,Operations,Office Supplies,Wipro,495273,476285.59,18987.41,2023-01-15,Approved,Credit Card,FY2022-2023,Duplicate entry
+EXP-00270,Sales,Utilities,Slack,235938,291327.15,-55389.15,04/07/2024,Approved,Bank Transfer,FY2024-2025,Under review

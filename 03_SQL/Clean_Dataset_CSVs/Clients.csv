@@ -1,0 +1,301 @@
+Client_ID,Company_Name,Industry,Contract_Type,Region,City,Onboarding_Date,Satisfaction_Score,Tenure_Years,Annual_Contract_Value,Account_Status
+CLI-0113,CloudNine Enterprises,Healthcare,Managed Services,South,Hyderabad,2021-03-26,3.2,4,75000,Active
+CLI-0047,DigitalForge Services,Government,Managed Services,East,Kolkata,2023-09-02,3.1,1.6,100000,Active
+CLI-0083,OmniSoft Digital,Media,Annual License,East,Kolkata,2020-01-05,4.4,5.2,300000,Active
+CLI-0111,CloudNine Enterprises,Banking,Monthly SaaS,West,Ahmedabad,2022-08-02,4.9,2.7,75000,Active
+CLI-0199,GreenPulse Technologies,Banking,Monthly SaaS,West,Ahmedabad,2021-12-08,4.3,3.3,75000,Active
+CLI-0213,SwiftCode Solutions,Logistics,Monthly SaaS,West,Surat,2020-12-05,3.8,4.3,500000,Active
+CLI-0042,NovaTech Group,EdTech,Annual License,West,Surat,2019-08-05,3.4,5.7,750000,Churned
+CLI-0217,BlueOrbit Systems,EdTech,Multi-Year,East,Kolkata,2019-02-14,4.3,6.1,100000,Churned
+CLI-0070,SilverEdge Labs,Media,Monthly SaaS,North,Lucknow,2019-01-29,2.8,6.2,300000,Active
+CLI-0115,DataWeave Corp,Healthcare,Managed Services,East,Patna,2023-10-10,4.3,1.5,100000,Churned
+CLI-0264,BrightPath Technologies,Insurance,Project-Based,South,Kochi,2019-01-09,2.6,6.2,500000,Churned
+CLI-0219,OmniSoft Corp,Manufacturing,Managed Services,South,Kochi,2020-09-20,3.2,4.5,100000,Churned
+CLI-0269,SwiftCode Infotech,Media,Project-Based,South,Hyderabad,2022-11-20,4.8,2.4,500000,Active
+CLI-0152,NovaTech Enterprises,EdTech,Annual License,South,Bangalore,2020-07-03,4,4.7,50000,At Risk
+CLI-0150,GreenPulse Solutions,Media,Managed Services,South,Kochi,2022-02-12,4.9,3.1,500000,Churned
+CLI-0078,InfraMax Technologies,Insurance,Project-Based,North,Delhi,2020-10-21,2.7,4.4,200000,Active
+CLI-0297,InfraMax Systems,Telecom,Project-Based,South,Bangalore,2020-08-03,3.9,4.7,200000,Active
+CLI-0107,DataWeave Systems,Banking,Monthly SaaS,East,Bhubaneswar,2023-08-28,3.7,1.6,750000,Active
+CLI-0195,Apex Corp,Unspecified,Multi-Year,West,Surat,2021-01-18,2.9,4.2,750000,At Risk
+CLI-0168,SilverEdge Enterprises,Government,Managed Services,South,Kochi,2019-08-08,2.5,5.6,500000,Active
+CLI-0097,BlueOrbit Corp,Insurance,Multi-Year,South,Chennai,2019-11-14,4.6,5.4,75000,Active
+CLI-0183,InfraMax Technologies,Manufacturing,Monthly SaaS,North,Lucknow,2020-06-22,4.5,4.8,750000,At Risk
+CLI-0242,CloudNine Group,Telecom,Multi-Year,South,Hyderabad,2019-07-19,4.4,5.7,1000000,Churned
+CLI-0176,CrestLine Group,Unspecified,Monthly SaaS,West,Surat,2020-04-19,4.1,4.9,100000,Active
+CLI-0012,OmniSoft Labs,Manufacturing,Managed Services,South,Hyderabad,2021-03-28,4.1,4,750000,At Risk
+CLI-0160,SilverEdge Services,Healthcare,Annual License,North,Lucknow,2021-02-15,3.7,4.1,50000,Churned
+CLI-0286,BrightPath Infotech,Banking,Managed Services,East,Guwahati,2022-09-01,3.4,2.6,150000,At Risk
+CLI-0244,BlueOrbit Group,Healthcare,Project-Based,East,Guwahati,2019-04-21,2.9,5.9,150000,Active
+CLI-0080,NetDynamic Labs,Logistics,Annual License,East,Guwahati,2020-10-02,3.4,4.5,100000,Active
+CLI-0077,CloudNine Group,Government,Annual License,West,Pune,2024-04-20,4.3,0.9,1000000,Active
+CLI-0236,NetDynamic Group,Logistics,Annual License,North,Chandigarh,2021-02-01,3.6,4.2,750000,Active
+CLI-0099,OmniSoft Services,Insurance,Multi-Year,South,Hyderabad,2024-05-31,3.7,0.8,150000,Active
+CLI-0198,CoreLogic Systems,Healthcare,Annual License,South,Bangalore,2019-12-02,3.4,5.3,1000000,Churned
+CLI-0117,InfraMax Digital,Healthcare,Multi-Year,East,Kolkata,2021-07-10,3.8,3.7,100000,At Risk
+CLI-0243,CloudNine Infotech,Telecom,Project-Based,East,Patna,2020-06-17,3.7,4.8,75000,Active
+CLI-0015,Pinnacle Solutions,Logistics,Monthly SaaS,North,Chandigarh,2020-01-28,3.6,5.2,500000,Active
+CLI-0218,TechVista Digital,Healthcare,Monthly SaaS,East,Patna,2019-10-07,4.3,5.5,500000,Churned
+CLI-0171,NovaTech Labs,Insurance,Multi-Year,East,Bhubaneswar,2020-06-01,4.3,4.8,500000,Active
+CLI-0270,GreenPulse Infotech,Government,Project-Based,South,Hyderabad,2023-03-27,4.3,2,150000,Churned
+CLI-0005,CrestLine Corp,EdTech,Multi-Year,East,Kolkata,2022-06-01,3.8,2.8,150000,Active
+CLI-0066,BrightPath Services,Logistics,Monthly SaaS,West,Ahmedabad,2020-02-12,4.6,5.1,75000,Active
+CLI-0278,TechVista Technologies,Media,Annual License,North,Delhi,2022-12-06,3.4,2.3,1000000,Active
+CLI-0190,CloudNine Systems,Banking,Project-Based,East,Bhubaneswar,2021-05-29,4.3,3.8,50000,Active
+CLI-0075,SwiftCode Infotech,Government,Multi-Year,South,Hyderabad,2023-05-05,4.8,1.9,50000,Active
+CLI-0027,Apex Technologies,Telecom,Multi-Year,East,Kolkata,2019-08-11,3.4,5.6,300000,Active
+CLI-0022,GreenPulse Group,Insurance,Monthly SaaS,North,Delhi,2022-07-23,3.2,2.7,50000,Active
+CLI-0079,CoreLogic Enterprises,Media,Managed Services,West,Mumbai,2023-06-13,4.6,1.8,1000000,Churned
+CLI-0184,CloudNine Digital,Logistics,Multi-Year,South,Chennai,2023-07-25,2.6,1.7,300000,Active
+CLI-0010,SafeHaven Digital,Manufacturing,Multi-Year,East,Bhubaneswar,2022-01-09,4.8,3.2,50000,Active
+CLI-0130,Apex Enterprises,EdTech,Project-Based,South,Kochi,2022-11-15,3.8,2.4,750000,At Risk
+CLI-0164,SilverEdge Corp,Media,Project-Based,West,Pune,2022-10-24,3.5,2.4,200000,Churned
+CLI-0274,Apex Technologies,EdTech,Project-Based,South,Chennai,2024-05-17,,0.9,300000,Active
+CLI-0271,CrestLine Systems,Media,Annual License,West,Mumbai,2021-05-27,3.2,3.8,100000,Active
+CLI-0025,InfraMax Solutions,Retail,Monthly SaaS,West,Pune,2020-06-30,4.3,4.8,500000,At Risk
+CLI-0041,BrightPath Labs,Logistics,Multi-Year,North,Chandigarh,2019-07-28,3.3,5.7,75000,Churned
+CLI-0029,InfraMax Corp,Logistics,Monthly SaaS,South,Unspecified,2021-05-11,3.4,3.9,100000,Active
+CLI-0136,CoreLogic Corp,Telecom,Annual License,North,Chandigarh,2021-12-31,4.6,3.2,50000,At Risk
+CLI-0050,InfraMax Services,Government,Managed Services,North,Delhi,2024-04-24,4.1,0.9,200000,Active
+CLI-0032,TechVista Infotech,Retail,Annual License,North,Lucknow,2020-03-24,4.9,5,1000000,Active
+CLI-0161,Pinnacle Group,Banking,Multi-Year,South,Kochi,2020-07-09,,4.7,75000,Active
+CLI-0044,Apex Enterprises,EdTech,Multi-Year,West,Pune,2020-12-27,3.4,4.3,200000,Active
+CLI-0085,OmniSoft Solutions,Healthcare,Monthly SaaS,West,Surat,2021-09-21,3.5,3.5,150000,Churned
+CLI-0065,Zenith Infotech,Insurance,Monthly SaaS,West,Ahmedabad,2022-09-27,,2.5,750000,At Risk
+CLI-0037,GreenPulse Labs,Insurance,Annual License,West,Ahmedabad,2022-10-01,3.5,2.5,100000,Churned
+CLI-0172,InfraMax Group,Banking,Monthly SaaS,North,Delhi,2023-04-24,4.2,1.9,100000,Active
+CLI-0112,Apex Systems,Government,Project-Based,North,Chandigarh,2019-05-18,4.1,5.9,300000,Active
+CLI-0177,BrightPath Labs,Logistics,Annual License,South,Chennai,2020-07-24,4.5,4.7,75000,Active
+CLI-0016,SwiftCode Technologies,Banking,Managed Services,North,Delhi,2024-03-12,3.1,1.1,500000,Active
+CLI-0200,CrestLine Services,Healthcare,Managed Services,North,Chandigarh,2023-02-26,2.6,2.1,50000,Active
+CLI-0153,DigitalForge Infotech,EdTech,Monthly SaaS,North,Chandigarh,2024-04-03,4.4,1,750000,At Risk
+CLI-0292,SilverEdge Solutions,Retail,Managed Services,South,Chennai,2022-07-13,4.7,2.7,100000,Active
+CLI-0082,BrightPath Group,Manufacturing,Multi-Year,West,Pune,2023-10-02,4.6,1.5,300000,Active
+CLI-0165,Zenith Labs,EdTech,Monthly SaaS,North,Delhi,2019-01-11,3.6,6.2,200000,Active
+CLI-0273,SwiftCode Group,Logistics,Annual License,East,Bhubaneswar,2023-12-15,3.3,1.3,300000,Active
+CLI-0076,Pinnacle Solutions,Retail,Annual License,East,Bhubaneswar,2022-04-20,2.9,2.9,50000,Active
+CLI-0272,Zenith Corp,Government,Annual License,East,Guwahati,2023-06-06,3.4,1.8,300000,Active
+CLI-0034,GreenPulse Infotech,Telecom,Managed Services,West,Pune,2020-07-16,4.3,4.7,150000,Active
+CLI-0043,SwiftCode Enterprises,Insurance,Project-Based,East,Patna,2023-10-11,4.8,1.5,200000,At Risk
+CLI-0284,SilverEdge Infotech,Logistics,Monthly SaaS,East,Bhubaneswar,2022-10-23,4.7,2.4,750000,Active
+CLI-0086,DigitalForge Group,Telecom,Annual License,South,Kochi,2022-05-12,,2.9,150000,Active
+CLI-0120,BrightPath Services,Manufacturing,Managed Services,West,Mumbai,2021-10-16,3.9,3.5,200000,Active
+CLI-0215,SilverEdge Digital,Logistics,Monthly SaaS,South,Chennai,2020-04-29,4.5,4.9,300000,At Risk
+CLI-0193,Zenith Technologies,Government,Project-Based,East,Guwahati,2020-10-06,3.1,4.5,75000,Active
+CLI-0250,Vertex Technologies,Banking,Annual License,North,Unspecified,2021-06-28,3.9,3.8,750000,Churned
+CLI-0191,Apex Corp,Healthcare,Project-Based,South,Kochi,2019-05-26,2.7,5.8,75000,Active
+CLI-0051,NetDynamic Digital,Insurance,Monthly SaaS,North,Chandigarh,2020-08-13,4.3,4.6,750000,Active
+CLI-0007,Zenith Infotech,Media,Managed Services,East,Guwahati,2024-01-13,3.4,1.2,100000,Active
+CLI-0073,DigitalForge Digital,Logistics,Monthly SaaS,North,Jaipur,2020-03-20,4.9,5,300000,Active
+CLI-0114,GreenPulse Enterprises,Manufacturing,Managed Services,East,Guwahati,2020-02-14,4.6,5.1,750000,Active
+CLI-0169,OmniSoft Systems,Telecom,Monthly SaaS,South,Kochi,2020-10-05,3.5,4.5,300000,Active
+CLI-0039,InfraMax Services,Healthcare,Project-Based,North,Delhi,2024-05-03,4.1,0.9,50000,Churned
+CLI-0063,SilverEdge Services,Unspecified,Annual License,West,Mumbai,2023-04-07,4.7,2,750000,Active
+CLI-0155,CloudNine Corp,Logistics,Annual License,South,Chennai,2019-02-03,4.8,6.2,500000,Active
+CLI-0140,GreenPulse Corp,Telecom,Managed Services,North,Jaipur,2022-08-31,3.1,2.6,75000,Active
+CLI-0145,CoreLogic Labs,Retail,Multi-Year,West,Ahmedabad,2023-12-31,4.7,1.2,500000,Active
+CLI-0154,DataWeave Services,Logistics,Project-Based,East,Patna,2020-06-19,4.7,4.8,750000,Active
+CLI-0246,NovaTech Systems,Government,Project-Based,West,Surat,2021-05-28,3.5,3.8,50000,Active
+CLI-0197,Zenith Group,EdTech,Project-Based,North,Jaipur,2022-12-01,4.9,2.3,150000,Active
+CLI-0156,SwiftCode Corp,Telecom,Project-Based,West,Surat,2019-12-11,3.4,5.3,100000,Churned
+CLI-0023,InfraMax Group,Banking,Annual License,North,Chandigarh,2022-01-22,,3.2,300000,Active
+CLI-0186,SilverEdge Labs,Insurance,Multi-Year,East,Guwahati,2021-02-07,4.1,4.1,75000,Active
+CLI-0143,NetDynamic Technologies,Manufacturing,Managed Services,West,Mumbai,2024-01-15,4.5,1.2,750000,Active
+CLI-0220,BrightPath Solutions,Retail,Managed Services,East,Bhubaneswar,2022-08-02,4.8,2.7,100000,Active
+CLI-0095,SwiftCode Labs,Telecom,Monthly SaaS,South,Hyderabad,2019-06-16,2.9,5.8,300000,Active
+CLI-0279,NetDynamic Labs,Logistics,Annual License,West,Pune,2021-12-28,4.4,3.3,1000000,Active
+CLI-0300,Pinnacle Infotech,Insurance,Multi-Year,North,Chandigarh,2021-11-07,3.3,3.4,1000000,Active
+CLI-0291,Zenith Systems,Retail,Monthly SaaS,North,Chandigarh,2021-04-29,4.3,3.9,750000,Active
+CLI-0290,SilverEdge Group,Logistics,Monthly SaaS,East,Guwahati,2023-06-12,4,1.8,1000000,At Risk
+CLI-0110,GreenPulse Technologies,Logistics,Annual License,West,Pune,2022-01-22,2.8,3.2,300000,Active
+CLI-0253,DigitalForge Systems,Healthcare,Managed Services,North,Delhi,2024-01-27,3.1,1.2,200000,Active
+CLI-0167,SafeHaven Systems,Logistics,Multi-Year,South,Hyderabad,2020-09-08,2.9,4.6,100000,Active
+CLI-0157,Unspecified,Banking,Annual License,North,Delhi,2021-04-24,4.1,3.9,75000,Churned
+CLI-0162,DataWeave Solutions,Manufacturing,Managed Services,South,Kochi,2024-03-17,2.9,1,150000,Active
+CLI-0035,Zenith Infotech,Healthcare,Project-Based,West,Unspecified,2022-01-16,2.7,3.2,500000,Active
+CLI-0283,NovaTech Infotech,EdTech,Project-Based,West,Ahmedabad,2022-06-16,4.2,2.8,100000,Active
+CLI-0013,SwiftCode Infotech,Government,Multi-Year,North,Delhi,2022-12-20,3.1,2.3,50000,At Risk
+CLI-0105,OmniSoft Corp,Manufacturing,Managed Services,West,Pune,2022-09-22,3.8,2.5,300000,Active
+CLI-0259,CrestLine Group,Insurance,Project-Based,South,Bangalore,2023-03-19,3.1,2,200000,Active
+CLI-0277,DataWeave Solutions,Healthcare,Annual License,North,Chandigarh,2023-06-15,2.7,1.8,150000,At Risk
+CLI-0268,Vertex Solutions,Manufacturing,Monthly SaaS,South,Hyderabad,2022-10-31,4.6,2.4,200000,Active
+CLI-0017,TechVista Services,Insurance,Monthly SaaS,West,Surat,2019-11-14,3,5.4,50000,Active
+CLI-0261,OmniSoft Digital,Telecom,Managed Services,South,Kochi,2024-04-30,4.6,0.9,150000,Churned
+CLI-0226,CoreLogic Technologies,Insurance,Annual License,East,Guwahati,2021-08-22,4.2,3.6,75000,Active
+CLI-0058,Zenith Enterprises,Telecom,Managed Services,East,Guwahati,2023-09-06,3.7,1.6,750000,Active
+CLI-0224,CrestLine Digital,Logistics,Multi-Year,North,Delhi,2020-11-09,3,4.4,1000000,Churned
+CLI-0020,NovaTech Solutions,Insurance,Managed Services,North,Delhi,2022-01-06,3.2,3.2,300000,At Risk
+CLI-0137,TechVista Enterprises,Retail,Monthly SaaS,North,Delhi,2020-09-03,2.8,4.6,300000,Active
+CLI-0182,CoreLogic Systems,Insurance,Managed Services,West,Mumbai,2022-03-18,4.4,3,300000,Active
+CLI-0108,CoreLogic Infotech,Banking,Multi-Year,North,Jaipur,2024-03-26,3.5,1,1000000,Active
+CLI-0252,Unspecified,EdTech,Project-Based,East,Bhubaneswar,2019-03-22,4.8,6,750000,Active
+CLI-0166,Pinnacle Solutions,Healthcare,Monthly SaaS,North,Jaipur,2023-11-04,3.2,1.4,500000,Churned
+CLI-0276,Apex Technologies,Manufacturing,Multi-Year,West,Mumbai,2020-02-26,4.3,5.1,500000,Active
+CLI-0144,CoreLogic Solutions,Logistics,Monthly SaaS,North,Chandigarh,2022-03-30,3.6,3,75000,Active
+CLI-0094,NetDynamic Group,Media,Managed Services,South,Hyderabad,2021-02-02,3.5,4.2,300000,Active
+CLI-0251,Pinnacle Group,Telecom,Managed Services,South,Kochi,2023-08-29,3.8,1.6,75000,Active
+CLI-0121,Vertex Systems,Insurance,Project-Based,West,Surat,2020-02-22,2.9,5.1,300000,Churned
+CLI-0212,OmniSoft Digital,Manufacturing,Monthly SaaS,West,Surat,2023-12-13,2.7,1.3,200000,Active
+CLI-0204,Apex Corp,Banking,Project-Based,East,Kolkata,2020-02-25,3.1,5.1,750000,At Risk
+CLI-0201,Vertex Group,Logistics,Multi-Year,East,Bhubaneswar,2021-05-02,3.3,3.9,75000,Active
+CLI-0141,CoreLogic Technologies,Telecom,Monthly SaaS,South,Chennai,2024-05-14,2.9,0.9,300000,Active
+CLI-0048,CoreLogic Systems,Insurance,Annual License,North,Jaipur,2021-08-19,3.4,3.6,50000,Active
+CLI-0247,SafeHaven Infotech,Banking,Annual License,South,Chennai,2022-11-21,3.3,2.4,75000,Active
+CLI-0093,BlueOrbit Corp,Government,Project-Based,South,Bangalore,2021-07-11,4.7,3.7,300000,At Risk
+CLI-0084,Apex Technologies,Media,Multi-Year,West,Surat,2021-07-18,3.4,3.7,300000,Churned
+CLI-0026,CoreLogic Infotech,Manufacturing,Annual License,South,Kochi,2020-11-03,2.7,4.4,200000,Active
+CLI-0149,Vertex Systems,Media,Monthly SaaS,South,Hyderabad,2022-03-28,4.2,3,300000,Active
+CLI-0245,CrestLine Technologies,Insurance,Monthly SaaS,South,Hyderabad,2022-07-23,,2.7,750000,Active
+CLI-0054,BrightPath Digital,Banking,Monthly SaaS,North,Chandigarh,2021-08-21,3.6,3.6,200000,Active
+CLI-0004,OmniSoft Corp,Government,Multi-Year,North,Delhi,2022-09-16,3.2,2.5,75000,At Risk
+CLI-0232,BrightPath Digital,Insurance,Annual License,South,Hyderabad,2021-04-05,4,4,500000,Active
+CLI-0231,InfraMax Technologies,Logistics,Multi-Year,South,Bangalore,2024-03-09,4.4,1.1,200000,At Risk
+CLI-0187,DigitalForge Corp,Government,Annual License,North,Lucknow,2022-07-24,3.4,2.7,75000,Churned
+CLI-0234,DataWeave Services,Logistics,Managed Services,North,Chandigarh,2021-06-23,4.6,3.8,750000,Churned
+CLI-0210,BrightPath Digital,Telecom,Annual License,North,Delhi,2020-02-09,3.6,5.1,100000,Active
+CLI-0295,Zenith Digital,Healthcare,Multi-Year,West,Mumbai,2023-12-03,3.8,1.3,75000,Active
+CLI-0101,Pinnacle Services,Healthcare,Multi-Year,East,Guwahati,2024-01-29,4.6,1.2,75000,At Risk
+CLI-0089,InfraMax Technologies,Manufacturing,Project-Based,West,Mumbai,2021-03-21,4.4,4,150000,Active
+CLI-0223,Pinnacle Technologies,EdTech,Multi-Year,West,Pune,2023-02-08,4.9,2.1,75000,Active
+CLI-0009,DataWeave Technologies,Telecom,Project-Based,South,Kochi,2019-01-07,4.7,6.2,200000,At Risk
+CLI-0299,TechVista Infotech,Logistics,Managed Services,West,Pune,2021-01-28,3.7,4.2,200000,Active
+CLI-0298,Apex Labs,Manufacturing,Monthly SaaS,West,Ahmedabad,2019-08-07,4.1,5.6,200000,Active
+CLI-0109,Vertex Corp,Telecom,Annual License,East,Guwahati,2023-12-27,3.6,1.3,500000,Active
+CLI-0135,InfraMax Corp,Insurance,Annual License,South,Bangalore,2024-05-29,4.8,0.8,500000,Active
+CLI-0014,Zenith Digital,Government,Project-Based,South,Kochi,2023-07-12,2.7,1.7,500000,Active
+CLI-0033,NetDynamic Group,Media,Managed Services,East,Guwahati,2022-06-08,4.7,2.8,500000,Churned
+CLI-0281,CloudNine Infotech,Logistics,Managed Services,South,Chennai,2020-01-12,4.6,5.2,150000,Active
+CLI-0102,Vertex Labs,Media,Monthly SaaS,South,Kochi,2019-06-17,2.6,5.8,75000,Churned
+CLI-0072,Pinnacle Technologies,Manufacturing,Managed Services,South,Kochi,2021-07-18,4.9,3.7,1000000,Active
+CLI-0131,DataWeave Enterprises,Media,Project-Based,East,Bhubaneswar,2021-07-30,3.4,3.7,300000,Active
+CLI-0222,InfraMax Enterprises,Logistics,Monthly SaaS,West,Mumbai,2023-08-25,4.7,1.6,150000,Active
+CLI-0126,OmniSoft Technologies,Retail,Annual License,West,Ahmedabad,2023-06-16,3.9,1.8,300000,Churned
+CLI-0071,Pinnacle Infotech,Insurance,Annual License,East,Bhubaneswar,2022-08-19,4.6,2.6,200000,Active
+CLI-0148,SilverEdge Infotech,Healthcare,Annual License,North,Lucknow,2022-05-09,4.7,2.9,150000,Churned
+CLI-0188,DataWeave Services,EdTech,Managed Services,South,Unspecified,2023-06-03,4.2,1.8,50000,Active
+CLI-0216,BrightPath Infotech,Insurance,Managed Services,East,Unspecified,2021-10-01,,3.5,50000,Active
+CLI-0196,Vertex Solutions,Logistics,Managed Services,East,Guwahati,2021-05-17,2.7,3.9,1000000,Active
+CLI-0096,NovaTech Services,Media,Project-Based,East,Unspecified,2022-10-04,4.9,2.5,1000000,Active
+CLI-0249,SilverEdge Infotech,Retail,Multi-Year,North,Chandigarh,2019-09-10,4.1,5.6,50000,Active
+CLI-0011,CoreLogic Infotech,Banking,Multi-Year,North,Delhi,2023-02-07,2.7,2.1,1000000,Churned
+CLI-0139,OmniSoft Labs,Unspecified,Managed Services,East,Kolkata,2021-03-31,3,4,100000,Active
+CLI-0002,Apex Group,Manufacturing,Managed Services,West,Pune,2021-07-08,4.5,3.7,50000,Churned
+CLI-0158,OmniSoft Enterprises,Insurance,Annual License,North,Lucknow,2019-01-25,,6.2,200000,Active
+CLI-0127,Zenith Corp,Insurance,Managed Services,West,Pune,2022-05-26,2.8,2.8,300000,Active
+CLI-0170,TechVista Services,Logistics,Monthly SaaS,North,Chandigarh,2022-04-27,2.9,2.9,1000000,Active
+CLI-0241,Apex Enterprises,Telecom,Monthly SaaS,West,Surat,2021-03-06,4,4.1,150000,Active
+CLI-0021,CoreLogic Digital,Media,Annual License,East,Kolkata,2024-04-06,3.2,1,75000,Churned
+CLI-0031,SilverEdge Services,Manufacturing,Multi-Year,South,Bangalore,2019-04-05,3.7,6,75000,Active
+CLI-0028,Vertex Labs,Banking,Managed Services,South,Hyderabad,2021-06-02,4.2,3.8,300000,Active
+CLI-0040,Zenith Enterprises,Healthcare,Managed Services,South,Kochi,2022-12-03,3.4,2.3,75000,Churned
+CLI-0092,Vertex Solutions,EdTech,Monthly SaaS,North,Delhi,2022-06-13,3.5,2.8,1000000,At Risk
+CLI-0159,CrestLine Technologies,Healthcare,Managed Services,South,Chennai,2020-01-29,3.1,5.2,300000,Active
+CLI-0228,SwiftCode Solutions,Logistics,Managed Services,West,Surat,2022-03-18,3.7,3,75000,Active
+CLI-0238,Apex Enterprises,Retail,Multi-Year,North,Chandigarh,2020-05-31,4.9,4.8,200000,Active
+CLI-0239,SafeHaven Digital,Logistics,Managed Services,North,Delhi,2021-11-13,4.9,3.4,300000,Active
+CLI-0053,Pinnacle Enterprises,Unspecified,Project-Based,East,Guwahati,2021-06-15,2.6,3.8,500000,Churned
+CLI-0229,BrightPath Digital,Retail,Annual License,West,Pune,2024-04-27,4.9,0.9,150000,Active
+CLI-0062,GreenPulse Corp,Government,Project-Based,North,Jaipur,2023-10-12,3.8,1.5,300000,Active
+CLI-0206,GreenPulse Corp,Logistics,Monthly SaaS,East,Guwahati,2020-07-10,4.9,4.7,100000,Churned
+CLI-0061,Zenith Enterprises,Banking,Multi-Year,East,Kolkata,2023-11-26,2.7,1.3,750000,Active
+CLI-0052,BlueOrbit Labs,Healthcare,Managed Services,South,Chennai,2024-02-04,2.9,1.2,50000,Active
+CLI-0189,CrestLine Enterprises,Insurance,Annual License,West,Pune,2022-11-11,4.7,2.4,200000,Active
+CLI-0128,SafeHaven Group,Insurance,Managed Services,East,Guwahati,2023-07-29,,1.7,300000,Active
+CLI-0049,BrightPath Solutions,Retail,Multi-Year,East,Kolkata,2020-05-23,4.4,4.9,150000,Churned
+CLI-0255,CloudNine Corp,Retail,Annual License,West,Surat,2024-05-24,4.6,0.9,750000,Churned
+CLI-0285,NovaTech Services,Retail,Managed Services,South,Hyderabad,2023-02-11,2.7,2.1,75000,At Risk
+CLI-0069,CloudNine Group,Media,Monthly SaaS,South,Hyderabad,2024-02-15,3.7,1.1,200000,Churned
+CLI-0056,TechVista Group,Banking,Managed Services,West,Surat,2019-04-22,3.4,5.9,750000,Active
+CLI-0256,Vertex Systems,Healthcare,Project-Based,West,Surat,2020-01-07,4.4,5.2,50000,At Risk
+CLI-0237,NovaTech Services,Banking,Project-Based,North,Chandigarh,2023-10-15,4.9,1.5,150000,Active
+CLI-0122,SwiftCode Technologies,EdTech,Multi-Year,West,Mumbai,2020-07-01,2.9,4.7,50000,Active
+CLI-0046,SwiftCode Corp,EdTech,Project-Based,East,Patna,2020-05-29,4.3,4.8,300000,Active
+CLI-0280,CloudNine Solutions,Media,Managed Services,South,Bangalore,2019-03-27,,6,500000,Active
+CLI-0088,DataWeave Digital,Logistics,Managed Services,West,Surat,2020-08-15,2.6,4.6,300000,Active
+CLI-0211,Vertex Systems,Government,Project-Based,West,Surat,2019-03-02,3.6,6.1,300000,Active
+CLI-0192,Zenith Systems,Healthcare,Managed Services,North,Chandigarh,2021-06-20,3,3.8,100000,At Risk
+CLI-0173,DataWeave Labs,Healthcare,Annual License,North,Jaipur,2020-03-30,3.8,5,150000,Active
+CLI-0289,Vertex Solutions,EdTech,Annual License,East,Patna,2022-03-31,2.9,3,500000,Active
+CLI-0024,Vertex Corp,Manufacturing,Multi-Year,North,Jaipur,2023-05-17,4.7,1.9,100000,At Risk
+CLI-0074,TechVista Services,Manufacturing,Annual License,West,Mumbai,2022-09-19,4.1,2.5,50000,Active
+CLI-0064,CloudNine Corp,Logistics,Multi-Year,South,Kochi,2022-03-05,3,3.1,100000,Active
+CLI-0068,Zenith Technologies,Banking,Monthly SaaS,West,Mumbai,2022-04-01,2.8,3,200000,Active
+CLI-0214,GreenPulse Solutions,Insurance,Managed Services,East,Bhubaneswar,2024-06-17,3.1,0.8,150000,Active
+CLI-0240,DataWeave Services,EdTech,Monthly SaaS,East,Patna,2020-01-21,4.4,5.2,50000,Churned
+CLI-0275,Apex Group,EdTech,Managed Services,West,Surat,2019-03-31,4.1,6,300000,Active
+CLI-0138,SafeHaven Enterprises,Telecom,Multi-Year,North,Jaipur,2019-11-29,4.1,5.3,100000,Active
+CLI-0133,GreenPulse Services,Healthcare,Managed Services,West,Surat,2023-08-04,4.4,1.7,100000,Active
+CLI-0091,NetDynamic Digital,Government,Monthly SaaS,East,Bhubaneswar,2021-06-19,3.6,3.8,200000,Churned
+CLI-0106,TechVista Enterprises,Banking,Project-Based,East,Patna,2023-03-11,,2.1,75000,Active
+CLI-0296,InfraMax Group,Logistics,Monthly SaaS,North,Lucknow,2020-04-14,3.7,5,500000,Active
+CLI-0293,BrightPath Solutions,Telecom,Annual License,South,Kochi,2022-05-27,4.7,2.8,100000,Active
+CLI-0059,NovaTech Services,Logistics,Monthly SaaS,East,Kolkata,2020-08-02,4.6,4.7,750000,At Risk
+CLI-0180,SwiftCode Systems,Media,Multi-Year,West,Ahmedabad,2019-10-15,4.6,5.5,50000,At Risk
+CLI-0257,DigitalForge Technologies,Logistics,Project-Based,North,Delhi,2020-06-19,2.5,4.8,1000000,Churned
+CLI-0057,NetDynamic Enterprises,Healthcare,Annual License,South,Chennai,2020-09-28,3.9,4.5,75000,Active
+CLI-0202,SafeHaven Solutions,Logistics,Annual License,West,Ahmedabad,2023-05-04,3.3,1.9,1000000,Active
+CLI-0163,Zenith Technologies,Media,Monthly SaaS,North,Delhi,2021-06-14,2.7,3.8,500000,At Risk
+CLI-0098,OmniSoft Systems,Government,Project-Based,South,Chennai,2020-01-06,4.4,5.2,100000,Churned
+CLI-0067,TechVista Services,Banking,Managed Services,North,Lucknow,2023-09-02,3.2,1.6,150000,Active
+CLI-0267,SwiftCode Corp,Unspecified,Monthly SaaS,West,Surat,2022-10-12,4.6,2.5,200000,At Risk
+CLI-0124,Unspecified,Banking,Annual License,East,Guwahati,2022-05-08,4.1,2.9,750000,Active
+CLI-0287,NovaTech Labs,EdTech,Managed Services,North,Chandigarh,2023-10-03,5,1.5,100000,Churned
+CLI-0221,NovaTech Corp,Insurance,Annual License,East,Bhubaneswar,2020-05-26,3.4,4.8,75000,Churned
+CLI-0230,Zenith Digital,Unspecified,Monthly SaaS,North,Delhi,2021-03-05,3.9,4.1,200000,Active
+CLI-0118,InfraMax Group,Banking,Annual License,South,Hyderabad,2019-12-04,4.8,5.3,150000,Active
+CLI-0288,Zenith Enterprises,EdTech,Annual License,South,Kochi,2020-04-19,3.4,4.9,50000,Active
+CLI-0235,CoreLogic Group,Logistics,Multi-Year,North,Chandigarh,2020-01-30,3,5.2,50000,Active
+CLI-0174,CloudNine Solutions,Insurance,Annual License,East,Guwahati,2024-02-29,2.8,1.1,100000,Active
+CLI-0125,CloudNine Labs,EdTech,Annual License,West,Mumbai,2022-03-13,3.4,3,200000,Active
+CLI-0248,CoreLogic Enterprises,Media,Managed Services,East,Guwahati,2023-12-24,2.8,1.3,750000,Active
+CLI-0194,Apex Services,Manufacturing,Managed Services,South,Kochi,2020-08-28,4.5,4.6,150000,Active
+CLI-0227,Vertex Services,Insurance,Project-Based,East,Bhubaneswar,2023-09-11,2.7,1.6,75000,Active
+CLI-0129,Apex Digital,Insurance,Monthly SaaS,South,Bangalore,2022-04-10,3.8,3,500000,Active
+CLI-0132,DigitalForge Infotech,Manufacturing,Monthly SaaS,East,Bhubaneswar,2024-04-12,3.2,1,200000,Churned
+CLI-0263,InfraMax Technologies,Telecom,Managed Services,South,Chennai,2019-09-05,3.5,5.6,750000,Churned
+CLI-0060,TechVista Enterprises,EdTech,Multi-Year,South,Kochi,2020-04-23,3.5,4.9,300000,Churned
+CLI-0175,Pinnacle Enterprises,Insurance,Monthly SaaS,North,Jaipur,2019-04-02,2.8,6,300000,Active
+CLI-0151,SwiftCode Enterprises,Manufacturing,Multi-Year,East,Bhubaneswar,2023-07-09,2.6,1.7,500000,At Risk
+CLI-0258,DataWeave Group,Media,Managed Services,North,Lucknow,2022-09-17,3.7,2.5,500000,Active
+CLI-0038,BrightPath Digital,Banking,Annual License,West,Pune,2023-11-11,2.6,1.4,500000,Active
+CLI-0055,CloudNine Labs,EdTech,Monthly SaaS,North,Chandigarh,2020-11-06,3.7,4.4,500000,Churned
+CLI-0260,NetDynamic Enterprises,Government,Project-Based,North,Unspecified,2021-07-04,5,3.7,50000,Active
+CLI-0209,SwiftCode Infotech,Healthcare,Project-Based,North,Chandigarh,2019-09-06,,5.6,150000,Active
+CLI-0134,GreenPulse Enterprises,Manufacturing,Multi-Year,East,Patna,2019-10-09,4.4,5.5,150000,Active
+CLI-0003,DataWeave Technologies,Healthcare,Project-Based,North,Jaipur,2023-10-02,3.2,1.5,50000,Churned
+CLI-0207,InfraMax Technologies,Media,Monthly SaaS,South,Kochi,2020-09-23,4.6,4.5,75000,Active
+CLI-0233,GreenPulse Corp,Banking,Monthly SaaS,East,Patna,2020-07-28,4.6,4.7,75000,At Risk
+CLI-0147,SilverEdge Infotech,Insurance,Monthly SaaS,South,Hyderabad,2020-01-22,4.3,5.2,75000,Active
+CLI-0116,DigitalForge Solutions,EdTech,Managed Services,East,Guwahati,2023-07-04,2.8,1.7,75000,Active
+CLI-0294,Unspecified,Telecom,Multi-Year,East,Guwahati,2022-05-06,3.1,2.9,500000,Active
+CLI-0178,Pinnacle Services,Insurance,Managed Services,East,Guwahati,2022-06-05,2.8,2.8,300000,Churned
+CLI-0179,OmniSoft Digital,Healthcare,Multi-Year,East,Kolkata,2020-05-03,3,4.9,100000,Active
+CLI-0146,CloudNine Technologies,Retail,Managed Services,West,Pune,2023-01-30,4.6,2.2,50000,At Risk
+CLI-0282,SwiftCode Enterprises,Media,Annual License,East,Kolkata,2020-05-28,4.3,4.8,750000,At Risk
+CLI-0036,BrightPath Labs,Insurance,Annual License,East,Patna,2023-03-24,4.7,2,500000,Active
+CLI-0008,InfraMax Digital,Healthcare,Project-Based,West,Surat,2021-12-19,3.9,3.3,50000,Active
+CLI-0103,DigitalForge Systems,Insurance,Project-Based,North,Delhi,2019-02-08,4.6,6.1,1000000,At Risk
+CLI-0208,DataWeave Systems,Healthcare,Multi-Year,East,Guwahati,2021-11-17,,3.4,200000,Active
+CLI-0203,SilverEdge Enterprises,Unspecified,Managed Services,West,Pune,2023-02-09,4.4,2.1,150000,Active
+CLI-0181,SwiftCode Group,Insurance,Project-Based,West,Surat,2022-12-25,3.7,2.3,75000,Active
+CLI-0205,SilverEdge Group,Logistics,Monthly SaaS,West,Mumbai,2022-04-04,2.8,3,500000,Active
+CLI-0142,BlueOrbit Infotech,Government,Annual License,West,Ahmedabad,2019-06-09,2.8,5.8,1000000,At Risk
+CLI-0045,SwiftCode Infotech,Insurance,Project-Based,West,Mumbai,2019-07-10,3.5,5.7,150000,Active
+CLI-0081,CloudNine Systems,Media,Annual License,East,Kolkata,2021-04-21,4.2,3.9,500000,At Risk
+CLI-0001,Pinnacle Solutions,Unspecified,Multi-Year,South,Chennai,2023-02-17,4.4,2.1,1000000,Active
+CLI-0123,CrestLine Corp,Government,Monthly SaaS,South,Chennai,2021-10-17,3.7,3.5,200000,Active
+CLI-0185,BrightPath Services,Media,Annual License,South,Kochi,2024-02-25,,1.1,200000,At Risk
+CLI-0019,NovaTech Labs,Government,Managed Services,East,Patna,2020-02-23,3.3,5.1,200000,Active
+CLI-0087,Apex Enterprises,Logistics,Multi-Year,South,Unspecified,2021-12-26,3.8,3.3,300000,Active
+CLI-0119,SwiftCode Services,Retail,Monthly SaaS,North,Chandigarh,2022-04-27,2.9,2.9,300000,Churned
+CLI-0265,BrightPath Systems,Retail,Annual License,West,Ahmedabad,2021-10-29,3.5,3.4,150000,Active
+CLI-0262,CloudNine Enterprises,Healthcare,Annual License,South,Bangalore,2020-11-30,4.1,4.3,200000,Active
+CLI-0018,SafeHaven Group,Retail,Annual License,North,Chandigarh,2019-05-21,4.2,5.9,150000,Active
+CLI-0100,TechVista Group,Media,Project-Based,South,Chennai,2023-06-29,4.7,1.8,50000,Active
+CLI-0266,InfraMax Digital,Media,Monthly SaaS,East,Bhubaneswar,2020-02-16,4.3,5.1,300000,At Risk
+CLI-0104,Pinnacle Solutions,Manufacturing,Project-Based,West,Mumbai,2019-08-16,3.7,5.6,1000000,Active
+CLI-0006,DataWeave Solutions,Manufacturing,Annual License,East,Guwahati,2020-07-02,4.8,4.7,300000,Active
+CLI-0225,Vertex Labs,Government,Managed Services,West,Pune,2019-04-22,3.6,5.9,200000,Churned
+CLI-0254,CloudNine Corp,Logistics,Annual License,North,Delhi,2019-01-20,4.2,6.2,100000,Active
+CLI-0090,CloudNine Corp,Retail,Multi-Year,North,Chandigarh,2020-06-08,4,4.8,75000,Active
+CLI-0030,InfraMax Digital,Government,Monthly SaaS,West,Surat,2021-06-24,3.8,3.8,100000,Active

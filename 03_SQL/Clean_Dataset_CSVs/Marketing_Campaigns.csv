@@ -1,0 +1,151 @@
+Campaign_ID,Campaign_Name,Channel,Campaign_Type,Start_Date,End_Date,Budget_INR,Impressions,Clicks,MQLs,SQLs,Conversions,CTR_Percent,Cost_Per_Click,Customer_Acquisition_Cost,Target_Region,Target_Industry
+CAMP-0116,Q2-2023 SecureNet Suite Retargeting,Google Ads,Retargeting,2023-04-11,2023-06-12,751318,125501,8720,2000,453,158,6.95,86.16,4755.18,North,Telecom
+CAMP-0035,Q2-2023 AnalyticsEdge Retargeting,Social Media,Lead Generation,2024-06-27,2024-08-25,931769,404277,28305,3218,614,177,7.00,32.92,5264.23,West,Manufacturing
+CAMP-0127,Q4-2023 AnalyticsEdge Product Launch,SEO,Brand Awareness,2023-06-05,2023-07-28,1330883,169252,9199,1321,320,124,5.44,144.68,10732.93,All Regions,EdTech
+CAMP-0115,Q4-2024 AI Insights Module Retargeting,Webinar,Brand Awareness,2024-08-25,2024-11-08,1055991,167737,2658,164,24,6,1.58,397.29,175998.5,Unspecified,Retail
+CAMP-0111,Q1-2024 SecureNet Suite Retargeting,Webinar,Lead Generation,2023-11-14,2024-01-05,576586,352957,18568,3933,1690,470,5.26,31.05,1226.78,All Regions,Telecom
+CAMP-0123,Q1-2024 CloudShift Platform Event Promotion,LinkedIn,Brand Awareness,2024-01-26,2024-04-23,99142,23806,697,96,16,3,2.93,142.24,33047.33,East,Telecom
+CAMP-0086,Q2-2023 AnalyticsEdge Product Launch,SEO,Brand Awareness,2023-10-04,2023-12-18,1296128,325772,9541,1855,438,153,2.93,135.85,8471.42,West,Retail
+CAMP-0039,Q3-2025 DevOps Accelerator Event Promotion,Social Media,Lead Generation,2025-01-04,2025-03-30,1268589,152974,10540,2346,955,280,6.89,120.36,4530.68,West,Banking
+CAMP-0016,Q3-2023 DevOps Accelerator Brand Awareness,LinkedIn,Retargeting,2024-07-10,2024-08-31,616140,384535,19957,3229,1357,235,5.19,30.87,2621.87,North,All Industries
+CAMP-0043,Q4-2025 AI Insights Module Brand Awareness,Content Marketing,Event Promotion,2023-10-16,2023-11-11,1208048,11982,195,24,8,1,1.63,6195.12,1208048,All Regions,Healthcare
+CAMP-0124,Q2-2025 SecureNet Suite Brand Awareness,Social Media,Event Promotion,2024-08-01,2024-08-26,1362761,48086,2575,481,145,51,5.35,529.23,26720.8,All Regions,Government
+CAMP-0053,Q2-2025 AI Insights Module Product Launch,Google Ads,Lead Generation,2024-03-01,2024-03-24,487709,284841,10450,1086,426,97,3.67,46.67,5027.93,West,All Industries
+CAMP-0018,Q2-2023 SecureNet Suite Event Promotion,LinkedIn,Lead Generation,2024-06-07,2024-06-24,1450372,301192,20113,3277,1347,343,6.68,72.11,4228.49,East,Retail
+CAMP-0008,Q3-2023 AI Insights Module Retargeting,Email,Retargeting,2024-06-09,2024-06-26,1120643,289309,23081,4593,775,194,7.98,48.55,5776.51,South,Healthcare
+CAMP-0150,Q3-2023 AnalyticsEdge Brand Awareness,SEO,Retargeting,2024-01-05,2024-01-24,244034,384010,12175,1873,705,127,3.17,20.04,1921.53,Unspecified,Banking
+CAMP-0024,Q4-2025 AI Insights Module Product Launch,Content Marketing,Product Launch,2024-03-21,2024-05-15,986794,400131,23524,3710,659,210,5.88,41.95,4699.02,East,Unspecified
+CAMP-0060,Q3-2023 AnalyticsEdge Product Launch,Social Media,Brand Awareness,2024-11-18,2024-12-30,1299836,402559,22342,3206,942,123,5.55,58.18,10567.77,North,Healthcare
+CAMP-0105,Q4-2023 AnalyticsEdge Event Promotion,Webinar,Retargeting,2024-09-10,2024-11-29,1095970,269329,15203,1256,615,96,5.64,72.09,11416.35,All Regions,Manufacturing
+CAMP-0113,Q2-2024 CloudShift Platform Lead Generation,Google Ads,Brand Awareness,2023-04-02,2023-06-23,961343,247466,4736,254,69,9,1.91,202.99,106815.89,East,EdTech
+CAMP-0133,Q4-2025 DataVault Pro Retargeting,Google Ads,Event Promotion,2023-03-03,2023-05-03,788323,292324,5644,1045,309,100,1.93,139.67,7883.23,North,Insurance
+CAMP-0142,Q2-2023 DevOps Accelerator Retargeting,Social Media,Product Launch,2025-02-28,2025-05-01,1125028,385374,25086,2140,736,196,6.51,44.85,5739.94,North,Media
+CAMP-0121,Q4-2023 AI Insights Module Lead Generation,LinkedIn,Product Launch,2024-01-27,2024-04-07,1144467,44673,1313,206,96,14,2.94,871.64,81747.64,East,Logistics
+CAMP-0076,Q3-2025 SecureNet Suite Event Promotion,Content Marketing,Product Launch,2024-03-06,2024-05-29,296081,203021,2481,393,102,13,1.22,119.34,22775.46,East,Manufacturing
+CAMP-0062,Q1-2024 AnalyticsEdge Retargeting,Email,Lead Generation,2024-09-10,2024-10-14,420937,300053,18957,2082,941,167,6.32,22.2,2520.58,North,Government
+CAMP-0099,Q2-2025 DevOps Accelerator Brand Awareness,Content Marketing,Lead Generation,2024-07-30,2024-08-14,909983,246287,13286,2769,1258,134,5.39,68.49,6790.92,All Regions,Media
+CAMP-0077,Q4-2024 DataVault Pro Brand Awareness,Google Ads,Brand Awareness,2023-07-23,2023-08-07,639700,91607,6110,562,244,75,6.67,104.65,8529.33,All Regions,Manufacturing
+CAMP-0054,Q1-2024 AnalyticsEdge Lead Generation,LinkedIn,Event Promotion,2024-12-29,2025-01-15,118248,168771,5692,378,98,16,3.37,20.77,7390.5,North,Government
+CAMP-0112,Q2-2025 SecureNet Suite Brand Awareness,Content Marketing,Lead Generation,2024-08-11,2024-09-12,1084235,244228,18533,1202,329,117,7.59,58.5,9266.97,South,Logistics
+CAMP-0032,Q2-2025 AnalyticsEdge Product Launch,LinkedIn,Product Launch,2023-11-03,2024-01-23,1256395,170300,1941,98,37,7,1.14,647.29,179485,All Regions,Logistics
+CAMP-0042,Q4-2025 CloudShift Platform Retargeting,Email,Brand Awareness,2023-02-24,2023-05-10,1454862,34159,392,24,5,1,1.15,3711.38,1454862,East,Unspecified
+CAMP-0080,Q3-2024 AnalyticsEdge Lead Generation,Social Media,Product Launch,2023-04-12,2023-07-02,880836,82670,1430,232,88,31,1.73,615.97,28414.06,West,Logistics
+CAMP-0084,Q1-2024 AI Insights Module Retargeting,SEO,Product Launch,2023-02-27,2023-04-22,1392111,327634,23553,3422,1332,222,7.19,59.11,6270.77,North,Unspecified
+CAMP-0089,Q1-2024 AI Insights Module Lead Generation,LinkedIn,Product Launch,2023-09-24,2023-10-21,527447,280933,6027,1165,553,147,2.15,87.51,3588.07,All Regions,Manufacturing
+CAMP-0146,Q1-2025 SecureNet Suite Lead Generation,LinkedIn,Product Launch,2024-02-02,2024-04-05,222732,463669,27503,5863,953,228,5.93,8.1,976.89,South,Unspecified
+CAMP-0092,Q1-2024 DevOps Accelerator Lead Generation,LinkedIn,Lead Generation,2023-02-18,2023-05-19,273094,235281,8812,1911,683,134,3.75,30.99,2038.01,East,Unspecified
+CAMP-0034,Q4-2023 DevOps Accelerator Event Promotion,Social Media,Product Launch,2024-03-28,2024-06-05,1009931,236770,9413,2259,934,287,3.98,107.29,3518.92,North,Government
+CAMP-0059,Q4-2025 SecureNet Suite Event Promotion,Social Media,Lead Generation,2023-10-28,2023-11-29,584326,42908,1663,270,88,16,3.88,351.37,36520.38,North,Logistics
+CAMP-0003,Q4-2023 SecureNet Suite Product Launch,LinkedIn,Lead Generation,2024-12-08,2025-01-18,1047835,496775,27684,6540,2450,458,5.57,37.85,2287.85,West,Manufacturing
+CAMP-0026,Q1-2024 CloudShift Platform Product Launch,Google Ads,Retargeting,2024-10-07,2024-12-21,90065,309321,4640,470,199,76,1.50,19.35,1185.07,East,Unspecified
+CAMP-0147,Q1-2024 AI Insights Module Brand Awareness,Trade Show,Brand Awareness,2023-09-04,2023-10-14,810049,24326,433,56,12,1,1.78,1870.78,810049,Unspecified,Government
+CAMP-0014,Q1-2023 DataVault Pro Brand Awareness,Email,Brand Awareness,2023-08-22,2023-09-26,120003,302403,13275,1325,547,200,4.39,9.04,600.01,West,Government
+CAMP-0067,Q3-2023 DevOps Accelerator Retargeting,Social Media,Brand Awareness,2024-10-27,2025-01-20,1094418,487816,8187,1785,839,243,1.68,133.68,4503.78,East,Banking
+CAMP-0107,Q4-2025 AI Insights Module Retargeting,LinkedIn,Product Launch,2024-10-20,2024-12-15,519512,111222,8595,551,207,56,7.73,60.44,9277,South,All Industries
+CAMP-0109,Q4-2023 CloudShift Platform Product Launch,LinkedIn,Brand Awareness,2023-11-30,2024-01-12,1125285,480535,26731,6012,2554,403,5.56,42.1,2792.27,All Regions,EdTech
+CAMP-0108,Q4-2025 CloudShift Platform Retargeting,SEO,Product Launch,2024-10-07,2024-10-27,348839,69013,4567,960,408,61,6.62,76.38,5718.67,All Regions,All Industries
+CAMP-0145,Q3-2023 CloudShift Platform Lead Generation,Google Ads,Lead Generation,2024-04-15,2024-05-22,729171,43782,1128,252,52,8,2.58,646.43,91146.38,North,All Industries
+CAMP-0070,Q3-2024 CloudShift Platform Brand Awareness,Google Ads,Lead Generation,2023-11-25,2023-12-15,298026,479249,25688,6052,1602,396,5.36,11.6,752.59,East,Media
+CAMP-0017,Q1-2023 DataVault Pro Retargeting,Google Ads,Product Launch,2024-08-11,2024-09-28,879818,98631,3100,382,98,22,3.14,283.81,39991.73,West,Unspecified
+CAMP-0074,Q4-2023 DevOps Accelerator Retargeting,Webinar,Lead Generation,2024-08-03,2024-09-05,1464288,203793,4579,415,69,27,2.25,319.78,54232.89,East,Logistics
+CAMP-0131,Q1-2025 DataVault Pro Event Promotion,Trade Show,Retargeting,2024-08-12,2024-10-20,733453,239205,5167,265,58,9,2.16,141.95,81494.78,Unspecified,Telecom
+CAMP-0126,Q3-2025 DataVault Pro Product Launch,Google Ads,Product Launch,2024-09-30,2024-12-14,1066127,383129,22179,5433,1427,349,5.79,48.07,3054.81,East,Banking
+CAMP-0135,Q1-2025 SecureNet Suite Brand Awareness,Email,Event Promotion,2024-08-20,2024-11-12,207823,428431,9557,764,323,53,2.23,21.75,3921.19,All Regions,EdTech
+CAMP-0020,Q4-2023 DataVault Pro Lead Generation,LinkedIn,Event Promotion,2023-03-12,2023-05-20,245661,64710,5127,861,230,38,7.92,47.92,6464.76,All Regions,Manufacturing
+CAMP-0023,Q4-2024 DevOps Accelerator Lead Generation,Email,Lead Generation,2024-04-06,2024-05-10,121735,335791,11480,1833,699,196,3.42,10.6,621.1,South,Unspecified
+CAMP-0106,Q1-2025 DevOps Accelerator Event Promotion,Webinar,Event Promotion,2024-01-07,2024-03-18,1242650,90536,4247,551,110,30,4.69,292.59,41421.67,North,EdTech
+CAMP-0068,Q3-2023 AI Insights Module Event Promotion,Webinar,Lead Generation,2025-02-13,2025-02-27,630183,235755,3380,643,166,48,1.43,186.44,13128.81,Unspecified,Media
+CAMP-0071,Q2-2025 DataVault Pro Event Promotion,Trade Show,Lead Generation,2024-03-31,2024-05-04,772415,175011,4490,236,92,35,2.57,172.03,22069,East,EdTech
+CAMP-0065,Q4-2025 DataVault Pro Retargeting,Google Ads,Brand Awareness,2024-01-16,2024-03-13,1348252,194414,13988,2441,637,138,7.19,96.39,9769.94,West,Logistics
+CAMP-0058,Q1-2024 SecureNet Suite Brand Awareness,Content Marketing,Brand Awareness,2025-02-05,2025-04-11,1085332,424698,22951,3580,612,124,5.40,47.29,8752.68,North,Healthcare
+CAMP-0040,Q2-2024 AnalyticsEdge Product Launch,Content Marketing,Event Promotion,2023-06-26,2023-09-24,648675,113046,6606,391,190,53,5.84,98.19,12239.15,West,Logistics
+CAMP-0041,Q2-2024 AnalyticsEdge Lead Generation,SEO,Product Launch,2024-07-31,2024-08-22,1279809,68561,2555,610,182,36,3.73,500.9,35550.25,West,EdTech
+CAMP-0010,Q1-2024 CloudShift Platform Brand Awareness,Content Marketing,Brand Awareness,2024-05-23,2024-08-08,445583,85483,2060,371,85,20,2.41,216.3,22279.15,East,Healthcare
+CAMP-0130,Q3-2024 DataVault Pro Brand Awareness,Webinar,Retargeting,2024-01-06,2024-01-21,1107468,407459,10227,1523,291,57,2.51,108.29,19429.26,South,Retail
+CAMP-0007,Q3-2024 DevOps Accelerator Brand Awareness,LinkedIn,Event Promotion,2023-10-01,2023-12-11,371533,214771,8134,487,234,75,3.79,45.68,4953.77,All Regions,Retail
+CAMP-0102,Q2-2023 AI Insights Module Brand Awareness,Trade Show,Event Promotion,2024-10-26,2024-12-16,550485,179176,13493,2131,903,338,7.53,40.8,1628.65,East,Insurance
+CAMP-0046,Q3-2023 AI Insights Module Brand Awareness,Google Ads,Brand Awareness,2024-04-04,2024-06-17,336558,368499,24137,6012,2112,726,6.55,13.94,463.58,West,Banking
+CAMP-0048,Q4-2024 DataVault Pro Event Promotion,Social Media,Retargeting,2023-09-21,2023-12-07,1179052,211090,15695,1046,264,61,7.44,75.12,19328.72,South,Government
+CAMP-0047,Q2-2024 AI Insights Module Product Launch,Webinar,Retargeting,2023-05-28,2023-07-31,1220946,386803,16360,3132,1115,191,4.23,74.63,6392.39,All Regions,Media
+CAMP-0073,Q1-2024 SecureNet Suite Lead Generation,Content Marketing,Product Launch,2023-03-11,2023-05-06,947204,314337,16427,3574,806,267,5.23,57.66,3547.58,West,Government
+CAMP-0138,Q2-2025 DataVault Pro Lead Generation,SEO,Brand Awareness,2024-08-19,2024-11-07,842120,17712,556,48,15,4,3.14,1514.6,210530,North,Manufacturing
+CAMP-0136,Q4-2024 SecureNet Suite Product Launch,LinkedIn,Brand Awareness,2024-10-03,2024-11-27,854151,91100,6901,556,188,68,7.58,123.77,12561.04,South,Logistics
+CAMP-0079,Q4-2023 AnalyticsEdge Event Promotion,Google Ads,Product Launch,2023-07-30,2023-10-14,455866,287828,4044,650,217,84,1.41,112.73,5426.98,South,Banking
+CAMP-0057,Q1-2024 CloudShift Platform Product Launch,Google Ads,Lead Generation,2024-08-04,2024-10-20,1457533,421919,29701,3588,1153,307,7.04,49.07,4747.66,West,Media
+CAMP-0075,Q2-2024 DataVault Pro Event Promotion,Content Marketing,Event Promotion,2023-03-30,2023-04-30,1403041,174069,8262,1758,612,225,4.75,169.82,6235.74,West,Manufacturing
+CAMP-0015,Q3-2025 AnalyticsEdge Event Promotion,Webinar,Retargeting,2024-09-24,2024-10-29,309824,128065,9795,708,308,99,7.65,31.63,3129.54,South,All Industries
+CAMP-0061,Q1-2023 AI Insights Module Retargeting,Trade Show,Lead Generation,2024-12-28,2025-03-20,62512,12854,937,217,74,11,7.29,66.72,5682.91,East,EdTech
+CAMP-0149,Q4-2024 SecureNet Suite Brand Awareness,Webinar,Event Promotion,2023-02-21,2023-04-04,855078,128028,7208,1106,534,130,5.63,118.63,6577.52,South,Healthcare
+CAMP-0101,Q1-2024 DevOps Accelerator Product Launch,Webinar,Product Launch,2024-11-25,2025-01-22,844621,193646,14969,2695,1341,223,7.73,56.44,3787.54,South,Telecom
+CAMP-0095,Q2-2024 AnalyticsEdge Product Launch,Webinar,Product Launch,2024-08-12,2024-10-04,1458178,227001,7647,1785,688,257,3.37,190.69,5673.84,North,Manufacturing
+CAMP-0012,Q1-2025 SecureNet Suite Product Launch,Social Media,Retargeting,2024-09-14,2024-10-26,879174,164865,9397,812,181,49,5.70,93.56,17942.33,West,Media
+CAMP-0038,Q4-2023 DataVault Pro Product Launch,Content Marketing,Brand Awareness,2023-01-04,2023-03-01,105332,306376,22333,5368,2271,694,7.29,4.72,151.78,South,Insurance
+CAMP-0049,Q3-2024 DataVault Pro Lead Generation,Google Ads,Brand Awareness,2023-01-19,2023-03-10,92336,148345,2288,524,162,21,1.54,40.36,4396.95,North,Telecom
+CAMP-0093,Q2-2025 AI Insights Module Retargeting,Content Marketing,Brand Awareness,2023-01-05,2023-02-28,429370,440621,26431,3118,1204,326,6.00,16.24,1317.09,West,Manufacturing
+CAMP-0140,Q1-2023 CloudShift Platform Retargeting,LinkedIn,Product Launch,2024-09-02,2024-10-08,478526,379093,14412,1425,699,177,3.80,33.2,2703.54,All Regions,Media
+CAMP-0139,Q4-2023 SecureNet Suite Lead Generation,SEO,Event Promotion,2023-11-04,2023-11-27,343960,122332,3955,630,214,58,3.23,86.97,5930.34,North,Media
+CAMP-0110,Q2-2025 DevOps Accelerator Retargeting,Email,Retargeting,2023-10-21,2023-12-23,442809,103840,3911,598,217,42,3.77,113.22,10543.07,North,EdTech
+CAMP-0050,Q3-2024 DevOps Accelerator Lead Generation,Content Marketing,Event Promotion,2024-02-10,2024-03-23,799951,176645,2136,355,99,36,1.21,374.51,22220.86,Unspecified,Healthcare
+CAMP-0030,Q2-2023 AI Insights Module Brand Awareness,LinkedIn,Event Promotion,2024-04-14,2024-06-18,1039457,40361,861,95,26,5,2.13,1207.27,207891.4,East,Telecom
+CAMP-0004,Q1-2025 AnalyticsEdge Event Promotion,SEO,Event Promotion,2024-12-01,2025-01-25,999735,402005,14593,1055,453,116,3.63,68.51,8618.41,North,All Industries
+CAMP-0011,Q4-2025 DataVault Pro Retargeting,Content Marketing,Lead Generation,2024-01-14,2024-04-02,1004925,44343,2360,408,81,9,5.32,425.82,111658.33,East,Retail
+CAMP-0063,Q4-2025 DataVault Pro Brand Awareness,SEO,Retargeting,2023-10-15,2023-11-04,1148650,365399,18392,1547,649,132,5.03,62.45,8701.89,All Regions,Telecom
+CAMP-0103,Q1-2023 DataVault Pro Retargeting,Content Marketing,Brand Awareness,2023-04-07,2023-06-25,215105,177424,4954,1008,495,124,2.79,43.42,1734.72,South,All Industries
+CAMP-0033,Q4-2025 CloudShift Platform Retargeting,Webinar,Retargeting,2024-02-11,2024-04-26,926739,430901,11989,1971,933,220,2.78,77.3,4212.45,North,Telecom
+CAMP-0120,Q4-2023 AnalyticsEdge Product Launch,Email,Brand Awareness,2023-01-13,2023-01-31,1245125,383832,15667,3601,864,297,4.08,79.47,4192.34,All Regions,Banking
+CAMP-0144,Q4-2024 DevOps Accelerator Event Promotion,LinkedIn,Lead Generation,2024-06-29,2024-08-22,1331429,435674,9454,1254,198,35,2.17,141.01,38040.83,West,Insurance
+CAMP-0022,Q3-2024 AI Insights Module Product Launch,Email,Product Launch,2024-03-17,2024-06-10,616265,498467,21669,1722,788,296,4.35,28.44,2081.98,North,EdTech
+CAMP-0064,Q1-2023 DataVault Pro Brand Awareness,Trade Show,Retargeting,2023-05-13,2023-06-03,1165930,123339,4815,956,431,112,3.90,242.15,10410.09,South,Unspecified
+CAMP-0143,Q2-2023 CloudShift Platform Brand Awareness,SEO,Product Launch,2024-09-25,2024-12-04,698375,213239,2242,137,53,6,1.05,311.5,116395.83,North,Healthcare
+CAMP-0098,Q2-2025 AI Insights Module Product Launch,Trade Show,Retargeting,2024-06-21,2024-08-28,1096240,373451,20558,2188,869,163,5.50,53.32,6725.4,West,Retail
+CAMP-0128,Q1-2023 CloudShift Platform Brand Awareness,SEO,Brand Awareness,2023-08-06,2023-09-22,1356029,447812,8675,685,323,79,1.94,156.31,17164.92,West,EdTech
+CAMP-0118,Q3-2023 CloudShift Platform Retargeting,Social Media,Retargeting,2024-09-15,2024-11-23,1465017,116289,2008,331,82,19,1.73,729.59,77106.16,All Regions,Logistics
+CAMP-0096,Q4-2023 DataVault Pro Event Promotion,Trade Show,Event Promotion,2023-12-27,2024-02-03,1202247,291796,17648,2094,753,278,6.05,68.12,4324.63,West,Government
+CAMP-0069,Q2-2024 SecureNet Suite Event Promotion,Google Ads,Product Launch,2023-10-17,2023-12-29,1330523,36706,1999,478,196,67,5.45,665.59,19858.55,North,Banking
+CAMP-0045,Q4-2024 AI Insights Module Retargeting,Content Marketing,Brand Awareness,2023-08-11,2023-11-06,658344,443634,10302,1907,767,158,2.32,63.9,4166.73,East,Media
+CAMP-0056,Q3-2024 SecureNet Suite Lead Generation,SEO,Event Promotion,2023-09-27,2023-12-14,920383,406818,7190,1407,453,161,1.77,128.01,5716.66,North,Retail
+CAMP-0132,Q3-2025 DataVault Pro Event Promotion,Content Marketing,Lead Generation,2024-05-02,2024-07-24,383942,282310,10313,1269,344,79,3.65,37.23,4860.03,South,Unspecified
+CAMP-0078,Q2-2024 CloudShift Platform Product Launch,Google Ads,Lead Generation,2023-11-14,2023-12-29,1195610,490723,19867,2501,826,198,4.05,60.18,6038.43,West,Unspecified
+CAMP-0094,Q3-2024 DevOps Accelerator Lead Generation,Google Ads,Retargeting,2023-03-02,2023-05-23,1473453,359948,13786,3191,1444,496,3.83,106.88,2970.67,North,Unspecified
+CAMP-0037,Q3-2025 SecureNet Suite Lead Generation,Trade Show,Retargeting,2023-11-28,2023-12-28,826370,214180,17034,1589,382,142,7.95,48.51,5819.51,All Regions,EdTech
+CAMP-0081,Q4-2025 DevOps Accelerator Retargeting,Google Ads,Lead Generation,2024-01-23,2024-03-28,1107381,367004,26998,1691,790,194,7.36,41.02,5708.15,North,Retail
+CAMP-0066,Q4-2025 DataVault Pro Retargeting,Google Ads,Brand Awareness,2024-01-04,2024-02-18,837934,279186,12332,2900,1256,358,4.42,67.95,2340.6,South,Telecom
+CAMP-0137,Q4-2023 DataVault Pro Event Promotion,Google Ads,Retargeting,2023-03-18,2023-06-11,1471400,472624,35912,2114,856,232,7.60,40.97,6342.24,South,Telecom
+CAMP-0082,Q4-2025 CloudShift Platform Retargeting,Email,Brand Awareness,2024-10-08,2024-11-27,261525,358939,18952,3927,1954,455,5.28,13.8,574.78,South,Media
+CAMP-0087,Q4-2024 DataVault Pro Lead Generation,Content Marketing,Lead Generation,2024-03-27,2024-06-15,625126,384856,28511,2868,443,59,7.41,21.93,10595.36,West,Logistics
+CAMP-0019,Q2-2024 DevOps Accelerator Retargeting,Trade Show,Brand Awareness,2024-04-20,2024-05-12,828249,233435,14918,1045,480,164,6.39,55.52,5050.3,South,Banking
+CAMP-0085,Q3-2025 DataVault Pro Retargeting,LinkedIn,Brand Awareness,2024-03-04,2024-05-24,1156253,270304,3140,780,138,46,1.16,368.23,25135.93,East,All Industries
+CAMP-0021,Q1-2024 CloudShift Platform Brand Awareness,Social Media,Event Promotion,2024-10-08,2024-11-18,107633,227143,3822,602,119,13,1.68,28.16,8279.46,North,EdTech
+CAMP-0083,Q3-2025 SecureNet Suite Product Launch,Social Media,Event Promotion,2024-08-10,2024-08-29,619851,480486,36565,3632,868,321,7.61,16.95,1931,East,Insurance
+CAMP-0051,Q1-2023 AnalyticsEdge Lead Generation,Google Ads,Lead Generation,2024-11-11,2025-01-23,627203,307390,7174,1657,510,114,2.33,87.43,5501.78,North,Unspecified
+CAMP-0114,Q4-2025 AnalyticsEdge Lead Generation,LinkedIn,Product Launch,2023-02-25,2023-04-14,541972,152664,12157,2476,372,57,7.96,44.58,9508.28,East,Logistics
+CAMP-0013,Q2-2023 DataVault Pro Product Launch,LinkedIn,Lead Generation,2024-11-06,2024-11-29,552015,353724,8674,619,195,30,2.45,63.64,18400.5,North,Telecom
+CAMP-0052,Q4-2023 AnalyticsEdge Brand Awareness,Webinar,Event Promotion,2024-05-07,2024-05-26,224959,451167,32481,1661,633,242,7.20,6.93,929.58,All Regions,Retail
+CAMP-0072,Q4-2025 DevOps Accelerator Retargeting,Trade Show,Lead Generation,2025-01-06,2025-03-07,306030,119190,9396,1639,642,233,7.88,32.57,1313.43,East,Banking
+CAMP-0091,Q1-2025 SecureNet Suite Event Promotion,Email,Retargeting,2023-05-30,2023-08-13,536150,338596,12054,2163,348,110,3.56,44.48,4874.09,South,Logistics
+CAMP-0122,Q2-2024 CloudShift Platform Retargeting,Trade Show,Lead Generation,2024-08-04,2024-09-22,1455318,345478,7509,1592,359,47,2.17,193.81,30964.21,All Regions,Manufacturing
+CAMP-0119,Q2-2023 DevOps Accelerator Event Promotion,Webinar,Lead Generation,2024-06-09,2024-08-24,1184675,281096,8929,1284,574,150,3.18,132.68,7897.83,All Regions,Manufacturing
+CAMP-0100,Q1-2024 AI Insights Module Product Launch,Email,Lead Generation,2023-05-12,2023-07-29,315598,232125,8097,969,350,136,3.49,38.98,2320.57,North,Retail
+CAMP-0031,Q2-2024 AI Insights Module Product Launch,LinkedIn,Event Promotion,2023-08-22,2023-09-28,1116377,479097,30703,6857,3083,1043,6.41,36.36,1070.35,West,Telecom
+CAMP-0088,Q3-2024 SecureNet Suite Brand Awareness,Trade Show,Product Launch,2024-11-10,2025-01-01,363920,147920,4938,1025,297,45,3.34,73.7,8087.11,South,Banking
+CAMP-0117,Q4-2023 DevOps Accelerator Brand Awareness,Google Ads,Event Promotion,2024-10-26,2024-12-27,283690,194348,13747,2004,902,103,7.07,20.64,2754.27,West,Government
+CAMP-0009,Q2-2025 DataVault Pro Brand Awareness,Webinar,Brand Awareness,2023-03-25,2023-05-01,740641,214563,9445,731,110,33,4.40,78.42,22443.67,South,EdTech
+CAMP-0148,Q1-2025 SecureNet Suite Lead Generation,Webinar,Brand Awareness,2024-11-04,2024-12-04,111484,320211,12074,1093,494,187,3.77,9.23,596.17,South,Banking
+CAMP-0125,Q1-2024 SecureNet Suite Lead Generation,SEO,Retargeting,2025-01-09,2025-03-13,251362,63871,2772,397,80,22,4.34,90.68,11425.55,South,Logistics
+CAMP-0029,Q1-2024 DataVault Pro Lead Generation,Trade Show,Lead Generation,2024-03-25,2024-04-17,1092827,144596,2166,295,72,27,1.50,504.54,40475.07,West,All Industries
+CAMP-0005,Q4-2023 DataVault Pro Product Launch,Webinar,Product Launch,2024-11-01,2025-01-14,571371,236502,14931,2173,397,90,6.31,38.27,6348.57,East,EdTech
+CAMP-0104,Q3-2025 AI Insights Module Lead Generation,SEO,Brand Awareness,2024-01-30,2024-03-11,439026,242671,9300,2197,878,317,3.83,47.21,1384.94,South,EdTech
+CAMP-0002,Q3-2023 AI Insights Module Product Launch,Email,Brand Awareness,2023-10-13,2023-12-20,869798,177039,3590,786,254,57,2.03,242.28,15259.61,East,Manufacturing
+CAMP-0141,Q4-2023 CloudShift Platform Brand Awareness,Email,Retargeting,2025-01-01,2025-03-19,1089731,457573,17921,3992,1690,282,3.92,60.81,3864.29,North,Healthcare
+CAMP-0134,Q4-2025 CloudShift Platform Brand Awareness,Content Marketing,Lead Generation,2023-10-20,2023-12-29,1049920,494899,16639,2095,826,208,3.36,63.1,5047.69,West,Insurance
+CAMP-0027,Q4-2024 SecureNet Suite Product Launch,Social Media,Retargeting,2024-06-25,2024-08-05,670108,393672,30605,6486,1769,368,7.77,21.9,1820.95,North,Media
+CAMP-0090,Q4-2023 DataVault Pro Product Launch,Content Marketing,Retargeting,2024-10-26,2025-01-12,933462,107892,5330,1218,601,70,4.94,175.13,13335.17,East,Insurance
+CAMP-0097,Q3-2023 DevOps Accelerator Brand Awareness,Webinar,Lead Generation,2023-04-12,2023-06-16,624157,391961,10257,2380,561,218,2.62,60.85,2863.11,South,Insurance
+CAMP-0025,Q1-2024 AI Insights Module Product Launch,SEO,Retargeting,2023-10-15,2023-10-30,1232744,422648,9382,688,197,49,2.22,131.39,25158.04,East,Government
+CAMP-0001,Q4-2024 DataVault Pro Product Launch,Email,Brand Awareness,2023-08-23,2023-09-13,1401028,233047,16923,3832,744,90,7.26,82.79,15566.98,North,Media
+CAMP-0044,Q2-2023 CloudShift Platform Event Promotion,Email,Event Promotion,2024-04-18,2024-07-17,248038,147975,5981,726,197,77,4.04,41.47,3221.27,Unspecified,Manufacturing
+CAMP-0055,Q4-2023 DataVault Pro Retargeting,SEO,Event Promotion,2023-07-15,2023-09-02,1086820,264140,13863,1849,825,146,5.25,78.4,7443.97,All Regions,EdTech
+CAMP-0036,Q1-2025 SecureNet Suite Product Launch,Social Media,Retargeting,2024-05-07,2024-06-04,619778,27851,971,135,60,23,3.49,638.29,26946.87,North,EdTech
+CAMP-0006,Q3-2023 SecureNet Suite Lead Generation,Webinar,Retargeting,2023-01-19,2023-02-12,292379,281759,9276,1201,420,98,3.29,31.52,2983.46,North,EdTech
+CAMP-0028,Q4-2023 CloudShift Platform Brand Awareness,Google Ads,Retargeting,2024-09-08,2024-11-03,215926,56754,4491,325,124,16,7.91,48.08,13495.38,West,All Industries
+CAMP-0129,Q3-2025 SecureNet Suite Product Launch,Webinar,Product Launch,2023-09-20,2023-12-11,431336,57921,1556,274,52,10,2.69,277.21,43133.6,East,Government
